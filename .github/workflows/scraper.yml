@@ -2,7 +2,7 @@ name: Scraping automatique FootIQ
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # Toutes les 10 minutes
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,13 +22,12 @@ jobs:
           python-version: "3.10"
 
       - name: Install dependencies
-        run: |
-          pip install requests beautifulsoup4 chardet
+        run: pip install requests beautifulsoup4 chardet
 
-      - name: Run scraping script
+      - name: Run scraper
         run: python Classement/scraper.py
 
-      - name: Commit and push updated JSON
+      - name: Commit and push JSON
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
