@@ -3,36 +3,31 @@ name: Scraping automatique FootIQ
 on:
   schedule:
     - cron: "*/10 * * * *"   # Toutes les 10 minutes
-  workflow_dispatch:         # Pour lancer manuellement
+  workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Récupérer le repo
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ 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 }}  # Utilisation du Personal Access Token
+          token: ${{ secrets.GH_PAT }}
           persist-credentials: true
 
-      # 2️⃣ Installer Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
 
-      # 3️⃣ Installer les dépendances
       - name: Install dependencies
         run: |
           pip install requests beautifulsoup4 chardet
 
-      # 4️⃣ Exécuter le scraper
       - name: Run scraping script
         run: python Classement/scraper.py
 
-      # 5️⃣ Commit et push si JSON modifié
       - name: Commit and push updated JSON
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
