@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="../assets/CSS/index.css">
+
+  <title>Classements FootIQ</title>
+  <style>
+    h1 {
+      text-align: center;
+    }
+    select {
+      padding: 5px;
+      font-size: 16px;
+      margin-bottom: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+      background-color: #fff;
+    }
+    th, td {
+      padding: 8px;
+      border: 1px solid #ddd;
+      text-align: center;
+    }
+    th {
+      background-color: #D0662A;
+      color: #fff;
+    }
+    tr:nth-child(even) {
+      background-color: #F9F9F9;
+    }
+  </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">Footastique</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="../index.html">Accueil</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="#">Match</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="../Championnat/championnat.html">Championnat</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link active" href="classment.html">Classement</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="#">Mon Compte</a>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search" method="GET" action="recherche.php">
+                    <input class="form-control me-2" type="search" placeholder="Recherche" aria-label="Search"/>
+                    <button class="btn btn-outline-success" type="submit">Recherche</button>
+                </form>
+                </div>
+            </div>
+        </nav>
+
+<h1>Classements des championnats</h1>
+
+<label for="championnat-select">Choisissez un championnat :</label>
+<select id="championnat-select">
+  <option value="">-- Sélectionnez --</option>
+</select>
+
+<table id="classement-table" style="display:none;">
+  <thead>
+    <tr>
+      <th>Position</th>
+      <th>Équipe</th>
+      <th>Matchs</th>
+      <th>Victoires</th>
+      <th>Nuls</th>
+      <th>Défaites</th>
+      <th>Buts Pour</th>
+      <th>Buts Contre</th>
+      <th>Différence</th>
+      <th>Points</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+<script>
+const JSON_URL = "https://raw.githubusercontent.com/NathanSvbin/FootIQ/main/Classement/classements.json"; // lien raw GitHub
+
+let allData = [];
+
+// Récupérer le JSON
+fetch(JSON_URL)
+  .then(response => response.json())
+  .then(data => {
+    allData = data;
+    const select = document.getElementById("championnat-select");
+    data.forEach(c => {
+      const option = document.createElement("option");
+      option.value = c.championnat;
+      option.textContent = c.championnat;
+      select.appendChild(option);
+    });
+  })
+  .catch(err => {
+    console.error("Erreur en récupérant le JSON :", err);
+    alert("Impossible de récupérer les classements !");
+  });
+
+// Quand on change le championnat sélectionné
+document.getElementById("championnat-select").addEventListener("change", function() {
+  const championnat = this.value;
+  const table = document.getElementById("classement-table");
+  const tbody = table.querySelector("tbody");
+  tbody.innerHTML = "";
+
+  if (!championnat) {
+    table.style.display = "none";
+    return;
+  }
+
+  const cData = allData.find(c => c.championnat === championnat);
+  if (!cData) return;
+
+  cData.equipes.forEach(eq => {
+    const tr = document.createElement("tr");
+    tr.innerHTML = `
+      <td>${eq.position}</td>
+      <td>${eq.nom}</td>
+      <td>${eq.matchs}</td>
+      <td>${eq.victoires}</td>
+      <td>${eq.nuls}</td>
+      <td>${eq.defaites}</td>
+      <td>${eq.buts_pour}</td>
+      <td>${eq.buts_contre}</td>
+      <td>${eq.difference}</td>
+      <td>${eq.points}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+
+  table.style.display = "table";
+});
+</script>
+
+</body>
+</html>
