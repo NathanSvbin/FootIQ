@@ -10,10 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout (sans utiliser tes permissions)
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          persist-credentials: false   # 🚨 IMPORTANT
+          token: ${{ secrets.GH_PAT }}
+          persist-credentials: false
+
 
       - name: Setup Python
         uses: actions/setup-python@v4
