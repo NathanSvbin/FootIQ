@@ -34629,6 +34629,18 @@
       },
       {
         "position": "15",
+        "nom": "Remo Stars FC",
+        "matchs": "12",
+        "victoires": "5",
+        "nuls": "1",
+        "defaites": "6",
+        "buts_pour": "12",
+        "buts_contre": "16",
+        "difference": "-4",
+        "points": "16"
+      },
+      {
+        "position": "16",
         "nom": "Plateau United",
         "matchs": "13",
         "victoires": "5",
@@ -34640,7 +34652,7 @@
         "points": "15"
       },
       {
-        "position": "16",
+        "position": "17",
         "nom": "Barau FC",
         "matchs": "12",
         "victoires": "3",
@@ -34652,7 +34664,7 @@
         "points": "13"
       },
       {
-        "position": "17",
+        "position": "18",
         "nom": "Kun Khalifat FC",
         "matchs": "13",
         "victoires": "3",
@@ -34660,18 +34672,6 @@
         "defaites": "6",
         "buts_pour": "12",
         "buts_contre": "17",
-        "difference": "-5",
-        "points": "13"
-      },
-      {
-        "position": "18",
-        "nom": "Remo Stars FC",
-        "matchs": "11",
-        "victoires": "4",
-        "nuls": "1",
-        "defaites": "6",
-        "buts_pour": "11",
-        "buts_contre": "16",
         "difference": "-5",
         "points": "13"
       },
@@ -34690,13 +34690,13 @@
       {
         "position": "20",
         "nom": "Kano Pillars",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "2",
         "nuls": "3",
-        "defaites": "7",
+        "defaites": "8",
         "buts_pour": "8",
-        "buts_contre": "15",
-        "difference": "-7",
+        "buts_contre": "16",
+        "difference": "-8",
         "points": "6"
       }
     ]
