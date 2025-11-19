@@ -1501,14 +1501,14 @@
       {
         "position": "2",
         "nom": "Palmeiras",
-        "matchs": "33",
+        "matchs": "34",
         "victoires": "21",
-        "nuls": "5",
+        "nuls": "6",
         "defaites": "7",
         "buts_pour": "58",
         "buts_contre": "29",
         "difference": "29",
-        "points": "68"
+        "points": "69"
       },
       {
         "position": "3",
@@ -1681,14 +1681,14 @@
       {
         "position": "17",
         "nom": "EC Vitória",
-        "matchs": "33",
+        "matchs": "34",
         "victoires": "8",
-        "nuls": "11",
+        "nuls": "12",
         "defaites": "14",
         "buts_pour": "29",
         "buts_contre": "47",
         "difference": "-18",
-        "points": "35"
+        "points": "36"
       },
       {
         "position": "18",
@@ -8192,6 +8192,18 @@
       },
       {
         "position": "12",
+        "nom": "Vila Nova FC",
+        "matchs": "38",
+        "victoires": "11",
+        "nuls": "14",
+        "defaites": "13",
+        "buts_pour": "38",
+        "buts_contre": "42",
+        "difference": "-4",
+        "points": "47"
+      },
+      {
+        "position": "13",
         "nom": "América-MG",
         "matchs": "37",
         "victoires": "12",
@@ -8200,18 +8212,6 @@
         "buts_pour": "41",
         "buts_contre": "43",
         "difference": "-2",
-        "points": "46"
-      },
-      {
-        "position": "13",
-        "nom": "Vila Nova FC",
-        "matchs": "37",
-        "victoires": "11",
-        "nuls": "13",
-        "defaites": "13",
-        "buts_pour": "38",
-        "buts_contre": "42",
-        "difference": "-4",
         "points": "46"
       },
       {
@@ -8277,14 +8277,14 @@
       {
         "position": "19",
         "nom": "Volta Redonda",
-        "matchs": "37",
+        "matchs": "38",
         "victoires": "8",
-        "nuls": "11",
+        "nuls": "12",
         "defaites": "18",
         "buts_pour": "24",
         "buts_contre": "41",
         "difference": "-17",
-        "points": "35"
+        "points": "36"
       },
       {
         "position": "20",
