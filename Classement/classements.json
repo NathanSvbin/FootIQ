@@ -31017,6 +31017,18 @@
       },
       {
         "position": "4",
+        "nom": "Asante Kotoko",
+        "matchs": "9",
+        "victoires": "5",
+        "nuls": "4",
+        "defaites": "0",
+        "buts_pour": "11",
+        "buts_contre": "4",
+        "difference": "7",
+        "points": "19"
+      },
+      {
+        "position": "5",
         "nom": "Gold Stars FC",
         "matchs": "10",
         "victoires": "6",
@@ -31028,7 +31040,7 @@
         "points": "19"
       },
       {
-        "position": "5",
+        "position": "6",
         "nom": "Hearts of Oak",
         "matchs": "10",
         "victoires": "4",
@@ -31038,18 +31050,6 @@
         "buts_contre": "4",
         "difference": "4",
         "points": "17"
-      },
-      {
-        "position": "6",
-        "nom": "Asante Kotoko",
-        "matchs": "8",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "0",
-        "buts_pour": "9",
-        "buts_contre": "3",
-        "difference": "6",
-        "points": "16"
       },
       {
         "position": "7",
@@ -31066,13 +31066,13 @@
       {
         "position": "8",
         "nom": "Y. Apostles FC",
-        "matchs": "9",
+        "matchs": "10",
         "victoires": "4",
         "nuls": "2",
-        "defaites": "3",
-        "buts_pour": "10",
-        "buts_contre": "10",
-        "difference": "0",
+        "defaites": "4",
+        "buts_pour": "11",
+        "buts_contre": "12",
+        "difference": "-1",
         "points": "14"
       },
       {
