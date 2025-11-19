@@ -92,7 +92,7 @@ def main():
         except Exception as e:
             print(f"❌ Erreur sur {nom}: {e}")
 
-    filepath = "classement/classements.json"
+    filepath = "Classement/classements.json"
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(all_data, f, ensure_ascii=False, indent=2)
 
@@ -102,6 +102,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
