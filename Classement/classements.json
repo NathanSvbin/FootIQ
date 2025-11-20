@@ -1565,25 +1565,13 @@
         "victoires": "15",
         "nuls": "8",
         "defaites": "11",
-        "buts_pour": "45",
+        "buts_pour": "46",
         "buts_contre": "43",
-        "difference": "2",
+        "difference": "3",
         "points": "53"
       },
       {
         "position": "8",
-        "nom": "FC São Paulo",
-        "matchs": "34",
-        "victoires": "12",
-        "nuls": "10",
-        "defaites": "12",
-        "buts_pour": "37",
-        "buts_contre": "36",
-        "difference": "1",
-        "points": "46"
-      },
-      {
-        "position": "9",
         "nom": "RB Bragantino",
         "matchs": "34",
         "victoires": "13",
@@ -1595,7 +1583,31 @@
         "points": "45"
       },
       {
+        "position": "9",
+        "nom": "FC São Paulo",
+        "matchs": "34",
+        "victoires": "12",
+        "nuls": "9",
+        "defaites": "13",
+        "buts_pour": "37",
+        "buts_contre": "37",
+        "difference": "0",
+        "points": "45"
+      },
+      {
         "position": "10",
+        "nom": "Corinthians",
+        "matchs": "34",
+        "victoires": "12",
+        "nuls": "9",
+        "defaites": "13",
+        "buts_pour": "36",
+        "buts_contre": "38",
+        "difference": "-2",
+        "points": "45"
+      },
+      {
+        "position": "11",
         "nom": "Atlético-MG",
         "matchs": "34",
         "victoires": "11",
@@ -1605,18 +1617,6 @@
         "buts_contre": "39",
         "difference": "-2",
         "points": "44"
-      },
-      {
-        "position": "11",
-        "nom": "Corinthians",
-        "matchs": "34",
-        "victoires": "11",
-        "nuls": "10",
-        "defaites": "13",
-        "buts_pour": "35",
-        "buts_contre": "38",
-        "difference": "-3",
-        "points": "43"
       },
       {
         "position": "12",
@@ -1698,8 +1698,8 @@
         "nuls": "10",
         "defaites": "16",
         "buts_pour": "37",
-        "buts_contre": "52",
-        "difference": "-15",
+        "buts_contre": "53",
+        "difference": "-16",
         "points": "34"
       },
       {
