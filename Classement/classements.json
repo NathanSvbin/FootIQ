@@ -19070,6 +19070,18 @@
       },
       {
         "position": "15",
+        "nom": "Persijap",
+        "matchs": "12",
+        "victoires": "2",
+        "nuls": "3",
+        "defaites": "7",
+        "buts_pour": "10",
+        "buts_contre": "18",
+        "difference": "-8",
+        "points": "9"
+      },
+      {
+        "position": "16",
         "nom": "PSBS Biak",
         "matchs": "11",
         "victoires": "2",
@@ -19079,18 +19091,6 @@
         "buts_contre": "20",
         "difference": "-10",
         "points": "9"
-      },
-      {
-        "position": "16",
-        "nom": "Persijap",
-        "matchs": "11",
-        "victoires": "2",
-        "nuls": "2",
-        "defaites": "7",
-        "buts_pour": "10",
-        "buts_contre": "18",
-        "difference": "-8",
-        "points": "8"
       },
       {
         "position": "17",
@@ -19107,14 +19107,14 @@
       {
         "position": "18",
         "nom": "Semen Padang",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "1",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "9",
         "buts_pour": "6",
         "buts_contre": "17",
         "difference": "-11",
-        "points": "4"
+        "points": "5"
       }
     ]
   },
