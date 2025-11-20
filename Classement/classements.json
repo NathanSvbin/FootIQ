@@ -18916,13 +18916,13 @@
         "position": "2",
         "nom": "Persija",
         "matchs": "12",
-        "victoires": "7",
-        "nuls": "3",
+        "victoires": "8",
+        "nuls": "2",
         "defaites": "2",
-        "buts_pour": "23",
+        "buts_pour": "24",
         "buts_contre": "12",
-        "difference": "11",
-        "points": "24"
+        "difference": "12",
+        "points": "26"
       },
       {
         "position": "3",
@@ -19034,18 +19034,6 @@
       },
       {
         "position": "12",
-        "nom": "Persik",
-        "matchs": "12",
-        "victoires": "3",
-        "nuls": "4",
-        "defaites": "5",
-        "buts_pour": "13",
-        "buts_contre": "16",
-        "difference": "-3",
-        "points": "13"
-      },
-      {
-        "position": "13",
         "nom": "PSM Makassar",
         "matchs": "10",
         "victoires": "2",
@@ -19054,6 +19042,18 @@
         "buts_pour": "10",
         "buts_contre": "9",
         "difference": "1",
+        "points": "12"
+      },
+      {
+        "position": "13",
+        "nom": "Persik",
+        "matchs": "12",
+        "victoires": "3",
+        "nuls": "3",
+        "defaites": "6",
+        "buts_pour": "13",
+        "buts_contre": "17",
+        "difference": "-4",
         "points": "12"
       },
       {
