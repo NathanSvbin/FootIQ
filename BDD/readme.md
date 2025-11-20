@@ -1,0 +1,8 @@
+Continent ( Id, Nom, Image )
+Pays ( Id, Nom, Image, Id_continent )
+Championnat ( Id, Nom, Image, Id_pays )
+Compétitions ( Id, Nom )
+Equipe ( Id, Nom, Image, Id_championnat )
+Joueurs ( Id, Nom, Prenom, Age, Naissance, Id_equipe )
+Matches ( Id, Id_equipe1, Id_equipe2, Date, Id_Championnat )
+Trophee ( Id, Nom, Id_championnat )
