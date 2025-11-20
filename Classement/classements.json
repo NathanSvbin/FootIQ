@@ -32257,14 +32257,14 @@
       {
         "position": "1",
         "nom": "Svay Rieng",
-        "matchs": "8",
-        "victoires": "7",
+        "matchs": "9",
+        "victoires": "8",
         "nuls": "0",
         "defaites": "1",
-        "buts_pour": "27",
-        "buts_contre": "6",
-        "difference": "21",
-        "points": "21"
+        "buts_pour": "33",
+        "buts_contre": "7",
+        "difference": "26",
+        "points": "24"
       },
       {
         "position": "2",
@@ -32281,14 +32281,14 @@
       {
         "position": "3",
         "nom": "Phnom Penh",
-        "matchs": "8",
-        "victoires": "5",
+        "matchs": "9",
+        "victoires": "6",
         "nuls": "3",
         "defaites": "0",
-        "buts_pour": "18",
+        "buts_pour": "19",
         "buts_contre": "10",
-        "difference": "8",
-        "points": "18"
+        "difference": "9",
+        "points": "21"
       },
       {
         "position": "4",
@@ -32305,13 +32305,13 @@
       {
         "position": "5",
         "nom": "Nagaworld FC",
-        "matchs": "9",
+        "matchs": "10",
         "victoires": "4",
         "nuls": "3",
-        "defaites": "2",
+        "defaites": "3",
         "buts_pour": "15",
-        "buts_contre": "11",
-        "difference": "4",
+        "buts_contre": "12",
+        "difference": "3",
         "points": "15"
       },
       {
@@ -32377,13 +32377,13 @@
       {
         "position": "11",
         "nom": "Dangkor Senchey",
-        "matchs": "9",
+        "matchs": "10",
         "victoires": "1",
         "nuls": "1",
-        "defaites": "7",
-        "buts_pour": "8",
-        "buts_contre": "23",
-        "difference": "-15",
+        "defaites": "8",
+        "buts_pour": "9",
+        "buts_contre": "29",
+        "difference": "-20",
         "points": "4"
       }
     ]
