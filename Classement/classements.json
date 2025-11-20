@@ -1561,14 +1561,14 @@
       {
         "position": "7",
         "nom": "EC Bahia",
-        "matchs": "33",
+        "matchs": "34",
         "victoires": "15",
-        "nuls": "8",
+        "nuls": "9",
         "defaites": "10",
         "buts_pour": "44",
         "buts_contre": "40",
         "difference": "4",
-        "points": "53"
+        "points": "54"
       },
       {
         "position": "8",
@@ -1705,14 +1705,14 @@
       {
         "position": "19",
         "nom": "Fortaleza",
-        "matchs": "33",
+        "matchs": "34",
         "victoires": "7",
-        "nuls": "10",
+        "nuls": "11",
         "defaites": "16",
         "buts_pour": "34",
         "buts_contre": "51",
         "difference": "-17",
-        "points": "31"
+        "points": "32"
       },
       {
         "position": "20",
@@ -21492,13 +21492,13 @@
       {
         "position": "3",
         "nom": "FC Bihor",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "8",
         "nuls": "2",
-        "defaites": "3",
+        "defaites": "4",
         "buts_pour": "25",
-        "buts_contre": "14",
-        "difference": "11",
+        "buts_contre": "15",
+        "difference": "10",
         "points": "26"
       },
       {
@@ -21551,6 +21551,18 @@
       },
       {
         "position": "8",
+        "nom": "Concordia",
+        "matchs": "14",
+        "victoires": "7",
+        "nuls": "2",
+        "defaites": "5",
+        "buts_pour": "24",
+        "buts_contre": "14",
+        "difference": "10",
+        "points": "23"
+      },
+      {
+        "position": "9",
         "nom": "FC Voluntari",
         "matchs": "13",
         "victoires": "6",
@@ -21562,7 +21574,7 @@
         "points": "23"
       },
       {
-        "position": "9",
+        "position": "10",
         "nom": "Chindia",
         "matchs": "13",
         "victoires": "6",
@@ -21574,7 +21586,7 @@
         "points": "21"
       },
       {
-        "position": "10",
+        "position": "11",
         "nom": "ACSM Poli Iasi",
         "matchs": "13",
         "victoires": "6",
@@ -21584,18 +21596,6 @@
         "buts_contre": "14",
         "difference": "0",
         "points": "21"
-      },
-      {
-        "position": "11",
-        "nom": "Concordia",
-        "matchs": "13",
-        "victoires": "6",
-        "nuls": "2",
-        "defaites": "5",
-        "buts_pour": "23",
-        "buts_contre": "14",
-        "difference": "9",
-        "points": "20"
       },
       {
         "position": "12",
