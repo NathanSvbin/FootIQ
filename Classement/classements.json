@@ -2632,8 +2632,8 @@
         "victoires": "5",
         "nuls": "4",
         "defaites": "0",
-        "buts_pour": "11",
-        "buts_contre": "5",
+        "buts_pour": "12",
+        "buts_contre": "6",
         "difference": "6",
         "points": "19"
       },
@@ -2644,8 +2644,8 @@
         "victoires": "5",
         "nuls": "2",
         "defaites": "2",
-        "buts_pour": "15",
-        "buts_contre": "8",
+        "buts_pour": "16",
+        "buts_contre": "9",
         "difference": "7",
         "points": "17"
       },
@@ -6500,14 +6500,14 @@
       {
         "position": "1",
         "nom": "Troyes",
-        "matchs": "14",
+        "matchs": "15",
         "victoires": "8",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "2",
         "buts_pour": "26",
         "buts_contre": "14",
         "difference": "12",
-        "points": "28"
+        "points": "29"
       },
       {
         "position": "2",
@@ -6535,6 +6535,18 @@
       },
       {
         "position": "4",
+        "nom": "Pau FC",
+        "matchs": "15",
+        "victoires": "7",
+        "nuls": "5",
+        "defaites": "3",
+        "buts_pour": "21",
+        "buts_contre": "21",
+        "difference": "0",
+        "points": "26"
+      },
+      {
+        "position": "5",
         "nom": "Montpellier",
         "matchs": "14",
         "victoires": "7",
@@ -6544,18 +6556,6 @@
         "buts_contre": "12",
         "difference": "5",
         "points": "24"
-      },
-      {
-        "position": "5",
-        "nom": "Pau FC",
-        "matchs": "14",
-        "victoires": "6",
-        "nuls": "5",
-        "defaites": "3",
-        "buts_pour": "20",
-        "buts_contre": "21",
-        "difference": "-1",
-        "points": "23"
       },
       {
         "position": "6",
@@ -6571,27 +6571,27 @@
       },
       {
         "position": "7",
-        "nom": "Le Mans FC",
-        "matchs": "14",
+        "nom": "USL Dunkerque",
+        "matchs": "15",
         "victoires": "5",
         "nuls": "6",
-        "defaites": "3",
-        "buts_pour": "17",
-        "buts_contre": "15",
-        "difference": "2",
-        "points": "21"
-      },
-      {
-        "position": "8",
-        "nom": "USL Dunkerque",
-        "matchs": "14",
-        "victoires": "5",
-        "nuls": "5",
         "defaites": "4",
         "buts_pour": "25",
         "buts_contre": "17",
         "difference": "8",
-        "points": "20"
+        "points": "21"
+      },
+      {
+        "position": "8",
+        "nom": "Le Mans FC",
+        "matchs": "15",
+        "victoires": "5",
+        "nuls": "6",
+        "defaites": "4",
+        "buts_pour": "17",
+        "buts_contre": "16",
+        "difference": "1",
+        "points": "21"
       },
       {
         "position": "9",
@@ -6608,17 +6608,29 @@
       {
         "position": "10",
         "nom": "Grenoble",
-        "matchs": "14",
+        "matchs": "15",
         "victoires": "4",
-        "nuls": "5",
+        "nuls": "6",
         "defaites": "5",
         "buts_pour": "16",
         "buts_contre": "17",
         "difference": "-1",
-        "points": "17"
+        "points": "18"
       },
       {
         "position": "11",
+        "nom": "FC Annecy",
+        "matchs": "15",
+        "victoires": "4",
+        "nuls": "5",
+        "defaites": "6",
+        "buts_pour": "16",
+        "buts_contre": "16",
+        "difference": "0",
+        "points": "17"
+      },
+      {
+        "position": "12",
         "nom": "Clermont Foot",
         "matchs": "14",
         "victoires": "4",
@@ -6630,28 +6642,16 @@
         "points": "17"
       },
       {
-        "position": "12",
-        "nom": "FC Annecy",
-        "matchs": "14",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "6",
-        "buts_pour": "16",
-        "buts_contre": "16",
-        "difference": "0",
-        "points": "16"
-      },
-      {
         "position": "13",
         "nom": "Rodez AF",
-        "matchs": "14",
+        "matchs": "15",
         "victoires": "4",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "6",
         "buts_pour": "14",
         "buts_contre": "20",
         "difference": "-6",
-        "points": "16"
+        "points": "17"
       },
       {
         "position": "14",
@@ -6680,38 +6680,38 @@
       {
         "position": "16",
         "nom": "Stade Lavallois",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "2",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "5",
         "buts_pour": "10",
         "buts_contre": "15",
         "difference": "-5",
-        "points": "12"
+        "points": "13"
       },
       {
         "position": "17",
         "nom": "US Boulogne",
-        "matchs": "14",
+        "matchs": "15",
         "victoires": "3",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "8",
         "buts_pour": "13",
         "buts_contre": "22",
         "difference": "-9",
-        "points": "12"
+        "points": "13"
       },
       {
         "position": "18",
         "nom": "SC Bastia",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "1",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "8",
         "buts_pour": "6",
         "buts_contre": "17",
         "difference": "-11",
-        "points": "7"
+        "points": "8"
       }
     ]
   },
@@ -6724,13 +6724,13 @@
         "position": "1",
         "nom": "Bodø/Glimt",
         "matchs": "29",
-        "victoires": "21",
-        "nuls": "4",
+        "victoires": "20",
+        "nuls": "5",
         "defaites": "4",
         "buts_pour": "79",
-        "buts_contre": "27",
-        "difference": "52",
-        "points": "67"
+        "buts_contre": "28",
+        "difference": "51",
+        "points": "65"
       },
       {
         "position": "2",
@@ -6818,6 +6818,18 @@
       },
       {
         "position": "9",
+        "nom": "KFUM",
+        "matchs": "29",
+        "victoires": "8",
+        "nuls": "12",
+        "defaites": "9",
+        "buts_pour": "42",
+        "buts_contre": "38",
+        "difference": "4",
+        "points": "36"
+      },
+      {
+        "position": "10",
         "nom": "Molde",
         "matchs": "28",
         "victoires": "11",
@@ -6827,18 +6839,6 @@
         "buts_contre": "41",
         "difference": "1",
         "points": "36"
-      },
-      {
-        "position": "10",
-        "nom": "KFUM",
-        "matchs": "29",
-        "victoires": "8",
-        "nuls": "11",
-        "defaites": "10",
-        "buts_pour": "41",
-        "buts_contre": "38",
-        "difference": "3",
-        "points": "35"
       },
       {
         "position": "11",
@@ -7885,6 +7885,18 @@
       },
       {
         "position": "3",
+        "nom": "CS U Craiova",
+        "matchs": "17",
+        "victoires": "9",
+        "nuls": "5",
+        "defaites": "3",
+        "buts_pour": "29",
+        "buts_contre": "19",
+        "difference": "10",
+        "points": "32"
+      },
+      {
+        "position": "4",
         "nom": "FC Dinamo",
         "matchs": "16",
         "victoires": "8",
@@ -7896,28 +7908,16 @@
         "points": "30"
       },
       {
-        "position": "4",
-        "nom": "CS U Craiova",
-        "matchs": "17",
-        "victoires": "8",
-        "nuls": "6",
-        "defaites": "3",
-        "buts_pour": "27",
-        "buts_contre": "18",
-        "difference": "9",
-        "points": "30"
-      },
-      {
         "position": "5",
         "nom": "FC Arges",
         "matchs": "17",
         "victoires": "8",
-        "nuls": "4",
-        "defaites": "5",
-        "buts_pour": "20",
-        "buts_contre": "17",
-        "difference": "3",
-        "points": "28"
+        "nuls": "3",
+        "defaites": "6",
+        "buts_pour": "21",
+        "buts_contre": "19",
+        "difference": "2",
+        "points": "27"
       },
       {
         "position": "6",
@@ -10967,14 +10967,14 @@
       {
         "position": "4",
         "nom": "ETO FC",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "5",
-        "nuls": "5",
+        "nuls": "6",
         "defaites": "2",
         "buts_pour": "24",
         "buts_contre": "14",
         "difference": "10",
-        "points": "20"
+        "points": "21"
       },
       {
         "position": "5",
@@ -11015,14 +11015,14 @@
       {
         "position": "8",
         "nom": "Zalaegerszeg",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "3",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "6",
         "buts_pour": "21",
         "buts_contre": "22",
         "difference": "-1",
-        "points": "13"
+        "points": "14"
       },
       {
         "position": "9",
@@ -11703,38 +11703,38 @@
       {
         "position": "1",
         "nom": "ADO Den Haag",
-        "matchs": "14",
+        "matchs": "15",
         "victoires": "13",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "0",
         "buts_pour": "43",
         "buts_contre": "11",
         "difference": "32",
-        "points": "40"
+        "points": "41"
       },
       {
         "position": "2",
         "nom": "SC Cambuur",
-        "matchs": "16",
+        "matchs": "17",
         "victoires": "10",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "2",
         "buts_pour": "37",
         "buts_contre": "21",
         "difference": "16",
-        "points": "34"
+        "points": "35"
       },
       {
         "position": "3",
         "nom": "PSV U21",
-        "matchs": "15",
-        "victoires": "8",
+        "matchs": "16",
+        "victoires": "9",
         "nuls": "3",
         "defaites": "4",
-        "buts_pour": "30",
+        "buts_pour": "31",
         "buts_contre": "24",
-        "difference": "6",
-        "points": "27"
+        "difference": "7",
+        "points": "30"
       },
       {
         "position": "4",
@@ -11751,65 +11751,77 @@
       {
         "position": "5",
         "nom": "FC Den Bosch",
-        "matchs": "15",
-        "victoires": "7",
+        "matchs": "16",
+        "victoires": "8",
         "nuls": "2",
         "defaites": "6",
-        "buts_pour": "28",
+        "buts_pour": "29",
         "buts_contre": "30",
-        "difference": "-2",
-        "points": "23"
+        "difference": "-1",
+        "points": "26"
       },
       {
         "position": "6",
         "nom": "Willem II",
-        "matchs": "16",
-        "victoires": "6",
+        "matchs": "17",
+        "victoires": "7",
         "nuls": "5",
         "defaites": "5",
-        "buts_pour": "20",
+        "buts_pour": "21",
         "buts_contre": "25",
-        "difference": "-5",
-        "points": "23"
+        "difference": "-4",
+        "points": "26"
       },
       {
         "position": "7",
         "nom": "De Graafschap",
-        "matchs": "14",
-        "victoires": "6",
+        "matchs": "15",
+        "victoires": "7",
         "nuls": "4",
         "defaites": "4",
-        "buts_pour": "25",
+        "buts_pour": "26",
         "buts_contre": "21",
-        "difference": "4",
-        "points": "22"
+        "difference": "5",
+        "points": "25"
       },
       {
         "position": "8",
         "nom": "RKC Waalwijk",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "6",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "5",
         "buts_pour": "27",
         "buts_contre": "26",
         "difference": "1",
-        "points": "22"
+        "points": "23"
       },
       {
         "position": "9",
         "nom": "VVV-Venlo",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "7",
         "nuls": "0",
-        "defaites": "8",
+        "defaites": "9",
         "buts_pour": "22",
-        "buts_contre": "20",
-        "difference": "2",
+        "buts_contre": "21",
+        "difference": "1",
         "points": "21"
       },
       {
         "position": "10",
+        "nom": "FC Dordrecht",
+        "matchs": "16",
+        "victoires": "5",
+        "nuls": "6",
+        "defaites": "5",
+        "buts_pour": "19",
+        "buts_contre": "19",
+        "difference": "0",
+        "points": "21"
+      },
+      {
+        "position": "11",
         "nom": "FC Emmen",
         "matchs": "16",
         "victoires": "6",
@@ -11821,124 +11833,112 @@
         "points": "21"
       },
       {
-        "position": "11",
-        "nom": "FC Dordrecht",
-        "matchs": "15",
-        "victoires": "5",
-        "nuls": "5",
-        "defaites": "5",
-        "buts_pour": "18",
-        "buts_contre": "18",
-        "difference": "0",
-        "points": "20"
-      },
-      {
         "position": "12",
         "nom": "Helmond Sport",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "6",
         "nuls": "1",
-        "defaites": "8",
+        "defaites": "9",
         "buts_pour": "21",
-        "buts_contre": "22",
-        "difference": "-1",
+        "buts_contre": "23",
+        "difference": "-2",
         "points": "19"
       },
       {
         "position": "13",
-        "nom": "Almere City",
-        "matchs": "15",
+        "nom": "FC Eindhoven",
+        "matchs": "17",
         "victoires": "5",
-        "nuls": "2",
-        "defaites": "8",
-        "buts_pour": "28",
-        "buts_contre": "23",
-        "difference": "5",
-        "points": "17"
+        "nuls": "3",
+        "defaites": "9",
+        "buts_pour": "16",
+        "buts_contre": "33",
+        "difference": "-17",
+        "points": "18"
       },
       {
         "position": "14",
-        "nom": "Utrecht U21",
-        "matchs": "15",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "7",
-        "buts_pour": "18",
+        "nom": "Almere City",
+        "matchs": "16",
+        "victoires": "5",
+        "nuls": "2",
+        "defaites": "9",
+        "buts_pour": "28",
         "buts_contre": "24",
-        "difference": "-6",
-        "points": "16"
+        "difference": "4",
+        "points": "17"
       },
       {
         "position": "15",
+        "nom": "Utrecht U21",
+        "matchs": "16",
+        "victoires": "4",
+        "nuls": "4",
+        "defaites": "8",
+        "buts_pour": "18",
+        "buts_contre": "25",
+        "difference": "-7",
+        "points": "16"
+      },
+      {
+        "position": "16",
         "nom": "TOP Oss",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "3",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "6",
         "buts_pour": "19",
         "buts_contre": "28",
         "difference": "-9",
-        "points": "15"
-      },
-      {
-        "position": "16",
-        "nom": "MVV Maastricht",
-        "matchs": "15",
-        "victoires": "4",
-        "nuls": "3",
-        "defaites": "8",
-        "buts_pour": "18",
-        "buts_contre": "29",
-        "difference": "-11",
-        "points": "15"
+        "points": "16"
       },
       {
         "position": "17",
-        "nom": "FC Eindhoven",
+        "nom": "MVV Maastricht",
         "matchs": "16",
         "victoires": "4",
-        "nuls": "3",
-        "defaites": "9",
-        "buts_pour": "15",
-        "buts_contre": "33",
-        "difference": "-18",
-        "points": "15"
+        "nuls": "4",
+        "defaites": "8",
+        "buts_pour": "19",
+        "buts_contre": "30",
+        "difference": "-11",
+        "points": "16"
       },
       {
         "position": "18",
         "nom": "AZ Alkmaar U21",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "4",
-        "nuls": "2",
+        "nuls": "3",
         "defaites": "9",
-        "buts_pour": "21",
-        "buts_contre": "28",
+        "buts_pour": "22",
+        "buts_contre": "29",
         "difference": "-7",
-        "points": "14"
+        "points": "15"
       },
       {
         "position": "19",
         "nom": "Ajax U21",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "1",
         "nuls": "6",
-        "defaites": "8",
+        "defaites": "9",
         "buts_pour": "20",
-        "buts_contre": "30",
-        "difference": "-10",
+        "buts_contre": "31",
+        "difference": "-11",
         "points": "9"
       },
       {
         "position": "20",
         "nom": "Vitesse",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "5",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "5",
-        "buts_pour": "24",
-        "buts_contre": "24",
+        "buts_pour": "25",
+        "buts_contre": "25",
         "difference": "0",
-        "points": "6"
+        "points": "7"
       }
     ]
   },
@@ -13077,14 +13077,14 @@
       {
         "position": "1",
         "nom": "SK Beveren",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "11",
-        "nuls": "2",
+        "nuls": "3",
         "defaites": "0",
         "buts_pour": "28",
         "buts_contre": "8",
         "difference": "20",
-        "points": "35"
+        "points": "36"
       },
       {
         "position": "2",
@@ -13113,14 +13113,14 @@
       {
         "position": "4",
         "nom": "RFC Liège",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "7",
-        "nuls": "2",
+        "nuls": "3",
         "defaites": "4",
         "buts_pour": "20",
         "buts_contre": "14",
         "difference": "6",
-        "points": "23"
+        "points": "24"
       },
       {
         "position": "5",
@@ -13137,14 +13137,14 @@
       {
         "position": "6",
         "nom": "KAS Eupen",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "5",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "3",
         "buts_pour": "18",
         "buts_contre": "13",
         "difference": "5",
-        "points": "19"
+        "points": "20"
       },
       {
         "position": "7",
@@ -13233,14 +13233,14 @@
       {
         "position": "14",
         "nom": "Francs Borains",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "2",
-        "nuls": "5",
+        "nuls": "6",
         "defaites": "5",
         "buts_pour": "12",
         "buts_contre": "19",
         "difference": "-7",
-        "points": "10"
+        "points": "11"
       },
       {
         "position": "15",
@@ -16224,27 +16224,27 @@
       },
       {
         "position": "12",
-        "nom": "Al-Naft SC",
-        "matchs": "6",
-        "victoires": "2",
-        "nuls": "3",
-        "defaites": "1",
-        "buts_pour": "9",
-        "buts_contre": "4",
-        "difference": "5",
-        "points": "9"
+        "nom": "Mosul SC",
+        "matchs": "7",
+        "victoires": "3",
+        "nuls": "1",
+        "defaites": "3",
+        "buts_pour": "10",
+        "buts_contre": "9",
+        "difference": "1",
+        "points": "10"
       },
       {
         "position": "13",
-        "nom": "Mosul SC",
-        "matchs": "6",
+        "nom": "Al-Naft SC",
+        "matchs": "7",
         "victoires": "2",
-        "nuls": "1",
-        "defaites": "3",
-        "buts_pour": "8",
-        "buts_contre": "8",
-        "difference": "0",
-        "points": "7"
+        "nuls": "3",
+        "defaites": "2",
+        "buts_pour": "10",
+        "buts_contre": "6",
+        "difference": "4",
+        "points": "9"
       },
       {
         "position": "14",
@@ -17773,9 +17773,9 @@
         "victoires": "7",
         "nuls": "3",
         "defaites": "7",
-        "buts_pour": "26",
+        "buts_pour": "27",
         "buts_contre": "34",
-        "difference": "-8",
+        "difference": "-7",
         "points": "24"
       },
       {
@@ -17846,8 +17846,8 @@
         "nuls": "9",
         "defaites": "5",
         "buts_pour": "19",
-        "buts_contre": "20",
-        "difference": "-1",
+        "buts_contre": "21",
+        "difference": "-2",
         "points": "18"
       },
       {
@@ -20628,6 +20628,18 @@
       },
       {
         "position": "3",
+        "nom": "FC Versailles",
+        "matchs": "13",
+        "victoires": "7",
+        "nuls": "3",
+        "defaites": "3",
+        "buts_pour": "17",
+        "buts_contre": "11",
+        "difference": "6",
+        "points": "24"
+      },
+      {
+        "position": "4",
         "nom": "FC Sochaux",
         "matchs": "13",
         "victoires": "6",
@@ -20639,26 +20651,14 @@
         "points": "22"
       },
       {
-        "position": "4",
-        "nom": "FC Versailles",
-        "matchs": "13",
-        "victoires": "6",
-        "nuls": "4",
-        "defaites": "3",
-        "buts_pour": "16",
-        "buts_contre": "11",
-        "difference": "5",
-        "points": "22"
-      },
-      {
         "position": "5",
         "nom": "US Orléans",
         "matchs": "13",
         "victoires": "6",
         "nuls": "3",
         "defaites": "4",
-        "buts_pour": "15",
-        "buts_contre": "19",
+        "buts_pour": "16",
+        "buts_contre": "20",
         "difference": "-4",
         "points": "21"
       },
@@ -20693,8 +20693,8 @@
         "victoires": "4",
         "nuls": "6",
         "defaites": "3",
-        "buts_pour": "15",
-        "buts_contre": "15",
+        "buts_pour": "16",
+        "buts_contre": "16",
         "difference": "0",
         "points": "18"
       },
@@ -20735,16 +20735,16 @@
         "points": "16"
       },
       {
-        "position": "11",
-        "nom": "LB Châteauroux",
+        "position": "12",
+        "nom": "Le Puy Foot",
         "matchs": "13",
         "victoires": "3",
-        "nuls": "7",
-        "defaites": "3",
-        "buts_pour": "16",
-        "buts_contre": "16",
+        "nuls": "6",
+        "defaites": "4",
+        "buts_pour": "17",
+        "buts_contre": "17",
         "difference": "0",
-        "points": "16"
+        "points": "15"
       },
       {
         "position": "13",
@@ -20760,27 +20760,27 @@
       },
       {
         "position": "14",
-        "nom": "Le Puy Foot",
+        "nom": "LB Châteauroux",
         "matchs": "13",
         "victoires": "3",
-        "nuls": "5",
-        "defaites": "5",
+        "nuls": "6",
+        "defaites": "4",
         "buts_pour": "16",
         "buts_contre": "17",
         "difference": "-1",
-        "points": "14"
+        "points": "15"
       },
       {
         "position": "15",
         "nom": "QRM",
         "matchs": "13",
-        "victoires": "3",
-        "nuls": "3",
+        "victoires": "2",
+        "nuls": "4",
         "defaites": "7",
         "buts_pour": "13",
-        "buts_contre": "21",
-        "difference": "-8",
-        "points": "12"
+        "buts_contre": "22",
+        "difference": "-9",
+        "points": "10"
       },
       {
         "position": "16",
@@ -22216,14 +22216,14 @@
       {
         "position": "2",
         "nom": "FC Vaduz",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "9",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "1",
         "buts_pour": "31",
         "buts_contre": "14",
         "difference": "17",
-        "points": "30"
+        "points": "31"
       },
       {
         "position": "3",
@@ -22233,8 +22233,8 @@
         "nuls": "3",
         "defaites": "4",
         "buts_pour": "27",
-        "buts_contre": "17",
-        "difference": "10",
+        "buts_contre": "18",
+        "difference": "9",
         "points": "24"
       },
       {
@@ -22280,46 +22280,46 @@
         "victoires": "4",
         "nuls": "2",
         "defaites": "8",
-        "buts_pour": "12",
+        "buts_pour": "13",
         "buts_contre": "24",
-        "difference": "-12",
+        "difference": "-11",
         "points": "14"
       },
       {
         "position": "8",
         "nom": "Etoile Carouge",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "3",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "7",
         "buts_pour": "12",
         "buts_contre": "17",
         "difference": "-5",
-        "points": "12"
+        "points": "13"
       },
       {
         "position": "9",
         "nom": "Rapperswil-Jona",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "3",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "9",
         "buts_pour": "13",
         "buts_contre": "21",
         "difference": "-8",
-        "points": "10"
+        "points": "11"
       },
       {
         "position": "10",
         "nom": "AC Bellinzona",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "1",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "8",
         "buts_pour": "10",
         "buts_contre": "29",
         "difference": "-19",
-        "points": "7"
+        "points": "8"
       }
     ]
   },
@@ -26931,12 +26931,12 @@
         "nom": "TSV Buchbach",
         "matchs": "19",
         "victoires": "8",
-        "nuls": "4",
-        "defaites": "7",
+        "nuls": "3",
+        "defaites": "8",
         "buts_pour": "33",
-        "buts_contre": "34",
-        "difference": "-1",
-        "points": "28"
+        "buts_contre": "37",
+        "difference": "-4",
+        "points": "27"
       },
       {
         "position": "9",
@@ -26952,6 +26952,18 @@
       },
       {
         "position": "10",
+        "nom": "FC Bayern II",
+        "matchs": "16",
+        "victoires": "7",
+        "nuls": "3",
+        "defaites": "6",
+        "buts_pour": "37",
+        "buts_contre": "26",
+        "difference": "11",
+        "points": "24"
+      },
+      {
+        "position": "11",
         "nom": "DJK Vilzing",
         "matchs": "18",
         "victoires": "7",
@@ -26963,7 +26975,7 @@
         "points": "24"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "SpVgg Ansbach",
         "matchs": "18",
         "victoires": "6",
@@ -26973,18 +26985,6 @@
         "buts_contre": "40",
         "difference": "-5",
         "points": "23"
-      },
-      {
-        "position": "12",
-        "nom": "FC Bayern II",
-        "matchs": "16",
-        "victoires": "6",
-        "nuls": "4",
-        "defaites": "6",
-        "buts_pour": "34",
-        "buts_contre": "26",
-        "difference": "8",
-        "points": "22"
       },
       {
         "position": "13",
@@ -27196,25 +27196,25 @@
         "position": "1",
         "nom": "Lok Leipzig",
         "matchs": "16",
-        "victoires": "12",
-        "nuls": "2",
+        "victoires": "13",
+        "nuls": "1",
         "defaites": "2",
-        "buts_pour": "30",
+        "buts_pour": "31",
         "buts_contre": "9",
-        "difference": "21",
-        "points": "38"
+        "difference": "22",
+        "points": "40"
       },
       {
         "position": "2",
         "nom": "Carl Zeiss Iéna",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "11",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "1",
         "buts_pour": "32",
         "buts_contre": "11",
         "difference": "21",
-        "points": "36"
+        "points": "37"
       },
       {
         "position": "3",
@@ -27242,6 +27242,18 @@
       },
       {
         "position": "5",
+        "nom": "Hallescher FC",
+        "matchs": "16",
+        "victoires": "7",
+        "nuls": "4",
+        "defaites": "5",
+        "buts_pour": "21",
+        "buts_contre": "17",
+        "difference": "4",
+        "points": "25"
+      },
+      {
+        "position": "6",
         "nom": "BFC Preussen",
         "matchs": "15",
         "victoires": "7",
@@ -27253,7 +27265,7 @@
         "points": "25"
       },
       {
-        "position": "6",
+        "position": "7",
         "nom": "FSV Zwickau",
         "matchs": "15",
         "victoires": "7",
@@ -27263,18 +27275,6 @@
         "buts_contre": "17",
         "difference": "3",
         "points": "25"
-      },
-      {
-        "position": "7",
-        "nom": "Hallescher FC",
-        "matchs": "15",
-        "victoires": "7",
-        "nuls": "3",
-        "defaites": "5",
-        "buts_pour": "21",
-        "buts_contre": "17",
-        "difference": "4",
-        "points": "24"
       },
       {
         "position": "8",
@@ -27338,18 +27338,6 @@
       },
       {
         "position": "13",
-        "nom": "Greifswalder FC",
-        "matchs": "16",
-        "victoires": "3",
-        "nuls": "6",
-        "defaites": "7",
-        "buts_pour": "17",
-        "buts_contre": "23",
-        "difference": "-6",
-        "points": "15"
-      },
-      {
-        "position": "14",
         "nom": "ZFC Meuselwitz",
         "matchs": "15",
         "victoires": "3",
@@ -27361,7 +27349,7 @@
         "points": "15"
       },
       {
-        "position": "15",
+        "position": "14",
         "nom": "BFC Dynamo",
         "matchs": "15",
         "victoires": "4",
@@ -27371,6 +27359,18 @@
         "buts_contre": "27",
         "difference": "-9",
         "points": "15"
+      },
+      {
+        "position": "15",
+        "nom": "Greifswalder FC",
+        "matchs": "16",
+        "victoires": "3",
+        "nuls": "5",
+        "defaites": "8",
+        "buts_pour": "17",
+        "buts_contre": "24",
+        "difference": "-7",
+        "points": "14"
       },
       {
         "position": "16",
@@ -34720,6 +34720,18 @@
       },
       {
         "position": "2",
+        "nom": "KCCA FC",
+        "matchs": "7",
+        "victoires": "4",
+        "nuls": "2",
+        "defaites": "1",
+        "buts_pour": "10",
+        "buts_contre": "6",
+        "difference": "4",
+        "points": "14"
+      },
+      {
+        "position": "3",
         "nom": "SC Villa Jogoo",
         "matchs": "6",
         "victoires": "4",
@@ -34729,18 +34741,6 @@
         "buts_contre": "5",
         "difference": "5",
         "points": "13"
-      },
-      {
-        "position": "3",
-        "nom": "KCCA FC",
-        "matchs": "6",
-        "victoires": "3",
-        "nuls": "2",
-        "defaites": "1",
-        "buts_pour": "8",
-        "buts_contre": "5",
-        "difference": "3",
-        "points": "11"
       },
       {
         "position": "4",
@@ -34817,13 +34817,13 @@
       {
         "position": "10",
         "nom": "URA FC",
-        "matchs": "6",
+        "matchs": "7",
         "victoires": "1",
         "nuls": "5",
-        "defaites": "0",
-        "buts_pour": "5",
-        "buts_contre": "4",
-        "difference": "1",
+        "defaites": "1",
+        "buts_pour": "6",
+        "buts_contre": "6",
+        "difference": "0",
         "points": "8"
       },
       {
