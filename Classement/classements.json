@@ -2669,8 +2669,8 @@
         "nuls": "2",
         "defaites": "3",
         "buts_pour": "17",
-        "buts_contre": "14",
-        "difference": "3",
+        "buts_contre": "15",
+        "difference": "2",
         "points": "14"
       },
       {
@@ -2740,9 +2740,9 @@
         "victoires": "2",
         "nuls": "2",
         "defaites": "5",
-        "buts_pour": "9",
+        "buts_pour": "10",
         "buts_contre": "19",
-        "difference": "-10",
+        "difference": "-9",
         "points": "8"
       },
       {
@@ -2903,8 +2903,8 @@
         "victoires": "4",
         "nuls": "6",
         "defaites": "6",
-        "buts_pour": "18",
-        "buts_contre": "21",
+        "buts_pour": "19",
+        "buts_contre": "22",
         "difference": "-3",
         "points": "18"
       },
@@ -2987,8 +2987,8 @@
         "victoires": "3",
         "nuls": "2",
         "defaites": "11",
-        "buts_pour": "13",
-        "buts_contre": "34",
+        "buts_pour": "14",
+        "buts_contre": "35",
         "difference": "-21",
         "points": "11"
       },
@@ -5575,8 +5575,8 @@
         "nuls": "1",
         "defaites": "5",
         "buts_pour": "8",
-        "buts_contre": "11",
-        "difference": "-3",
+        "buts_contre": "12",
+        "difference": "-4",
         "points": "7"
       },
       {
@@ -5586,9 +5586,9 @@
         "victoires": "1",
         "nuls": "1",
         "defaites": "6",
-        "buts_pour": "4",
+        "buts_pour": "5",
         "buts_contre": "15",
-        "difference": "-11",
+        "difference": "-10",
         "points": "4"
       },
       {
@@ -7984,12 +7984,12 @@
         "nom": "Unirea Slobozia",
         "matchs": "17",
         "victoires": "5",
-        "nuls": "3",
-        "defaites": "9",
-        "buts_pour": "17",
+        "nuls": "4",
+        "defaites": "8",
+        "buts_pour": "18",
         "buts_contre": "22",
-        "difference": "-5",
-        "points": "18"
+        "difference": "-4",
+        "points": "19"
       },
       {
         "position": "12",
@@ -8005,18 +8005,6 @@
       },
       {
         "position": "13",
-        "nom": "FK Csikszereda",
-        "matchs": "17",
-        "victoires": "3",
-        "nuls": "7",
-        "defaites": "7",
-        "buts_pour": "18",
-        "buts_contre": "33",
-        "difference": "-15",
-        "points": "16"
-      },
-      {
-        "position": "14",
         "nom": "Petrolul",
         "matchs": "16",
         "victoires": "3",
@@ -8026,6 +8014,18 @@
         "buts_contre": "15",
         "difference": "-5",
         "points": "15"
+      },
+      {
+        "position": "14",
+        "nom": "FK Csikszereda",
+        "matchs": "17",
+        "victoires": "2",
+        "nuls": "8",
+        "defaites": "7",
+        "buts_pour": "18",
+        "buts_contre": "34",
+        "difference": "-16",
+        "points": "14"
       },
       {
         "position": "15",
@@ -14314,14 +14314,14 @@
       {
         "position": "1",
         "nom": "Qarabağ",
-        "matchs": "10",
-        "victoires": "7",
+        "matchs": "11",
+        "victoires": "8",
         "nuls": "2",
         "defaites": "1",
-        "buts_pour": "17",
-        "buts_contre": "3",
-        "difference": "14",
-        "points": "23"
+        "buts_pour": "21",
+        "buts_contre": "5",
+        "difference": "16",
+        "points": "26"
       },
       {
         "position": "2",
@@ -14349,18 +14349,6 @@
       },
       {
         "position": "4",
-        "nom": "Sumqayit",
-        "matchs": "11",
-        "victoires": "6",
-        "nuls": "2",
-        "defaites": "3",
-        "buts_pour": "18",
-        "buts_contre": "11",
-        "difference": "7",
-        "points": "20"
-      },
-      {
-        "position": "5",
         "nom": "Zira FK",
         "matchs": "11",
         "victoires": "5",
@@ -14369,6 +14357,18 @@
         "buts_pour": "18",
         "buts_contre": "12",
         "difference": "6",
+        "points": "20"
+      },
+      {
+        "position": "5",
+        "nom": "Sumqayit",
+        "matchs": "12",
+        "victoires": "6",
+        "nuls": "2",
+        "defaites": "4",
+        "buts_pour": "20",
+        "buts_contre": "15",
+        "difference": "5",
         "points": "20"
       },
       {
@@ -27092,13 +27092,13 @@
       {
         "position": "3",
         "nom": "Dinamo Tbilisi",
-        "matchs": "32",
+        "matchs": "33",
         "victoires": "15",
         "nuls": "10",
-        "defaites": "7",
-        "buts_pour": "45",
-        "buts_contre": "25",
-        "difference": "20",
+        "defaites": "8",
+        "buts_pour": "47",
+        "buts_contre": "29",
+        "difference": "18",
         "points": "55"
       },
       {
@@ -27115,6 +27115,18 @@
       },
       {
         "position": "5",
+        "nom": "FC Gagra",
+        "matchs": "33",
+        "victoires": "11",
+        "nuls": "7",
+        "defaites": "15",
+        "buts_pour": "38",
+        "buts_contre": "50",
+        "difference": "-12",
+        "points": "40"
+      },
+      {
+        "position": "6",
         "nom": "Samgurali",
         "matchs": "32",
         "victoires": "11",
@@ -27124,18 +27136,6 @@
         "buts_contre": "44",
         "difference": "3",
         "points": "39"
-      },
-      {
-        "position": "6",
-        "nom": "FC Gagra",
-        "matchs": "32",
-        "victoires": "10",
-        "nuls": "7",
-        "defaites": "15",
-        "buts_pour": "34",
-        "buts_contre": "48",
-        "difference": "-14",
-        "points": "37"
       },
       {
         "position": "7",
@@ -27719,6 +27719,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "Deportivo Mixco",
+        "matchs": "20",
+        "victoires": "13",
+        "nuls": "2",
+        "defaites": "5",
+        "buts_pour": "28",
+        "buts_contre": "18",
+        "difference": "10",
+        "points": "41"
+      },
+      {
+        "position": "2",
         "nom": "CSD Municipal",
         "matchs": "19",
         "victoires": "11",
@@ -27728,18 +27740,6 @@
         "buts_contre": "13",
         "difference": "21",
         "points": "39"
-      },
-      {
-        "position": "2",
-        "nom": "Deportivo Mixco",
-        "matchs": "19",
-        "victoires": "12",
-        "nuls": "2",
-        "defaites": "5",
-        "buts_pour": "26",
-        "buts_contre": "17",
-        "difference": "9",
-        "points": "38"
       },
       {
         "position": "3",
@@ -27780,13 +27780,13 @@
       {
         "position": "6",
         "nom": "Deportivo Marque",
-        "matchs": "19",
+        "matchs": "20",
         "victoires": "6",
         "nuls": "5",
-        "defaites": "8",
-        "buts_pour": "16",
-        "buts_contre": "26",
-        "difference": "-10",
+        "defaites": "9",
+        "buts_pour": "17",
+        "buts_contre": "28",
+        "difference": "-11",
         "points": "23"
       },
       {
