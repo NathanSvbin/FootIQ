@@ -2627,26 +2627,26 @@
       },
       {
         "position": "4",
-        "nom": "Al-Qadsiah",
+        "nom": "Al-Ahli",
         "matchs": "9",
         "victoires": "5",
-        "nuls": "3",
-        "defaites": "1",
-        "buts_pour": "15",
-        "buts_contre": "7",
-        "difference": "8",
-        "points": "18"
+        "nuls": "4",
+        "defaites": "0",
+        "buts_pour": "11",
+        "buts_contre": "5",
+        "difference": "6",
+        "points": "19"
       },
       {
         "position": "5",
-        "nom": "Al-Ahli",
+        "nom": "Al-Qadsiah",
         "matchs": "9",
-        "victoires": "4",
-        "nuls": "5",
-        "defaites": "0",
-        "buts_pour": "10",
-        "buts_contre": "5",
-        "difference": "5",
+        "victoires": "5",
+        "nuls": "2",
+        "defaites": "2",
+        "buts_pour": "15",
+        "buts_contre": "8",
+        "difference": "7",
         "points": "17"
       },
       {
@@ -10470,9 +10470,9 @@
         "victoires": "3",
         "nuls": "4",
         "defaites": "7",
-        "buts_pour": "18",
+        "buts_pour": "19",
         "buts_contre": "26",
-        "difference": "-8",
+        "difference": "-7",
         "points": "13"
       },
       {
@@ -10519,8 +10519,8 @@
         "nuls": "1",
         "defaites": "13",
         "buts_pour": "8",
-        "buts_contre": "57",
-        "difference": "-49",
+        "buts_contre": "58",
+        "difference": "-50",
         "points": "-23"
       }
     ]
@@ -27152,26 +27152,26 @@
       {
         "position": "8",
         "nom": "FC Gareji",
-        "matchs": "32",
+        "matchs": "33",
         "victoires": "7",
-        "nuls": "12",
+        "nuls": "13",
         "defaites": "13",
-        "buts_pour": "36",
-        "buts_contre": "41",
+        "buts_pour": "39",
+        "buts_contre": "44",
         "difference": "-5",
-        "points": "33"
+        "points": "34"
       },
       {
         "position": "9",
         "nom": "FC Telavi",
-        "matchs": "32",
+        "matchs": "33",
         "victoires": "7",
-        "nuls": "8",
+        "nuls": "9",
         "defaites": "17",
-        "buts_pour": "27",
-        "buts_contre": "53",
+        "buts_pour": "30",
+        "buts_contre": "56",
         "difference": "-26",
-        "points": "29"
+        "points": "30"
       },
       {
         "position": "10",
