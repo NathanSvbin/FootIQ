@@ -1,4 +1,4 @@
-Continent ( Id, Nom, Image )
+Continent ( Id, Nom, Image )\n
 Pays ( Id, Nom, Image, Id_continent )
 Championnat ( Id, Nom, Image, Id_pays, Id_continent)
 Compétitions ( Id, Nom )
