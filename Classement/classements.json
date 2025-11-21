@@ -975,9 +975,9 @@
         "victoires": "9",
         "nuls": "1",
         "defaites": "3",
-        "buts_pour": "32",
+        "buts_pour": "33",
         "buts_contre": "12",
-        "difference": "20",
+        "difference": "21",
         "points": "28"
       },
       {
@@ -1072,8 +1072,8 @@
         "nuls": "2",
         "defaites": "6",
         "buts_pour": "18",
-        "buts_contre": "22",
-        "difference": "-4",
+        "buts_contre": "23",
+        "difference": "-5",
         "points": "17"
       },
       {
@@ -1232,12 +1232,12 @@
         "nom": "Preston NE",
         "matchs": "16",
         "victoires": "7",
-        "nuls": "6",
-        "defaites": "3",
+        "nuls": "5",
+        "defaites": "4",
         "buts_pour": "21",
-        "buts_contre": "15",
-        "difference": "6",
-        "points": "27"
+        "buts_contre": "16",
+        "difference": "5",
+        "points": "26"
       },
       {
         "position": "5",
@@ -1373,6 +1373,18 @@
       },
       {
         "position": "16",
+        "nom": "Blackburn",
+        "matchs": "15",
+        "victoires": "6",
+        "nuls": "1",
+        "defaites": "8",
+        "buts_pour": "16",
+        "buts_contre": "20",
+        "difference": "-4",
+        "points": "19"
+      },
+      {
+        "position": "17",
         "nom": "QPR",
         "matchs": "15",
         "victoires": "5",
@@ -1384,7 +1396,7 @@
         "points": "19"
       },
       {
-        "position": "17",
+        "position": "18",
         "nom": "Southampton",
         "matchs": "15",
         "victoires": "4",
@@ -1396,7 +1408,7 @@
         "points": "18"
       },
       {
-        "position": "18",
+        "position": "19",
         "nom": "Swansea City",
         "matchs": "15",
         "victoires": "4",
@@ -1405,18 +1417,6 @@
         "buts_pour": "15",
         "buts_contre": "19",
         "difference": "-4",
-        "points": "17"
-      },
-      {
-        "position": "19",
-        "nom": "Blackburn",
-        "matchs": "15",
-        "victoires": "5",
-        "nuls": "2",
-        "defaites": "8",
-        "buts_pour": "15",
-        "buts_contre": "20",
-        "difference": "-5",
         "points": "17"
       },
       {
@@ -4279,18 +4279,6 @@
       },
       {
         "position": "7",
-        "nom": "Catanzaro",
-        "matchs": "13",
-        "victoires": "4",
-        "nuls": "6",
-        "defaites": "3",
-        "buts_pour": "16",
-        "buts_contre": "14",
-        "difference": "2",
-        "points": "18"
-      },
-      {
-        "position": "8",
         "nom": "Juve Stabia",
         "matchs": "11",
         "victoires": "4",
@@ -4300,6 +4288,18 @@
         "buts_contre": "13",
         "difference": "0",
         "points": "17"
+      },
+      {
+        "position": "8",
+        "nom": "Catanzaro",
+        "matchs": "13",
+        "victoires": "3",
+        "nuls": "7",
+        "defaites": "3",
+        "buts_pour": "16",
+        "buts_contre": "15",
+        "difference": "1",
+        "points": "16"
       },
       {
         "position": "9",
@@ -4411,6 +4411,18 @@
       },
       {
         "position": "18",
+        "nom": "Pescara",
+        "matchs": "13",
+        "victoires": "1",
+        "nuls": "6",
+        "defaites": "6",
+        "buts_pour": "18",
+        "buts_contre": "28",
+        "difference": "-10",
+        "points": "9"
+      },
+      {
+        "position": "19",
         "nom": "Spezia Calcio",
         "matchs": "12",
         "victoires": "1",
@@ -4419,18 +4431,6 @@
         "buts_pour": "11",
         "buts_contre": "16",
         "difference": "-5",
-        "points": "8"
-      },
-      {
-        "position": "19",
-        "nom": "Pescara",
-        "matchs": "13",
-        "victoires": "1",
-        "nuls": "5",
-        "defaites": "7",
-        "buts_pour": "17",
-        "buts_contre": "28",
-        "difference": "-11",
         "points": "8"
       },
       {
@@ -13788,18 +13788,30 @@
       },
       {
         "position": "7",
-        "nom": "Luqueño",
+        "nom": "Olimpia",
         "matchs": "21",
-        "victoires": "8",
-        "nuls": "4",
-        "defaites": "9",
-        "buts_pour": "26",
-        "buts_contre": "31",
-        "difference": "-5",
-        "points": "28"
+        "victoires": "6",
+        "nuls": "7",
+        "defaites": "8",
+        "buts_pour": "29",
+        "buts_contre": "35",
+        "difference": "-6",
+        "points": "25"
       },
       {
         "position": "8",
+        "nom": "Luqueño",
+        "matchs": "21",
+        "victoires": "7",
+        "nuls": "4",
+        "defaites": "10",
+        "buts_pour": "26",
+        "buts_contre": "33",
+        "difference": "-7",
+        "points": "25"
+      },
+      {
+        "position": "9",
         "nom": "Gen. Caballero",
         "matchs": "20",
         "victoires": "6",
@@ -13811,7 +13823,7 @@
         "points": "24"
       },
       {
-        "position": "9",
+        "position": "10",
         "nom": "Libertad",
         "matchs": "20",
         "victoires": "5",
@@ -13821,18 +13833,6 @@
         "buts_contre": "23",
         "difference": "1",
         "points": "23"
-      },
-      {
-        "position": "10",
-        "nom": "Olimpia",
-        "matchs": "21",
-        "victoires": "5",
-        "nuls": "7",
-        "defaites": "9",
-        "buts_pour": "27",
-        "buts_contre": "35",
-        "difference": "-8",
-        "points": "22"
       },
       {
         "position": "11",
@@ -15259,8 +15259,8 @@
         "nuls": "3",
         "defaites": "8",
         "buts_pour": "12",
-        "buts_contre": "26",
-        "difference": "-14",
+        "buts_contre": "27",
+        "difference": "-15",
         "points": "15"
       },
       {
@@ -15270,9 +15270,9 @@
         "victoires": "3",
         "nuls": "4",
         "defaites": "8",
-        "buts_pour": "15",
+        "buts_pour": "16",
         "buts_contre": "24",
-        "difference": "-9",
+        "difference": "-8",
         "points": "13"
       },
       {
@@ -17699,27 +17699,15 @@
         "nom": "Pogon Grodzisk",
         "matchs": "17",
         "victoires": "9",
-        "nuls": "4",
-        "defaites": "4",
-        "buts_pour": "35",
+        "nuls": "5",
+        "defaites": "3",
+        "buts_pour": "36",
         "buts_contre": "25",
-        "difference": "10",
-        "points": "31"
+        "difference": "11",
+        "points": "32"
       },
       {
         "position": "3",
-        "nom": "Slask Wroclaw",
-        "matchs": "17",
-        "victoires": "9",
-        "nuls": "3",
-        "defaites": "5",
-        "buts_pour": "30",
-        "buts_contre": "26",
-        "difference": "4",
-        "points": "30"
-      },
-      {
-        "position": "4",
         "nom": "Chrobry Glogow",
         "matchs": "16",
         "victoires": "8",
@@ -17728,6 +17716,18 @@
         "buts_pour": "23",
         "buts_contre": "14",
         "difference": "9",
+        "points": "28"
+      },
+      {
+        "position": "4",
+        "nom": "Slask Wroclaw",
+        "matchs": "17",
+        "victoires": "8",
+        "nuls": "4",
+        "defaites": "5",
+        "buts_pour": "30",
+        "buts_contre": "27",
+        "difference": "3",
         "points": "28"
       },
       {
