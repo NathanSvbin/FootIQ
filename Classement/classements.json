@@ -4996,18 +4996,6 @@
       },
       {
         "position": "5",
-        "nom": "Al-Duhail SC",
-        "matchs": "10",
-        "victoires": "4",
-        "nuls": "3",
-        "defaites": "3",
-        "buts_pour": "19",
-        "buts_contre": "11",
-        "difference": "8",
-        "points": "15"
-      },
-      {
-        "position": "6",
         "nom": "Al-Wakrah SC",
         "matchs": "9",
         "victoires": "4",
@@ -5019,7 +5007,7 @@
         "points": "15"
       },
       {
-        "position": "7",
+        "position": "6",
         "nom": "Al-Sadd",
         "matchs": "9",
         "victoires": "4",
@@ -5029,6 +5017,18 @@
         "buts_contre": "13",
         "difference": "9",
         "points": "14"
+      },
+      {
+        "position": "7",
+        "nom": "Al-Duhail SC",
+        "matchs": "10",
+        "victoires": "3",
+        "nuls": "4",
+        "defaites": "3",
+        "buts_pour": "19",
+        "buts_contre": "12",
+        "difference": "7",
+        "points": "13"
       },
       {
         "position": "8",
@@ -5047,12 +5047,12 @@
         "nom": "Al-Ahli SC",
         "matchs": "10",
         "victoires": "3",
-        "nuls": "0",
-        "defaites": "7",
-        "buts_pour": "10",
+        "nuls": "1",
+        "defaites": "6",
+        "buts_pour": "11",
         "buts_contre": "19",
-        "difference": "-9",
-        "points": "9"
+        "difference": "-8",
+        "points": "10"
       },
       {
         "position": "10",
@@ -5449,18 +5449,6 @@
     "equipes": [
       {
         "position": "1",
-        "nom": "Al-Wahda",
-        "matchs": "8",
-        "victoires": "6",
-        "nuls": "2",
-        "defaites": "0",
-        "buts_pour": "15",
-        "buts_contre": "5",
-        "difference": "10",
-        "points": "20"
-      },
-      {
-        "position": "2",
         "nom": "Al-Ain",
         "matchs": "7",
         "victoires": "6",
@@ -5470,6 +5458,18 @@
         "buts_contre": "4",
         "difference": "13",
         "points": "19"
+      },
+      {
+        "position": "2",
+        "nom": "Al-Wahda",
+        "matchs": "8",
+        "victoires": "5",
+        "nuls": "3",
+        "defaites": "0",
+        "buts_pour": "15",
+        "buts_contre": "6",
+        "difference": "9",
+        "points": "18"
       },
       {
         "position": "3",
@@ -5581,6 +5581,18 @@
       },
       {
         "position": "12",
+        "nom": "Dibba SCC",
+        "matchs": "8",
+        "victoires": "0",
+        "nuls": "3",
+        "defaites": "5",
+        "buts_pour": "9",
+        "buts_contre": "15",
+        "difference": "-6",
+        "points": "3"
+      },
+      {
+        "position": "13",
         "nom": "Al-Bataeh CSC",
         "matchs": "7",
         "victoires": "1",
@@ -5590,18 +5602,6 @@
         "buts_contre": "12",
         "difference": "-7",
         "points": "3"
-      },
-      {
-        "position": "13",
-        "nom": "Dibba SCC",
-        "matchs": "8",
-        "victoires": "0",
-        "nuls": "2",
-        "defaites": "6",
-        "buts_pour": "8",
-        "buts_contre": "15",
-        "difference": "-7",
-        "points": "2"
       },
       {
         "position": "14",
@@ -7493,8 +7493,8 @@
         "nuls": "3",
         "defaites": "4",
         "buts_pour": "28",
-        "buts_contre": "17",
-        "difference": "11",
+        "buts_contre": "18",
+        "difference": "10",
         "points": "30"
       },
       {
@@ -7540,9 +7540,9 @@
         "victoires": "6",
         "nuls": "2",
         "defaites": "8",
-        "buts_pour": "21",
+        "buts_pour": "22",
         "buts_contre": "22",
-        "difference": "-1",
+        "difference": "0",
         "points": "20"
       },
       {
@@ -22082,8 +22082,8 @@
         "nuls": "4",
         "defaites": "0",
         "buts_pour": "23",
-        "buts_contre": "12",
-        "difference": "11",
+        "buts_contre": "13",
+        "difference": "10",
         "points": "31"
       },
       {
@@ -22189,9 +22189,9 @@
         "victoires": "0",
         "nuls": "3",
         "defaites": "11",
-        "buts_pour": "7",
+        "buts_pour": "8",
         "buts_contre": "35",
-        "difference": "-28",
+        "difference": "-27",
         "points": "3"
       }
     ]
