@@ -11703,26 +11703,26 @@
       {
         "position": "1",
         "nom": "ADO Den Haag",
-        "matchs": "14",
+        "matchs": "15",
         "victoires": "13",
         "nuls": "1",
-        "defaites": "0",
+        "defaites": "1",
         "buts_pour": "43",
-        "buts_contre": "11",
-        "difference": "32",
+        "buts_contre": "13",
+        "difference": "30",
         "points": "40"
       },
       {
         "position": "2",
         "nom": "SC Cambuur",
-        "matchs": "16",
-        "victoires": "10",
+        "matchs": "17",
+        "victoires": "11",
         "nuls": "4",
         "defaites": "2",
-        "buts_pour": "37",
+        "buts_pour": "39",
         "buts_contre": "21",
-        "difference": "16",
-        "points": "34"
+        "difference": "18",
+        "points": "37"
       },
       {
         "position": "3",
