@@ -9175,6 +9175,18 @@
       },
       {
         "position": "5",
+        "nom": "Cobresal",
+        "matchs": "28",
+        "victoires": "14",
+        "nuls": "5",
+        "defaites": "9",
+        "buts_pour": "35",
+        "buts_contre": "31",
+        "difference": "4",
+        "points": "47"
+      },
+      {
+        "position": "6",
         "nom": "Palestino",
         "matchs": "27",
         "victoires": "13",
@@ -9183,18 +9195,6 @@
         "buts_pour": "36",
         "buts_contre": "27",
         "difference": "9",
-        "points": "45"
-      },
-      {
-        "position": "6",
-        "nom": "Cobresal",
-        "matchs": "28",
-        "victoires": "13",
-        "nuls": "6",
-        "defaites": "9",
-        "buts_pour": "34",
-        "buts_contre": "31",
-        "difference": "3",
         "points": "45"
       },
       {
@@ -9310,12 +9310,12 @@
         "nom": "Club Deportes Iq",
         "matchs": "28",
         "victoires": "4",
-        "nuls": "7",
-        "defaites": "17",
+        "nuls": "6",
+        "defaites": "18",
         "buts_pour": "29",
-        "buts_contre": "56",
-        "difference": "-27",
-        "points": "19"
+        "buts_contre": "57",
+        "difference": "-28",
+        "points": "18"
       }
     ]
   },
