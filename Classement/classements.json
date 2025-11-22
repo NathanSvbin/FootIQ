@@ -567,13 +567,13 @@
         "position": "6",
         "nom": "Juventus",
         "matchs": "12",
-        "victoires": "5",
-        "nuls": "5",
+        "victoires": "6",
+        "nuls": "4",
         "defaites": "2",
-        "buts_pour": "14",
+        "buts_pour": "15",
         "buts_contre": "10",
-        "difference": "4",
-        "points": "20"
+        "difference": "5",
+        "points": "22"
       },
       {
         "position": "7",
@@ -721,18 +721,6 @@
       },
       {
         "position": "19",
-        "nom": "Fiorentina",
-        "matchs": "12",
-        "victoires": "0",
-        "nuls": "6",
-        "defaites": "6",
-        "buts_pour": "9",
-        "buts_contre": "18",
-        "difference": "-9",
-        "points": "6"
-      },
-      {
-        "position": "20",
         "nom": "Hellas Verona",
         "matchs": "11",
         "victoires": "0",
@@ -742,6 +730,18 @@
         "buts_contre": "16",
         "difference": "-10",
         "points": "6"
+      },
+      {
+        "position": "20",
+        "nom": "Fiorentina",
+        "matchs": "12",
+        "victoires": "0",
+        "nuls": "5",
+        "defaites": "7",
+        "buts_pour": "9",
+        "buts_contre": "19",
+        "difference": "-10",
+        "points": "5"
       }
     ],
     "id_pays": "27"
@@ -30877,6 +30877,18 @@
       },
       {
         "position": "2",
+        "nom": "FC Atert Bissen",
+        "matchs": "13",
+        "victoires": "8",
+        "nuls": "2",
+        "defaites": "3",
+        "buts_pour": "31",
+        "buts_contre": "14",
+        "difference": "17",
+        "points": "26"
+      },
+      {
+        "position": "3",
         "nom": "FC UNA Strassen",
         "matchs": "12",
         "victoires": "8",
@@ -30888,7 +30900,7 @@
         "points": "26"
       },
       {
-        "position": "3",
+        "position": "4",
         "nom": "F91 Dudelange",
         "matchs": "12",
         "victoires": "7",
@@ -30898,18 +30910,6 @@
         "buts_contre": "17",
         "difference": "11",
         "points": "24"
-      },
-      {
-        "position": "4",
-        "nom": "FC Atert Bissen",
-        "matchs": "12",
-        "victoires": "7",
-        "nuls": "2",
-        "defaites": "3",
-        "buts_pour": "28",
-        "buts_contre": "14",
-        "difference": "14",
-        "points": "23"
       },
       {
         "position": "5",
@@ -30997,18 +30997,6 @@
       },
       {
         "position": "12",
-        "nom": "RFCU Luxembourg",
-        "matchs": "11",
-        "victoires": "2",
-        "nuls": "4",
-        "defaites": "5",
-        "buts_pour": "12",
-        "buts_contre": "19",
-        "difference": "-7",
-        "points": "10"
-      },
-      {
-        "position": "13",
         "nom": "Titus Pétange",
         "matchs": "12",
         "victoires": "2",
@@ -31017,6 +31005,18 @@
         "buts_pour": "9",
         "buts_contre": "18",
         "difference": "-9",
+        "points": "10"
+      },
+      {
+        "position": "13",
+        "nom": "RFCU Luxembourg",
+        "matchs": "12",
+        "victoires": "2",
+        "nuls": "4",
+        "defaites": "6",
+        "buts_pour": "12",
+        "buts_contre": "22",
+        "difference": "-10",
         "points": "10"
       },
       {
