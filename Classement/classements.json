@@ -283,13 +283,13 @@
         "position": "3",
         "nom": "Villarreal",
         "matchs": "13",
-        "victoires": "8",
-        "nuls": "3",
+        "victoires": "9",
+        "nuls": "2",
         "defaites": "2",
-        "buts_pour": "25",
+        "buts_pour": "26",
         "buts_contre": "11",
-        "difference": "14",
-        "points": "27"
+        "difference": "15",
+        "points": "29"
       },
       {
         "position": "4",
@@ -425,18 +425,6 @@
       },
       {
         "position": "15",
-        "nom": "RCD Mallorca",
-        "matchs": "13",
-        "victoires": "3",
-        "nuls": "4",
-        "defaites": "6",
-        "buts_pour": "13",
-        "buts_contre": "19",
-        "difference": "-6",
-        "points": "13"
-      },
-      {
-        "position": "16",
         "nom": "FC Valencia",
         "matchs": "13",
         "victoires": "3",
@@ -446,6 +434,18 @@
         "buts_contre": "21",
         "difference": "-9",
         "points": "13"
+      },
+      {
+        "position": "16",
+        "nom": "RCD Mallorca",
+        "matchs": "13",
+        "victoires": "3",
+        "nuls": "3",
+        "defaites": "7",
+        "buts_pour": "13",
+        "buts_contre": "20",
+        "difference": "-7",
+        "points": "12"
       },
       {
         "position": "17",
@@ -985,9 +985,9 @@
         "victoires": "9",
         "nuls": "3",
         "defaites": "1",
-        "buts_pour": "26",
+        "buts_pour": "27",
         "buts_contre": "11",
-        "difference": "15",
+        "difference": "16",
         "points": "30"
       },
       {
@@ -1118,8 +1118,8 @@
         "nuls": "5",
         "defaites": "5",
         "buts_pour": "13",
-        "buts_contre": "19",
-        "difference": "-6",
+        "buts_contre": "20",
+        "difference": "-7",
         "points": "14"
       },
       {
@@ -4781,18 +4781,6 @@
       },
       {
         "position": "6",
-        "nom": "FC Córdoba",
-        "matchs": "15",
-        "victoires": "6",
-        "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "20",
-        "buts_contre": "19",
-        "difference": "1",
-        "points": "23"
-      },
-      {
-        "position": "7",
         "nom": "Castellón",
         "matchs": "15",
         "victoires": "6",
@@ -4802,6 +4790,18 @@
         "buts_contre": "20",
         "difference": "3",
         "points": "22"
+      },
+      {
+        "position": "7",
+        "nom": "FC Córdoba",
+        "matchs": "15",
+        "victoires": "5",
+        "nuls": "6",
+        "defaites": "4",
+        "buts_pour": "20",
+        "buts_contre": "20",
+        "difference": "0",
+        "points": "21"
       },
       {
         "position": "8",
@@ -4913,15 +4913,15 @@
       },
       {
         "position": "17",
-        "nom": "Málaga CF",
-        "matchs": "14",
-        "victoires": "4",
-        "nuls": "3",
-        "defaites": "7",
-        "buts_pour": "16",
-        "buts_contre": "18",
-        "difference": "-2",
-        "points": "15"
+        "nom": "FC Granada",
+        "matchs": "15",
+        "victoires": "3",
+        "nuls": "7",
+        "defaites": "5",
+        "buts_pour": "18",
+        "buts_contre": "21",
+        "difference": "-3",
+        "points": "16"
       },
       {
         "position": "18",
@@ -4937,14 +4937,14 @@
       },
       {
         "position": "19",
-        "nom": "FC Granada",
-        "matchs": "15",
-        "victoires": "3",
-        "nuls": "6",
-        "defaites": "6",
-        "buts_pour": "17",
-        "buts_contre": "21",
-        "difference": "-4",
+        "nom": "Málaga CF",
+        "matchs": "14",
+        "victoires": "4",
+        "nuls": "3",
+        "defaites": "7",
+        "buts_pour": "16",
+        "buts_contre": "18",
+        "difference": "-2",
         "points": "15"
       },
       {
@@ -12983,8 +12983,8 @@
         "nuls": "4",
         "defaites": "1",
         "buts_pour": "28",
-        "buts_contre": "12",
-        "difference": "16",
+        "buts_contre": "13",
+        "difference": "15",
         "points": "40"
       },
       {
@@ -13030,9 +13030,9 @@
         "victoires": "9",
         "nuls": "0",
         "defaites": "8",
-        "buts_pour": "20",
+        "buts_pour": "21",
         "buts_contre": "27",
-        "difference": "-7",
+        "difference": "-6",
         "points": "27"
       },
       {
@@ -17671,13 +17671,13 @@
         "position": "2",
         "nom": "The Strongest",
         "matchs": "25",
-        "victoires": "18",
-        "nuls": "2",
+        "victoires": "19",
+        "nuls": "1",
         "defaites": "5",
-        "buts_pour": "64",
+        "buts_pour": "65",
         "buts_contre": "39",
-        "difference": "25",
-        "points": "56"
+        "difference": "26",
+        "points": "58"
       },
       {
         "position": "3",
@@ -17792,12 +17792,12 @@
         "nom": "Real Oruro",
         "matchs": "25",
         "victoires": "6",
-        "nuls": "8",
-        "defaites": "11",
+        "nuls": "7",
+        "defaites": "12",
         "buts_pour": "39",
-        "buts_contre": "51",
-        "difference": "-12",
-        "points": "26"
+        "buts_contre": "52",
+        "difference": "-13",
+        "points": "25"
       },
       {
         "position": "13",
