@@ -2218,14 +2218,14 @@
       {
         "position": "7",
         "nom": "Gaziantep FK",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "5",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "3",
         "buts_pour": "17",
         "buts_contre": "20",
         "difference": "-3",
-        "points": "19"
+        "points": "20"
       },
       {
         "position": "8",
@@ -2326,14 +2326,14 @@
       {
         "position": "16",
         "nom": "Kayserispor",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "1",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "5",
         "buts_pour": "13",
         "buts_contre": "28",
         "difference": "-15",
-        "points": "9"
+        "points": "10"
       },
       {
         "position": "17",
@@ -5298,6 +5298,18 @@
       },
       {
         "position": "5",
+        "nom": "Metalist 1925",
+        "matchs": "13",
+        "victoires": "5",
+        "nuls": "5",
+        "defaites": "3",
+        "buts_pour": "14",
+        "buts_contre": "10",
+        "difference": "4",
+        "points": "20"
+      },
+      {
+        "position": "6",
         "nom": "Kryvbas",
         "matchs": "12",
         "victoires": "6",
@@ -5309,7 +5321,7 @@
         "points": "20"
       },
       {
-        "position": "6",
+        "position": "7",
         "nom": "Zorya Lugansk",
         "matchs": "12",
         "victoires": "5",
@@ -5321,7 +5333,7 @@
         "points": "19"
       },
       {
-        "position": "7",
+        "position": "8",
         "nom": "Kolos Kovalivka",
         "matchs": "12",
         "victoires": "5",
@@ -5333,27 +5345,15 @@
         "points": "19"
       },
       {
-        "position": "8",
-        "nom": "Karpaty Lviv",
-        "matchs": "13",
-        "victoires": "4",
-        "nuls": "7",
-        "defaites": "2",
-        "buts_pour": "17",
-        "buts_contre": "15",
-        "difference": "2",
-        "points": "19"
-      },
-      {
         "position": "9",
-        "nom": "Metalist 1925",
+        "nom": "Karpaty Lviv",
         "matchs": "13",
         "victoires": "4",
         "nuls": "6",
         "defaites": "3",
-        "buts_pour": "13",
-        "buts_contre": "10",
-        "difference": "3",
+        "buts_pour": "17",
+        "buts_contre": "16",
+        "difference": "1",
         "points": "18"
       },
       {
@@ -18541,17 +18541,29 @@
       {
         "position": "4",
         "nom": "Bangkok Utd.",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "6",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "2",
         "buts_pour": "19",
         "buts_contre": "14",
         "difference": "5",
-        "points": "21"
+        "points": "22"
       },
       {
         "position": "5",
+        "nom": "PT Prachuap FC",
+        "matchs": "12",
+        "victoires": "4",
+        "nuls": "6",
+        "defaites": "2",
+        "buts_pour": "15",
+        "buts_contre": "10",
+        "difference": "5",
+        "points": "18"
+      },
+      {
+        "position": "6",
         "nom": "BG Pathum Utd.",
         "matchs": "11",
         "victoires": "5",
@@ -18561,18 +18573,6 @@
         "buts_contre": "13",
         "difference": "2",
         "points": "18"
-      },
-      {
-        "position": "6",
-        "nom": "PT Prachuap FC",
-        "matchs": "11",
-        "victoires": "4",
-        "nuls": "5",
-        "defaites": "2",
-        "buts_pour": "15",
-        "buts_contre": "10",
-        "difference": "5",
-        "points": "17"
       },
       {
         "position": "7",
@@ -24461,18 +24461,6 @@
       },
       {
         "position": "6",
-        "nom": "Nyva Ternopil",
-        "matchs": "17",
-        "victoires": "6",
-        "nuls": "5",
-        "defaites": "6",
-        "buts_pour": "17",
-        "buts_contre": "20",
-        "difference": "-3",
-        "points": "23"
-      },
-      {
-        "position": "7",
         "nom": "Prykarpattya",
         "matchs": "16",
         "victoires": "6",
@@ -24484,7 +24472,7 @@
         "points": "22"
       },
       {
-        "position": "8",
+        "position": "7",
         "nom": "UCSA",
         "matchs": "17",
         "victoires": "6",
@@ -24493,6 +24481,18 @@
         "buts_pour": "16",
         "buts_contre": "18",
         "difference": "-2",
+        "points": "22"
+      },
+      {
+        "position": "8",
+        "nom": "Nyva Ternopil",
+        "matchs": "17",
+        "victoires": "6",
+        "nuls": "4",
+        "defaites": "7",
+        "buts_pour": "17",
+        "buts_contre": "21",
+        "difference": "-4",
         "points": "22"
       },
       {
@@ -24583,13 +24583,13 @@
         "position": "16",
         "nom": "SK Metalurg",
         "matchs": "16",
-        "victoires": "1",
-        "nuls": "4",
+        "victoires": "2",
+        "nuls": "3",
         "defaites": "11",
-        "buts_pour": "5",
+        "buts_pour": "6",
         "buts_contre": "32",
-        "difference": "-27",
-        "points": "7"
+        "difference": "-26",
+        "points": "9"
       }
     ]
   },
@@ -29428,6 +29428,18 @@
       },
       {
         "position": "14",
+        "nom": "Nakhonpathom",
+        "matchs": "13",
+        "victoires": "3",
+        "nuls": "4",
+        "defaites": "6",
+        "buts_pour": "11",
+        "buts_contre": "14",
+        "difference": "-3",
+        "points": "13"
+      },
+      {
+        "position": "15",
         "nom": "Nakhonsi Utd.",
         "matchs": "13",
         "victoires": "3",
@@ -29437,18 +29449,6 @@
         "buts_contre": "28",
         "difference": "-12",
         "points": "13"
-      },
-      {
-        "position": "15",
-        "nom": "Nakhonpathom",
-        "matchs": "12",
-        "victoires": "3",
-        "nuls": "3",
-        "defaites": "6",
-        "buts_pour": "11",
-        "buts_contre": "14",
-        "difference": "-3",
-        "points": "12"
       },
       {
         "position": "16",
@@ -29465,14 +29465,14 @@
       {
         "position": "17",
         "nom": "Kasetsart FC",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "2",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "6",
         "buts_pour": "16",
         "buts_contre": "22",
         "difference": "-6",
-        "points": "10"
+        "points": "11"
       },
       {
         "position": "18",
