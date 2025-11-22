@@ -8191,9 +8191,9 @@
         "victoires": "15",
         "nuls": "15",
         "defaites": "8",
-        "buts_pour": "42",
+        "buts_pour": "43",
         "buts_contre": "32",
-        "difference": "10",
+        "difference": "11",
         "points": "60"
       },
       {
@@ -8228,8 +8228,8 @@
         "nuls": "8",
         "defaites": "14",
         "buts_pour": "45",
-        "buts_contre": "39",
-        "difference": "6",
+        "buts_contre": "40",
+        "difference": "5",
         "points": "56"
       },
       {
@@ -34119,13 +34119,13 @@
       {
         "position": "11",
         "nom": "SD Sarriana",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "4",
         "nuls": "2",
-        "defaites": "5",
+        "defaites": "6",
         "buts_pour": "16",
-        "buts_contre": "16",
-        "difference": "0",
+        "buts_contre": "18",
+        "difference": "-2",
         "points": "14"
       },
       {
@@ -34142,6 +34142,18 @@
       },
       {
         "position": "13",
+        "nom": "Rayo Cantabria",
+        "matchs": "12",
+        "victoires": "2",
+        "nuls": "5",
+        "defaites": "5",
+        "buts_pour": "12",
+        "buts_contre": "14",
+        "difference": "-2",
+        "points": "11"
+      },
+      {
+        "position": "14",
         "nom": "Burgos Promesas",
         "matchs": "11",
         "victoires": "1",
@@ -34153,7 +34165,7 @@
         "points": "10"
       },
       {
-        "position": "14",
+        "position": "15",
         "nom": "Astorga",
         "matchs": "11",
         "victoires": "2",
@@ -34165,7 +34177,7 @@
         "points": "9"
       },
       {
-        "position": "15",
+        "position": "16",
         "nom": "UD Sámano",
         "matchs": "11",
         "victoires": "2",
@@ -34175,18 +34187,6 @@
         "buts_contre": "21",
         "difference": "-12",
         "points": "9"
-      },
-      {
-        "position": "16",
-        "nom": "Rayo Cantabria",
-        "matchs": "11",
-        "victoires": "1",
-        "nuls": "5",
-        "defaites": "5",
-        "buts_pour": "10",
-        "buts_contre": "14",
-        "difference": "-4",
-        "points": "8"
       },
       {
         "position": "17",
