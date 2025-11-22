@@ -27,6 +27,7 @@ def lire_championnats_csv(fichier_csv):
                 nom = row[1].strip()
                 lien = row[2].strip()
                 lien_classement = lien.replace("startseite", "tabelle") + "/saison_id/2025"
+                pays = row[4]
                 championnats.append((id, nom, lien_classement))
     return championnats
 
@@ -80,7 +81,7 @@ def main():
     # 🔽 Lire les championnats depuis le CSV
     championnats = lire_championnats_csv("Championnat/championnat_finale.csv")
 
-    for id, nom, url in championnats:
+    for id, nom, url, pays in championnats:
         try:
             equipes = scrape_championnat(nom, url)
             if equipes:
@@ -89,7 +90,8 @@ def main():
                     "championnat": nom,
                     "url": url,
                     "saison": 2025,
-                    "equipes": equipes
+                    "equipes": equipes,
+                    "id_pays": pays,
                 })
         except Exception as e:
             print(f"❌ Erreur sur {nom}: {e}")
@@ -104,6 +106,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
