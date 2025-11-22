@@ -2516,8 +2516,8 @@
         "nuls": "4",
         "defaites": "5",
         "buts_pour": "21",
-        "buts_contre": "21",
-        "difference": "0",
+        "buts_contre": "22",
+        "difference": "-1",
         "points": "16"
       },
       {
@@ -2587,9 +2587,9 @@
         "victoires": "4",
         "nuls": "0",
         "defaites": "9",
-        "buts_pour": "20",
+        "buts_pour": "21",
         "buts_contre": "35",
-        "difference": "-15",
+        "difference": "-14",
         "points": "12"
       },
       {
@@ -6271,13 +6271,13 @@
         "position": "2",
         "nom": "Celtic Glasgow",
         "matchs": "12",
-        "victoires": "7",
-        "nuls": "3",
+        "victoires": "8",
+        "nuls": "2",
         "defaites": "2",
-        "buts_pour": "20",
+        "buts_pour": "21",
         "buts_contre": "8",
-        "difference": "12",
-        "points": "24"
+        "difference": "13",
+        "points": "26"
       },
       {
         "position": "3",
@@ -6356,12 +6356,12 @@
         "nom": "St. Mirren",
         "matchs": "12",
         "victoires": "2",
-        "nuls": "5",
-        "defaites": "5",
+        "nuls": "4",
+        "defaites": "6",
         "buts_pour": "8",
-        "buts_contre": "15",
-        "difference": "-7",
-        "points": "11"
+        "buts_contre": "16",
+        "difference": "-8",
+        "points": "10"
       },
       {
         "position": "10",
@@ -12982,9 +12982,9 @@
         "victoires": "12",
         "nuls": "4",
         "defaites": "1",
-        "buts_pour": "28",
+        "buts_pour": "29",
         "buts_contre": "13",
-        "difference": "15",
+        "difference": "16",
         "points": "40"
       },
       {
@@ -13031,8 +13031,8 @@
         "nuls": "0",
         "defaites": "8",
         "buts_pour": "21",
-        "buts_contre": "27",
-        "difference": "-6",
+        "buts_contre": "28",
+        "difference": "-7",
         "points": "27"
       },
       {
@@ -16607,6 +16607,18 @@
       },
       {
         "position": "10",
+        "nom": "Hércules CF",
+        "matchs": "13",
+        "victoires": "5",
+        "nuls": "2",
+        "defaites": "6",
+        "buts_pour": "13",
+        "buts_contre": "13",
+        "difference": "0",
+        "points": "17"
+      },
+      {
+        "position": "10",
         "nom": "Real Murcia",
         "matchs": "13",
         "victoires": "4",
@@ -16618,7 +16630,7 @@
         "points": "17"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "Villarreal CF B",
         "matchs": "13",
         "victoires": "4",
@@ -16630,7 +16642,7 @@
         "points": "16"
       },
       {
-        "position": "12",
+        "position": "13",
         "nom": "AD Alcorcón",
         "matchs": "12",
         "victoires": "4",
@@ -16642,7 +16654,7 @@
         "points": "16"
       },
       {
-        "position": "13",
+        "position": "14",
         "nom": "Algeciras CF",
         "matchs": "12",
         "victoires": "4",
@@ -16652,18 +16664,6 @@
         "buts_contre": "14",
         "difference": "-2",
         "points": "15"
-      },
-      {
-        "position": "14",
-        "nom": "Hércules CF",
-        "matchs": "12",
-        "victoires": "4",
-        "nuls": "2",
-        "defaites": "6",
-        "buts_pour": "11",
-        "buts_contre": "13",
-        "difference": "-2",
-        "points": "14"
       },
       {
         "position": "15",
@@ -16728,13 +16728,13 @@
       {
         "position": "20",
         "nom": "Betis Deportivo",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "1",
         "nuls": "5",
-        "defaites": "6",
+        "defaites": "7",
         "buts_pour": "8",
-        "buts_contre": "16",
-        "difference": "-8",
+        "buts_contre": "18",
+        "difference": "-10",
         "points": "8"
       }
     ]
