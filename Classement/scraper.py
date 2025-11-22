@@ -23,10 +23,11 @@ def lire_championnats_csv(fichier_csv):
         championnats = []
         for row in reader:
             if len(row) >= 3 and row[2].startswith("https"):
+                id = row[0].strip()
                 nom = row[1].strip()
                 lien = row[2].strip()
                 lien_classement = lien.replace("startseite", "tabelle") + "/saison_id/2025"
-                championnats.append((nom, lien_classement))
+                championnats.append((id, nom, lien_classement))
     return championnats
 
 
@@ -79,11 +80,12 @@ def main():
     # 🔽 Lire les championnats depuis le CSV
     championnats = lire_championnats_csv("Championnat/championnat_finale.csv")
 
-    for nom, url in championnats:
+    for id, nom, url in championnats:
         try:
             equipes = scrape_championnat(nom, url)
             if equipes:
                 all_data.append({
+                    "id_championnat" : id,
                     "championnat": nom,
                     "url": url,
                     "saison": 2025,
@@ -102,6 +104,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
