@@ -17032,26 +17032,26 @@
       },
       {
         "position": "7",
-        "nom": "Wellington",
+        "nom": "Macarthur",
         "matchs": "5",
-        "victoires": "1",
-        "nuls": "3",
-        "defaites": "1",
-        "buts_pour": "6",
-        "buts_contre": "6",
-        "difference": "0",
-        "points": "6"
+        "victoires": "2",
+        "nuls": "1",
+        "defaites": "2",
+        "buts_pour": "4",
+        "buts_contre": "5",
+        "difference": "-1",
+        "points": "7"
       },
       {
         "position": "8",
-        "nom": "Macarthur",
+        "nom": "Wellington",
         "matchs": "5",
         "victoires": "1",
         "nuls": "2",
         "defaites": "2",
-        "buts_pour": "3",
-        "buts_contre": "5",
-        "difference": "-2",
+        "buts_pour": "6",
+        "buts_contre": "7",
+        "difference": "-1",
         "points": "5"
       },
       {
