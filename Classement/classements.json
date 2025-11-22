@@ -511,9 +511,9 @@
         "victoires": "8",
         "nuls": "1",
         "defaites": "3",
-        "buts_pour": "17",
+        "buts_pour": "19",
         "buts_contre": "10",
-        "difference": "7",
+        "difference": "9",
         "points": "25"
       },
       {
@@ -656,8 +656,8 @@
         "nuls": "7",
         "defaites": "3",
         "buts_pour": "13",
-        "buts_contre": "12",
-        "difference": "1",
+        "buts_contre": "14",
+        "difference": "-1",
         "points": "13"
       },
       {
@@ -6152,6 +6152,18 @@
       },
       {
         "position": "11",
+        "nom": "Legia Varsovie",
+        "matchs": "15",
+        "victoires": "4",
+        "nuls": "6",
+        "defaites": "5",
+        "buts_pour": "17",
+        "buts_contre": "16",
+        "difference": "1",
+        "points": "18"
+      },
+      {
+        "position": "12",
         "nom": "Arka Gdynia",
         "matchs": "16",
         "victoires": "5",
@@ -6161,18 +6173,6 @@
         "buts_contre": "28",
         "difference": "-15",
         "points": "18"
-      },
-      {
-        "position": "12",
-        "nom": "Legia Varsovie",
-        "matchs": "15",
-        "victoires": "4",
-        "nuls": "5",
-        "defaites": "6",
-        "buts_pour": "16",
-        "buts_contre": "16",
-        "difference": "0",
-        "points": "17"
       },
       {
         "position": "13",
@@ -6212,18 +6212,6 @@
       },
       {
         "position": "16",
-        "nom": "Lechia Gdansk",
-        "matchs": "16",
-        "victoires": "6",
-        "nuls": "3",
-        "defaites": "7",
-        "buts_pour": "26",
-        "buts_contre": "32",
-        "difference": "-6",
-        "points": "16"
-      },
-      {
-        "position": "17",
         "nom": "Nieciecza",
         "matchs": "16",
         "victoires": "4",
@@ -6235,7 +6223,7 @@
         "points": "16"
       },
       {
-        "position": "18",
+        "position": "17",
         "nom": "Piast Gliwice",
         "matchs": "14",
         "victoires": "3",
@@ -6244,6 +6232,18 @@
         "buts_pour": "16",
         "buts_contre": "17",
         "difference": "-1",
+        "points": "14"
+      },
+      {
+        "position": "18",
+        "nom": "Lechia Gdansk",
+        "matchs": "16",
+        "victoires": "5",
+        "nuls": "4",
+        "defaites": "7",
+        "buts_pour": "26",
+        "buts_contre": "33",
+        "difference": "-7",
         "points": "14"
       }
     ]
@@ -6581,8 +6581,8 @@
         "nuls": "2",
         "defaites": "4",
         "buts_pour": "33",
-        "buts_contre": "21",
-        "difference": "12",
+        "buts_contre": "22",
+        "difference": "11",
         "points": "29"
       },
       {
@@ -6748,9 +6748,9 @@
         "victoires": "4",
         "nuls": "3",
         "defaites": "8",
-        "buts_pour": "13",
+        "buts_pour": "14",
         "buts_contre": "21",
-        "difference": "-8",
+        "difference": "-7",
         "points": "15"
       },
       {
@@ -7607,6 +7607,18 @@
       },
       {
         "position": "7",
+        "nom": "OFK Beograd",
+        "matchs": "16",
+        "victoires": "6",
+        "nuls": "3",
+        "defaites": "7",
+        "buts_pour": "23",
+        "buts_contre": "25",
+        "difference": "-2",
+        "points": "21"
+      },
+      {
+        "position": "8",
         "nom": "Radnik",
         "matchs": "16",
         "victoires": "6",
@@ -7615,18 +7627,6 @@
         "buts_pour": "22",
         "buts_contre": "23",
         "difference": "-1",
-        "points": "20"
-      },
-      {
-        "position": "8",
-        "nom": "OFK Beograd",
-        "matchs": "16",
-        "victoires": "6",
-        "nuls": "2",
-        "defaites": "8",
-        "buts_pour": "22",
-        "buts_contre": "25",
-        "difference": "-3",
         "points": "20"
       },
       {
@@ -7691,18 +7691,6 @@
       },
       {
         "position": "14",
-        "nom": "Spartak",
-        "matchs": "16",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "8",
-        "buts_pour": "19",
-        "buts_contre": "27",
-        "difference": "-8",
-        "points": "16"
-      },
-      {
-        "position": "15",
         "nom": "Radnicki Nis",
         "matchs": "15",
         "victoires": "4",
@@ -7712,6 +7700,18 @@
         "buts_contre": "21",
         "difference": "-3",
         "points": "15"
+      },
+      {
+        "position": "15",
+        "nom": "Spartak",
+        "matchs": "16",
+        "victoires": "3",
+        "nuls": "5",
+        "defaites": "8",
+        "buts_pour": "19",
+        "buts_contre": "28",
+        "difference": "-9",
+        "points": "14"
       },
       {
         "position": "16",
@@ -13219,9 +13219,9 @@
         "victoires": "11",
         "nuls": "1",
         "defaites": "1",
-        "buts_pour": "26",
+        "buts_pour": "27",
         "buts_contre": "11",
-        "difference": "15",
+        "difference": "16",
         "points": "34"
       },
       {
@@ -13256,8 +13256,8 @@
         "nuls": "5",
         "defaites": "4",
         "buts_pour": "27",
-        "buts_contre": "21",
-        "difference": "6",
+        "buts_contre": "22",
+        "difference": "5",
         "points": "20"
       },
       {
@@ -17695,13 +17695,13 @@
         "position": "4",
         "nom": "Club Blooming",
         "matchs": "25",
-        "victoires": "11",
-        "nuls": "5",
+        "victoires": "12",
+        "nuls": "4",
         "defaites": "9",
-        "buts_pour": "41",
+        "buts_pour": "43",
         "buts_contre": "41",
-        "difference": "0",
-        "points": "38"
+        "difference": "2",
+        "points": "40"
       },
       {
         "position": "5",
@@ -17780,12 +17780,12 @@
         "nom": "Real Tomayapo",
         "matchs": "25",
         "victoires": "7",
-        "nuls": "9",
-        "defaites": "9",
+        "nuls": "8",
+        "defaites": "10",
         "buts_pour": "32",
-        "buts_contre": "40",
-        "difference": "-8",
-        "points": "30"
+        "buts_contre": "42",
+        "difference": "-10",
+        "points": "29"
       },
       {
         "position": "12",
@@ -20552,6 +20552,18 @@
       },
       {
         "position": "7",
+        "nom": "Young Violets",
+        "matchs": "14",
+        "victoires": "5",
+        "nuls": "4",
+        "defaites": "5",
+        "buts_pour": "16",
+        "buts_contre": "19",
+        "difference": "-3",
+        "points": "18"
+      },
+      {
+        "position": "8",
         "nom": "First Vienna FC",
         "matchs": "14",
         "victoires": "5",
@@ -20560,18 +20572,6 @@
         "buts_pour": "16",
         "buts_contre": "14",
         "difference": "2",
-        "points": "16"
-      },
-      {
-        "position": "8",
-        "nom": "Young Violets",
-        "matchs": "14",
-        "victoires": "4",
-        "nuls": "5",
-        "defaites": "5",
-        "buts_pour": "15",
-        "buts_contre": "19",
-        "difference": "-4",
         "points": "16"
       },
       {
@@ -20617,9 +20617,9 @@
         "victoires": "3",
         "nuls": "3",
         "defaites": "8",
-        "buts_pour": "12",
+        "buts_pour": "13",
         "buts_contre": "19",
-        "difference": "-7",
+        "difference": "-6",
         "points": "12"
       },
       {
@@ -20642,8 +20642,8 @@
         "nuls": "4",
         "defaites": "8",
         "buts_pour": "11",
-        "buts_contre": "23",
-        "difference": "-12",
+        "buts_contre": "24",
+        "difference": "-13",
         "points": "9"
       },
       {
@@ -20651,12 +20651,12 @@
         "nom": "SW Bregenz",
         "matchs": "14",
         "victoires": "0",
-        "nuls": "8",
-        "defaites": "6",
+        "nuls": "7",
+        "defaites": "7",
         "buts_pour": "14",
-        "buts_contre": "22",
-        "difference": "-8",
-        "points": "5"
+        "buts_contre": "23",
+        "difference": "-9",
+        "points": "4"
       },
       {
         "position": "16",
