@@ -2450,18 +2450,6 @@
       },
       {
         "position": "6",
-        "nom": "Go Ahead Eagles",
-        "matchs": "13",
-        "victoires": "5",
-        "nuls": "4",
-        "defaites": "4",
-        "buts_pour": "21",
-        "buts_contre": "19",
-        "difference": "2",
-        "points": "19"
-      },
-      {
-        "position": "7",
         "nom": "FC Groningen",
         "matchs": "12",
         "victoires": "6",
@@ -2473,19 +2461,7 @@
         "points": "19"
       },
       {
-        "position": "8",
-        "nom": "Sparta R.",
-        "matchs": "13",
-        "victoires": "6",
-        "nuls": "1",
-        "defaites": "6",
-        "buts_pour": "15",
-        "buts_contre": "24",
-        "difference": "-9",
-        "points": "19"
-      },
-      {
-        "position": "9",
+        "position": "7",
         "nom": "NEC Nijmegen",
         "matchs": "12",
         "victoires": "5",
@@ -2497,7 +2473,7 @@
         "points": "18"
       },
       {
-        "position": "10",
+        "position": "8",
         "nom": "FC Twente",
         "matchs": "13",
         "victoires": "4",
@@ -2509,15 +2485,39 @@
         "points": "17"
       },
       {
-        "position": "11",
+        "position": "9",
         "nom": "Fortuna Sittard",
         "matchs": "13",
         "victoires": "5",
-        "nuls": "1",
-        "defaites": "7",
-        "buts_pour": "18",
+        "nuls": "2",
+        "defaites": "6",
+        "buts_pour": "19",
         "buts_contre": "21",
-        "difference": "-3",
+        "difference": "-2",
+        "points": "17"
+      },
+      {
+        "position": "10",
+        "nom": "Sparta R.",
+        "matchs": "13",
+        "victoires": "5",
+        "nuls": "2",
+        "defaites": "6",
+        "buts_pour": "15",
+        "buts_contre": "25",
+        "difference": "-10",
+        "points": "17"
+      },
+      {
+        "position": "11",
+        "nom": "Go Ahead Eagles",
+        "matchs": "13",
+        "victoires": "4",
+        "nuls": "4",
+        "defaites": "5",
+        "buts_pour": "21",
+        "buts_contre": "21",
+        "difference": "0",
         "points": "16"
       },
       {
@@ -2582,6 +2582,18 @@
       },
       {
         "position": "17",
+        "nom": "Almelo",
+        "matchs": "13",
+        "victoires": "4",
+        "nuls": "0",
+        "defaites": "9",
+        "buts_pour": "20",
+        "buts_contre": "35",
+        "difference": "-15",
+        "points": "12"
+      },
+      {
+        "position": "18",
         "nom": "Telstar",
         "matchs": "12",
         "victoires": "2",
@@ -2590,18 +2602,6 @@
         "buts_pour": "14",
         "buts_contre": "21",
         "difference": "-7",
-        "points": "9"
-      },
-      {
-        "position": "18",
-        "nom": "Almelo",
-        "matchs": "13",
-        "victoires": "3",
-        "nuls": "0",
-        "defaites": "10",
-        "buts_pour": "18",
-        "buts_contre": "35",
-        "difference": "-17",
         "points": "9"
       }
     ]
@@ -4525,9 +4525,9 @@
         "victoires": "7",
         "nuls": "4",
         "defaites": "2",
-        "buts_pour": "22",
+        "buts_pour": "23",
         "buts_contre": "13",
-        "difference": "9",
+        "difference": "10",
         "points": "25"
       },
       {
@@ -4670,8 +4670,8 @@
         "nuls": "1",
         "defaites": "8",
         "buts_pour": "20",
-        "buts_contre": "33",
-        "difference": "-13",
+        "buts_contre": "34",
+        "difference": "-14",
         "points": "13"
       },
       {
@@ -4781,6 +4781,18 @@
       },
       {
         "position": "6",
+        "nom": "FC Córdoba",
+        "matchs": "15",
+        "victoires": "6",
+        "nuls": "5",
+        "defaites": "4",
+        "buts_pour": "20",
+        "buts_contre": "19",
+        "difference": "1",
+        "points": "23"
+      },
+      {
+        "position": "7",
         "nom": "Castellón",
         "matchs": "15",
         "victoires": "6",
@@ -4790,18 +4802,6 @@
         "buts_contre": "20",
         "difference": "3",
         "points": "22"
-      },
-      {
-        "position": "7",
-        "nom": "FC Córdoba",
-        "matchs": "15",
-        "victoires": "5",
-        "nuls": "6",
-        "defaites": "4",
-        "buts_pour": "19",
-        "buts_contre": "19",
-        "difference": "0",
-        "points": "21"
       },
       {
         "position": "8",
@@ -4913,15 +4913,15 @@
       },
       {
         "position": "17",
-        "nom": "FC Granada",
-        "matchs": "15",
-        "victoires": "3",
-        "nuls": "7",
-        "defaites": "5",
-        "buts_pour": "17",
-        "buts_contre": "20",
-        "difference": "-3",
-        "points": "16"
+        "nom": "Málaga CF",
+        "matchs": "14",
+        "victoires": "4",
+        "nuls": "3",
+        "defaites": "7",
+        "buts_pour": "16",
+        "buts_contre": "18",
+        "difference": "-2",
+        "points": "15"
       },
       {
         "position": "18",
@@ -4937,14 +4937,14 @@
       },
       {
         "position": "19",
-        "nom": "Málaga CF",
-        "matchs": "14",
-        "victoires": "4",
-        "nuls": "3",
-        "defaites": "7",
-        "buts_pour": "16",
-        "buts_contre": "18",
-        "difference": "-2",
+        "nom": "FC Granada",
+        "matchs": "15",
+        "victoires": "3",
+        "nuls": "6",
+        "defaites": "6",
+        "buts_pour": "17",
+        "buts_contre": "21",
+        "difference": "-4",
         "points": "15"
       },
       {
@@ -5150,12 +5150,12 @@
         "nom": "FC Thun",
         "matchs": "14",
         "victoires": "10",
-        "nuls": "2",
-        "defaites": "2",
+        "nuls": "1",
+        "defaites": "3",
         "buts_pour": "26",
-        "buts_contre": "14",
-        "difference": "12",
-        "points": "32"
+        "buts_contre": "15",
+        "difference": "11",
+        "points": "31"
       },
       {
         "position": "2",
@@ -5183,6 +5183,18 @@
       },
       {
         "position": "4",
+        "nom": "FC Lugano",
+        "matchs": "13",
+        "victoires": "7",
+        "nuls": "1",
+        "defaites": "5",
+        "buts_pour": "18",
+        "buts_contre": "17",
+        "difference": "1",
+        "points": "22"
+      },
+      {
+        "position": "5",
         "nom": "FC Saint-Gall",
         "matchs": "12",
         "victoires": "7",
@@ -5192,18 +5204,6 @@
         "buts_contre": "17",
         "difference": "9",
         "points": "21"
-      },
-      {
-        "position": "5",
-        "nom": "FC Lugano",
-        "matchs": "13",
-        "victoires": "6",
-        "nuls": "2",
-        "defaites": "5",
-        "buts_pour": "17",
-        "buts_contre": "17",
-        "difference": "0",
-        "points": "20"
       },
       {
         "position": "6",
@@ -12983,8 +12983,8 @@
         "nuls": "4",
         "defaites": "1",
         "buts_pour": "28",
-        "buts_contre": "11",
-        "difference": "17",
+        "buts_contre": "12",
+        "difference": "16",
         "points": "40"
       },
       {
@@ -13030,9 +13030,9 @@
         "victoires": "9",
         "nuls": "0",
         "defaites": "8",
-        "buts_pour": "19",
+        "buts_pour": "20",
         "buts_contre": "27",
-        "difference": "-8",
+        "difference": "-7",
         "points": "27"
       },
       {
@@ -17670,14 +17670,14 @@
       {
         "position": "2",
         "nom": "The Strongest",
-        "matchs": "24",
+        "matchs": "25",
         "victoires": "18",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "5",
         "buts_pour": "64",
         "buts_contre": "39",
         "difference": "25",
-        "points": "55"
+        "points": "56"
       },
       {
         "position": "3",
@@ -17790,14 +17790,14 @@
       {
         "position": "12",
         "nom": "Real Oruro",
-        "matchs": "24",
+        "matchs": "25",
         "victoires": "6",
-        "nuls": "7",
+        "nuls": "8",
         "defaites": "11",
         "buts_pour": "39",
         "buts_contre": "51",
         "difference": "-12",
-        "points": "25"
+        "points": "26"
       },
       {
         "position": "13",
