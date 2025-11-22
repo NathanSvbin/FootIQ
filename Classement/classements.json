@@ -12213,9 +12213,9 @@
         "victoires": "19",
         "nuls": "7",
         "defaites": "4",
-        "buts_pour": "66",
+        "buts_pour": "67",
         "buts_contre": "34",
-        "difference": "32",
+        "difference": "33",
         "points": "64"
       },
       {
@@ -12237,9 +12237,9 @@
         "victoires": "17",
         "nuls": "6",
         "defaites": "7",
-        "buts_pour": "67",
+        "buts_pour": "68",
         "buts_contre": "46",
-        "difference": "21",
+        "difference": "22",
         "points": "57"
       },
       {
@@ -12249,9 +12249,9 @@
         "victoires": "15",
         "nuls": "8",
         "defaites": "7",
-        "buts_pour": "67",
+        "buts_pour": "68",
         "buts_contre": "45",
-        "difference": "22",
+        "difference": "23",
         "points": "53"
       },
       {
@@ -12274,8 +12274,8 @@
         "nuls": "8",
         "defaites": "10",
         "buts_pour": "39",
-        "buts_contre": "40",
-        "difference": "-1",
+        "buts_contre": "41",
+        "difference": "-2",
         "points": "44"
       },
       {
@@ -12346,8 +12346,8 @@
         "nuls": "7",
         "defaites": "17",
         "buts_pour": "33",
-        "buts_contre": "60",
-        "difference": "-27",
+        "buts_contre": "61",
+        "difference": "-28",
         "points": "25"
       },
       {
@@ -12370,8 +12370,8 @@
         "nuls": "6",
         "defaites": "19",
         "buts_pour": "36",
-        "buts_contre": "69",
-        "difference": "-33",
+        "buts_contre": "70",
+        "difference": "-34",
         "points": "21"
       },
       {
@@ -18940,13 +18940,13 @@
         "position": "4",
         "nom": "PSIM Yogyakarta",
         "matchs": "12",
-        "victoires": "5",
-        "nuls": "5",
+        "victoires": "6",
+        "nuls": "4",
         "defaites": "2",
-        "buts_pour": "15",
+        "buts_pour": "16",
         "buts_contre": "13",
-        "difference": "2",
-        "points": "20"
+        "difference": "3",
+        "points": "22"
       },
       {
         "position": "5",
@@ -18962,18 +18962,6 @@
       },
       {
         "position": "6",
-        "nom": "Bhayangkara FC",
-        "matchs": "12",
-        "victoires": "5",
-        "nuls": "4",
-        "defaites": "3",
-        "buts_pour": "11",
-        "buts_contre": "7",
-        "difference": "4",
-        "points": "19"
-      },
-      {
-        "position": "7",
         "nom": "Persita",
         "matchs": "11",
         "victoires": "5",
@@ -18981,6 +18969,18 @@
         "defaites": "3",
         "buts_pour": "15",
         "buts_contre": "12",
+        "difference": "3",
+        "points": "18"
+      },
+      {
+        "position": "7",
+        "nom": "Bhayangkara FC",
+        "matchs": "12",
+        "victoires": "5",
+        "nuls": "3",
+        "defaites": "4",
+        "buts_pour": "11",
+        "buts_contre": "8",
         "difference": "3",
         "points": "18"
       },
@@ -21950,14 +21950,14 @@
       {
         "position": "4",
         "nom": "Terengganu FC",
-        "matchs": "8",
+        "matchs": "9",
         "victoires": "4",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "3",
         "buts_pour": "20",
         "buts_contre": "14",
         "difference": "6",
-        "points": "13"
+        "points": "14"
       },
       {
         "position": "5",
@@ -21974,14 +21974,14 @@
       {
         "position": "6",
         "nom": "N. Sembilan FC",
-        "matchs": "8",
+        "matchs": "9",
         "victoires": "3",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "2",
         "buts_pour": "16",
         "buts_contre": "13",
         "difference": "3",
-        "points": "12"
+        "points": "13"
       },
       {
         "position": "7",
