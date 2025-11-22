@@ -23,7 +23,7 @@ def lire_championnats_csv(fichier_csv):
         championnats = []
         for row in reader:
             if len(row) >= 3 and row[2].startswith("https"):
-                id = row[0].strip()
+                id = row[0]
                 nom = row[1].strip()
                 lien = row[2].strip()
                 lien_classement = lien.replace("startseite", "tabelle") + "/saison_id/2025"
@@ -104,6 +104,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
