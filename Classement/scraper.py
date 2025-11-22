@@ -89,9 +89,9 @@ def main():
                     "id_championnat" : id,
                     "championnat": nom,
                     "url": url,
+                    "id_pays": pays,
                     "saison": 2025,
                     "equipes": equipes,
-                    "id_pays": pays,
                 })
         except Exception as e:
             print(f"❌ Erreur sur {nom}: {e}")
@@ -106,6 +106,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
