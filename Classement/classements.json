@@ -3,6 +3,7 @@
     "id_championnat": "1",
     "championnat": "Premier League",
     "url": "https://www.transfermarkt.fr/premier-league/tabelle/wettbewerb/GB1/saison_id/2025",
+    "id_pays": "4",
     "saison": 2025,
     "equipes": [
       {
@@ -245,13 +246,13 @@
         "difference": "-20",
         "points": "2"
       }
-    ],
-    "id_pays": "4"
+    ]
   },
   {
     "id_championnat": "2",
     "championnat": "LaLiga",
     "url": "https://www.transfermarkt.fr/laliga/tabelle/wettbewerb/ES1/saison_id/2025",
+    "id_pays": "15",
     "saison": 2025,
     "equipes": [
       {
@@ -494,13 +495,13 @@
         "difference": "-13",
         "points": "8"
       }
-    ],
-    "id_pays": "15"
+    ]
   },
   {
     "id_championnat": "3",
     "championnat": "Serie A",
     "url": "https://www.transfermarkt.fr/serie-a/tabelle/wettbewerb/IT1/saison_id/2025",
+    "id_pays": "27",
     "saison": 2025,
     "equipes": [
       {
@@ -743,13 +744,13 @@
         "difference": "-10",
         "points": "5"
       }
-    ],
-    "id_pays": "27"
+    ]
   },
   {
     "id_championnat": "4",
     "championnat": "Bundesliga",
     "url": "https://www.transfermarkt.fr/bundesliga/tabelle/wettbewerb/L1/saison_id/2025",
+    "id_pays": "2",
     "saison": 2025,
     "equipes": [
       {
@@ -968,13 +969,13 @@
         "difference": "-18",
         "points": "5"
       }
-    ],
-    "id_pays": "2"
+    ]
   },
   {
     "id_championnat": "5",
     "championnat": "Ligue 1",
     "url": "https://www.transfermarkt.fr/ligue-1/tabelle/wettbewerb/FR1/saison_id/2025",
+    "id_pays": "18",
     "saison": 2025,
     "equipes": [
       {
@@ -1027,6 +1028,18 @@
       },
       {
         "position": "5",
+        "nom": "Monaco",
+        "matchs": "13",
+        "victoires": "6",
+        "nuls": "3",
+        "defaites": "4",
+        "buts_pour": "24",
+        "buts_contre": "21",
+        "difference": "3",
+        "points": "21"
+      },
+      {
+        "position": "6",
         "nom": "LOSC Lille",
         "matchs": "12",
         "victoires": "6",
@@ -1035,18 +1048,6 @@
         "buts_pour": "23",
         "buts_contre": "15",
         "difference": "8",
-        "points": "20"
-      },
-      {
-        "position": "6",
-        "nom": "Monaco",
-        "matchs": "12",
-        "victoires": "6",
-        "nuls": "2",
-        "defaites": "4",
-        "buts_pour": "24",
-        "buts_contre": "21",
-        "difference": "3",
         "points": "20"
       },
       {
@@ -1064,14 +1065,14 @@
       {
         "position": "8",
         "nom": "Stade Rennais",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "4",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "2",
         "buts_pour": "19",
         "buts_contre": "17",
         "difference": "2",
-        "points": "18"
+        "points": "19"
       },
       {
         "position": "9",
@@ -1193,13 +1194,13 @@
         "difference": "-12",
         "points": "7"
       }
-    ],
-    "id_pays": "18"
+    ]
   },
   {
     "id_championnat": "7",
     "championnat": "Championship",
     "url": "https://www.transfermarkt.fr/championship/tabelle/wettbewerb/GB2/saison_id/2025",
+    "id_pays": "15",
     "saison": 2025,
     "equipes": [
       {
@@ -1490,13 +1491,13 @@
         "difference": "-17",
         "points": "8"
       }
-    ],
-    "id_pays": "15"
+    ]
   },
   {
     "id_championnat": "6",
     "championnat": "Série A",
     "url": "https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/tabelle/wettbewerb/BRA1/saison_id/2025",
+    "id_pays": "88",
     "saison": 2025,
     "equipes": [
       {
@@ -1739,13 +1740,13 @@
         "difference": "-36",
         "points": "17"
       }
-    ],
-    "id_pays": "88"
+    ]
   },
   {
     "id_championnat": "8",
     "championnat": "Liga Portugal",
     "url": "https://www.transfermarkt.fr/liga-portugal/tabelle/wettbewerb/PO1/saison_id/2025",
+    "id_pays": "4",
     "saison": 2025,
     "equipes": [
       {
@@ -1964,13 +1965,13 @@
         "difference": "-17",
         "points": "3"
       }
-    ],
-    "id_pays": "4"
+    ]
   },
   {
     "id_championnat": "11",
     "championnat": "MLS",
     "url": "https://www.transfermarkt.fr/major-league-soccer/tabelle/wettbewerb/MLS1/saison_id/2025",
+    "id_pays": "95",
     "saison": 2025,
     "equipes": [
       {
@@ -2153,13 +2154,13 @@
         "difference": "0",
         "points": "0"
       }
-    ],
-    "id_pays": "95"
+    ]
   },
   {
     "id_championnat": "10",
     "championnat": "Süper Lig",
     "url": "https://www.transfermarkt.fr/super-lig/tabelle/wettbewerb/TR1/saison_id/2025",
+    "id_pays": "40",
     "saison": 2025,
     "equipes": [
       {
@@ -2378,13 +2379,13 @@
         "difference": "-11",
         "points": "8"
       }
-    ],
-    "id_pays": "40"
+    ]
   },
   {
     "id_championnat": "9",
     "championnat": "Eredivisie",
     "url": "https://www.transfermarkt.fr/eredivisie/tabelle/wettbewerb/NL1/saison_id/2025",
+    "id_pays": "50",
     "saison": 2025,
     "equipes": [
       {
@@ -2603,13 +2604,13 @@
         "difference": "-16",
         "points": "9"
       }
-    ],
-    "id_pays": "50"
+    ]
   },
   {
     "id_championnat": "12",
     "championnat": "Saudi Pro League",
     "url": "https://www.transfermarkt.fr/saudi-pro-league/tabelle/wettbewerb/SA1/saison_id/2025",
+    "id_pays": "53",
     "saison": 2025,
     "equipes": [
       {
@@ -2828,13 +2829,13 @@
         "difference": "-13",
         "points": "1"
       }
-    ],
-    "id_pays": "53"
+    ]
   },
   {
     "id_championnat": "13",
     "championnat": "Premier Liga",
     "url": "https://www.transfermarkt.fr/premier-liga/tabelle/wettbewerb/RU1/saison_id/2025",
+    "id_pays": "37",
     "saison": 2025,
     "equipes": [
       {
@@ -3029,13 +3030,13 @@
         "difference": "-16",
         "points": "8"
       }
-    ],
-    "id_pays": "37"
+    ]
   },
   {
     "id_championnat": "14",
     "championnat": "Torneo Apertura",
     "url": "https://www.transfermarkt.fr/torneo-apertura/tabelle/wettbewerb/ARG1/saison_id/2025",
+    "id_pays": "86",
     "saison": 2025,
     "equipes": [
       {
@@ -3218,13 +3219,13 @@
         "difference": "-6",
         "points": "14"
       }
-    ],
-    "id_pays": "86"
+    ]
   },
   {
     "id_championnat": "15",
     "championnat": "Torneo Clausura",
     "url": "https://www.transfermarkt.fr/torneo-clausura/tabelle/wettbewerb/ARGC/saison_id/2025",
+    "id_pays": "86",
     "saison": 2025,
     "equipes": [
       {
@@ -3407,13 +3408,13 @@
         "difference": "-10",
         "points": "14"
       }
-    ],
-    "id_pays": "86"
+    ]
   },
   {
     "id_championnat": "16",
     "championnat": "Jupiler Pro League",
     "url": "https://www.transfermarkt.fr/jupiler-pro-league/tabelle/wettbewerb/BE1/saison_id/2025",
+    "id_pays": "43",
     "saison": 2025,
     "equipes": [
       {
@@ -3608,13 +3609,13 @@
         "difference": "-15",
         "points": "5"
       }
-    ],
-    "id_pays": "43"
+    ]
   },
   {
     "id_championnat": "17",
     "championnat": "Liga MX Clausura",
     "url": "https://www.transfermarkt.fr/liga-mx-clausura/tabelle/wettbewerb/MEX1/saison_id/2025",
+    "id_pays": "99",
     "saison": 2025,
     "equipes": [
       {
@@ -3833,13 +3834,13 @@
         "difference": "0",
         "points": "0"
       }
-    ],
-    "id_pays": "99"
+    ]
   },
   {
     "id_championnat": "18",
     "championnat": "Liga MX Apertura",
     "url": "https://www.transfermarkt.fr/liga-mx-apertura/tabelle/wettbewerb/MEXA/saison_id/2025",
+    "id_pays": "99",
     "saison": 2025,
     "equipes": [
       {
@@ -4058,26 +4059,26 @@
         "difference": "-21",
         "points": "12"
       }
-    ],
-    "id_pays": "99"
+    ]
   },
   {
     "id_championnat": "19",
     "championnat": "Super League 1",
     "url": "https://www.transfermarkt.fr/super-league-1/tabelle/wettbewerb/GR1/saison_id/2025",
+    "id_pays": "7",
     "saison": 2025,
     "equipes": [
       {
         "position": "1",
         "nom": "Olympiakos",
-        "matchs": "10",
+        "matchs": "11",
         "victoires": "8",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "1",
         "buts_pour": "23",
         "buts_contre": "7",
         "difference": "16",
-        "points": "25"
+        "points": "26"
       },
       {
         "position": "2",
@@ -4168,36 +4169,36 @@
         "nom": "Panetolikos",
         "matchs": "11",
         "victoires": "3",
-        "nuls": "3",
-        "defaites": "5",
+        "nuls": "2",
+        "defaites": "6",
         "buts_pour": "12",
-        "buts_contre": "16",
-        "difference": "-4",
-        "points": "12"
+        "buts_contre": "17",
+        "difference": "-5",
+        "points": "11"
       },
       {
         "position": "10",
         "nom": "Atromitos Athen",
-        "matchs": "10",
+        "matchs": "11",
         "victoires": "2",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "5",
         "buts_pour": "11",
         "buts_contre": "12",
         "difference": "-1",
-        "points": "9"
+        "points": "10"
       },
       {
         "position": "11",
         "nom": "Asteras Aktor",
         "matchs": "11",
-        "victoires": "1",
-        "nuls": "5",
+        "victoires": "2",
+        "nuls": "4",
         "defaites": "5",
-        "buts_pour": "12",
+        "buts_pour": "13",
         "buts_contre": "16",
-        "difference": "-4",
-        "points": "8"
+        "difference": "-3",
+        "points": "10"
       },
       {
         "position": "12",
@@ -4235,13 +4236,13 @@
         "difference": "-18",
         "points": "5"
       }
-    ],
-    "id_pays": "7"
+    ]
   },
   {
     "id_championnat": "20",
     "championnat": "Serie B",
     "url": "https://www.transfermarkt.fr/serie-b/tabelle/wettbewerb/IT2/saison_id/2025",
+    "id_pays": "4",
     "saison": 2025,
     "equipes": [
       {
@@ -4484,13 +4485,13 @@
         "difference": "-8",
         "points": "7"
       }
-    ],
-    "id_pays": "4"
+    ]
   },
   {
     "id_championnat": "21",
     "championnat": "2. Bundesliga",
     "url": "https://www.transfermarkt.fr/2-bundesliga/tabelle/wettbewerb/L2/saison_id/2025",
+    "id_pays": "15",
     "saison": 2025,
     "equipes": [
       {
@@ -4709,13 +4710,13 @@
         "difference": "-14",
         "points": "7"
       }
-    ],
-    "id_pays": "15"
+    ]
   },
   {
     "id_championnat": "22",
     "championnat": "LaLiga2",
     "url": "https://www.transfermarkt.fr/laliga2/tabelle/wettbewerb/ES2/saison_id/2025",
+    "id_pays": "40",
     "saison": 2025,
     "equipes": [
       {
@@ -4816,18 +4817,6 @@
       },
       {
         "position": "9",
-        "nom": "SD Eibar",
-        "matchs": "15",
-        "victoires": "5",
-        "nuls": "5",
-        "defaites": "5",
-        "buts_pour": "17",
-        "buts_contre": "16",
-        "difference": "1",
-        "points": "20"
-      },
-      {
-        "position": "10",
         "nom": "FC Córdoba",
         "matchs": "14",
         "victoires": "5",
@@ -4839,7 +4828,7 @@
         "points": "20"
       },
       {
-        "position": "11",
+        "position": "10",
         "nom": "Sporting Gijón",
         "matchs": "14",
         "victoires": "6",
@@ -4851,7 +4840,7 @@
         "points": "20"
       },
       {
-        "position": "12",
+        "position": "11",
         "nom": "Albacete",
         "matchs": "15",
         "victoires": "5",
@@ -4863,7 +4852,7 @@
         "points": "19"
       },
       {
-        "position": "13",
+        "position": "12",
         "nom": "CD Leganés",
         "matchs": "15",
         "victoires": "4",
@@ -4872,6 +4861,18 @@
         "buts_pour": "14",
         "buts_contre": "13",
         "difference": "1",
+        "points": "18"
+      },
+      {
+        "position": "13",
+        "nom": "SD Eibar",
+        "matchs": "15",
+        "victoires": "4",
+        "nuls": "6",
+        "defaites": "5",
+        "buts_pour": "17",
+        "buts_contre": "17",
+        "difference": "0",
         "points": "18"
       },
       {
@@ -4975,20 +4976,20 @@
         "nom": "Real Zaragoza",
         "matchs": "15",
         "victoires": "2",
-        "nuls": "3",
-        "defaites": "10",
-        "buts_pour": "8",
+        "nuls": "4",
+        "defaites": "9",
+        "buts_pour": "9",
         "buts_contre": "24",
-        "difference": "-16",
-        "points": "9"
+        "difference": "-15",
+        "points": "10"
       }
-    ],
-    "id_pays": "40"
+    ]
   },
   {
     "id_championnat": "23",
     "championnat": "Stars League",
     "url": "https://www.transfermarkt.fr/qatar-stars-league/tabelle/wettbewerb/QSL/saison_id/2025",
+    "id_pays": "54",
     "saison": 2025,
     "equipes": [
       {
@@ -5135,13 +5136,13 @@
         "difference": "-11",
         "points": "4"
       }
-    ],
-    "id_pays": "54"
+    ]
   },
   {
     "id_championnat": "24",
     "championnat": "Super League",
     "url": "https://www.transfermarkt.fr/super-league/tabelle/wettbewerb/C1/saison_id/2025",
+    "id_pays": "21",
     "saison": 2025,
     "equipes": [
       {
@@ -5288,13 +5289,13 @@
         "difference": "-24",
         "points": "6"
       }
-    ],
-    "id_pays": "21"
+    ]
   },
   {
     "id_championnat": "25",
     "championnat": "Premier Liga",
     "url": "https://www.transfermarkt.fr/premier-liga/tabelle/wettbewerb/UKR1/saison_id/2025",
+    "id_pays": "27",
     "saison": 2025,
     "equipes": [
       {
@@ -5489,13 +5490,13 @@
         "difference": "-21",
         "points": "6"
       }
-    ],
-    "id_pays": "27"
+    ]
   },
   {
     "id_championnat": "26",
     "championnat": "UAE Pro League",
     "url": "https://www.transfermarkt.fr/uae-pro-league/tabelle/wettbewerb/UAE1/saison_id/2025",
+    "id_pays": "55",
     "saison": 2025,
     "equipes": [
       {
@@ -5666,13 +5667,13 @@
         "difference": "-6",
         "points": "3"
       }
-    ],
-    "id_pays": "55"
+    ]
   },
   {
     "id_championnat": "27",
     "championnat": "Chance Liga",
     "url": "https://www.transfermarkt.fr/chance-liga/tabelle/wettbewerb/TS1/saison_id/2025",
+    "id_pays": "2",
     "saison": 2025,
     "equipes": [
       {
@@ -5867,13 +5868,13 @@
         "difference": "-15",
         "points": "8"
       }
-    ],
-    "id_pays": "2"
+    ]
   },
   {
     "id_championnat": "28",
     "championnat": "Bundesliga",
     "url": "https://www.transfermarkt.fr/bundesliga/tabelle/wettbewerb/A1/saison_id/2025",
+    "id_pays": "15",
     "saison": 2025,
     "equipes": [
       {
@@ -6020,13 +6021,13 @@
         "difference": "-13",
         "points": "9"
       }
-    ],
-    "id_pays": "15"
+    ]
   },
   {
     "id_championnat": "29",
     "championnat": "Ekstraklasa",
     "url": "https://www.transfermarkt.fr/pko-bp-ekstraklasa/tabelle/wettbewerb/PL1/saison_id/2025",
+    "id_pays": "48",
     "saison": 2025,
     "equipes": [
       {
@@ -6073,8 +6074,8 @@
         "nuls": "2",
         "defaites": "6",
         "buts_pour": "20",
-        "buts_contre": "20",
-        "difference": "0",
+        "buts_contre": "21",
+        "difference": "-1",
         "points": "23"
       },
       {
@@ -6228,9 +6229,9 @@
         "victoires": "3",
         "nuls": "5",
         "defaites": "6",
-        "buts_pour": "15",
+        "buts_pour": "16",
         "buts_contre": "16",
-        "difference": "-1",
+        "difference": "0",
         "points": "14"
       },
       {
@@ -6245,13 +6246,13 @@
         "difference": "-7",
         "points": "13"
       }
-    ],
-    "id_pays": "48"
+    ]
   },
   {
     "id_championnat": "30",
     "championnat": "Premiership",
     "url": "https://www.transfermarkt.fr/scottish-premiership/tabelle/wettbewerb/SC1/saison_id/2025",
+    "id_pays": "51",
     "saison": 2025,
     "equipes": [
       {
@@ -6398,13 +6399,13 @@
         "difference": "-10",
         "points": "8"
       }
-    ],
-    "id_pays": "51"
+    ]
   },
   {
     "id_championnat": "31",
     "championnat": "Superliga",
     "url": "https://www.transfermarkt.fr/superliga/tabelle/wettbewerb/DK1/saison_id/2025",
+    "id_pays": "41",
     "saison": 2025,
     "equipes": [
       {
@@ -6551,13 +6552,13 @@
         "difference": "-10",
         "points": "10"
       }
-    ],
-    "id_pays": "41"
+    ]
   },
   {
     "id_championnat": "32",
     "championnat": "Ligue 2",
     "url": "https://www.transfermarkt.fr/ligue-2/tabelle/wettbewerb/FR2/saison_id/2025",
+    "id_pays": "28",
     "saison": 2025,
     "equipes": [
       {
@@ -6776,13 +6777,13 @@
         "difference": "-12",
         "points": "7"
       }
-    ],
-    "id_pays": "28"
+    ]
   },
   {
     "id_championnat": "33",
     "championnat": "Eliteserien",
     "url": "https://www.transfermarkt.fr/eliteserien/tabelle/wettbewerb/NO1/saison_id/2025",
+    "id_pays": "5",
     "saison": 2025,
     "equipes": [
       {
@@ -6977,13 +6978,13 @@
         "difference": "-50",
         "points": "9"
       }
-    ],
-    "id_pays": "5"
+    ]
   },
   {
     "id_championnat": "34",
     "championnat": "J1 League",
     "url": "https://www.transfermarkt.fr/j1-league/tabelle/wettbewerb/JAP1/saison_id/2025",
+    "id_pays": "56",
     "saison": 2025,
     "equipes": [
       {
@@ -7226,13 +7227,13 @@
         "difference": "-29",
         "points": "23"
       }
-    ],
-    "id_pays": "56"
+    ]
   },
   {
     "id_championnat": "35",
     "championnat": "League One",
     "url": "https://www.transfermarkt.fr/league-one/tabelle/wettbewerb/GB3/saison_id/2025",
+    "id_pays": "15",
     "saison": 2025,
     "equipes": [
       {
@@ -7523,13 +7524,13 @@
         "difference": "-9",
         "points": "14"
       }
-    ],
-    "id_pays": "15"
+    ]
   },
   {
     "id_championnat": "36",
     "championnat": "Super liga Srbije",
     "url": "https://www.transfermarkt.fr/super-liga-srbije/tabelle/wettbewerb/SER1/saison_id/2025",
+    "id_pays": "39",
     "saison": 2025,
     "equipes": [
       {
@@ -7724,13 +7725,13 @@
         "difference": "-21",
         "points": "9"
       }
-    ],
-    "id_pays": "39"
+    ]
   },
   {
     "id_championnat": "37",
     "championnat": "Allsvenskan",
     "url": "https://www.transfermarkt.fr/allsvenskan/tabelle/wettbewerb/SE1/saison_id/2025",
+    "id_pays": "14",
     "saison": 2025,
     "equipes": [
       {
@@ -7925,13 +7926,13 @@
         "difference": "-33",
         "points": "16"
       }
-    ],
-    "id_pays": "14"
+    ]
   },
   {
     "id_championnat": "38",
     "championnat": "SuperLiga",
     "url": "https://www.transfermarkt.fr/superliga/tabelle/wettbewerb/RO1/saison_id/2025",
+    "id_pays": "13",
     "saison": 2025,
     "equipes": [
       {
@@ -8126,13 +8127,13 @@
         "difference": "-20",
         "points": "7"
       }
-    ],
-    "id_pays": "13"
+    ]
   },
   {
     "id_championnat": "39",
     "championnat": "Série B",
     "url": "https://www.transfermarkt.fr/campeonato-brasileiro-serie-b/tabelle/wettbewerb/BRA2/saison_id/2025",
+    "id_pays": "88",
     "saison": 2025,
     "equipes": [
       {
@@ -8375,13 +8376,13 @@
         "difference": "-15",
         "points": "28"
       }
-    ],
-    "id_pays": "88"
+    ]
   },
   {
     "id_championnat": "40",
     "championnat": "SuperSport HNL",
     "url": "https://www.transfermarkt.fr/supersport-hnl/tabelle/wettbewerb/KR1/saison_id/2025",
+    "id_pays": "18",
     "saison": 2025,
     "equipes": [
       {
@@ -8504,13 +8505,13 @@
         "difference": "-6",
         "points": "10"
       }
-    ],
-    "id_pays": "18"
+    ]
   },
   {
     "id_championnat": "41",
     "championnat": "Liga DIMAYOR II",
     "url": "https://www.transfermarkt.fr/liga-dimayor-finalizacion/tabelle/wettbewerb/COL1/saison_id/2025",
+    "id_pays": "91",
     "saison": 2025,
     "equipes": [
       {
@@ -8753,13 +8754,13 @@
         "difference": "-15",
         "points": "14"
       }
-    ],
-    "id_pays": "91"
+    ]
   },
   {
     "id_championnat": "42",
     "championnat": "Liga DIMAYOR I",
     "url": "https://www.transfermarkt.fr/liga-dimayor-apertura/tabelle/wettbewerb/COLP/saison_id/2025",
+    "id_pays": "91",
     "saison": 2025,
     "equipes": [
       {
@@ -9002,13 +9003,13 @@
         "difference": "-22",
         "points": "10"
       }
-    ],
-    "id_pays": "91"
+    ]
   },
   {
     "id_championnat": "43",
     "championnat": "efbet Liga",
     "url": "https://www.transfermarkt.fr/efbet-liga/tabelle/wettbewerb/BU1/saison_id/2025",
+    "id_pays": "36",
     "saison": 2025,
     "equipes": [
       {
@@ -9203,13 +9204,13 @@
         "difference": "-12",
         "points": "10"
       }
-    ],
-    "id_pays": "36"
+    ]
   },
   {
     "id_championnat": "44",
     "championnat": "Liga Primera",
     "url": "https://www.transfermarkt.fr/liga-de-primera/tabelle/wettbewerb/CLPD/saison_id/2025",
+    "id_pays": "90",
     "saison": 2025,
     "equipes": [
       {
@@ -9404,13 +9405,13 @@
         "difference": "-26",
         "points": "21"
       }
-    ],
-    "id_pays": "90"
+    ]
   },
   {
     "id_championnat": "45",
     "championnat": "Liga AUF Apertura",
     "url": "https://www.transfermarkt.fr/liga-auf-apertura/tabelle/wettbewerb/URU1/saison_id/2025",
+    "id_pays": "105",
     "saison": 2025,
     "equipes": [
       {
@@ -9605,13 +9606,13 @@
         "difference": "-10",
         "points": "10"
       }
-    ],
-    "id_pays": "105"
+    ]
   },
   {
     "id_championnat": "46",
     "championnat": "Liga AUF Clausura",
     "url": "https://www.transfermarkt.fr/liga-auf-clausura/tabelle/wettbewerb/URUC/saison_id/2025",
+    "id_pays": "105",
     "saison": 2025,
     "equipes": [
       {
@@ -9806,13 +9807,13 @@
         "difference": "-18",
         "points": "7"
       }
-    ],
-    "id_pays": "105"
+    ]
   },
   {
     "id_championnat": "47",
     "championnat": "Liga AUF Intermedio",
     "url": "https://www.transfermarkt.fr/liga-auf-intermedio/tabelle/wettbewerb/URUI/saison_id/2025",
+    "id_pays": "105",
     "saison": 2025,
     "equipes": [
       {
@@ -9911,13 +9912,13 @@
         "difference": "-4",
         "points": "3"
       }
-    ],
-    "id_pays": "105"
+    ]
   },
   {
     "id_championnat": "48",
     "championnat": "LigaPro Serie A",
     "url": "https://www.transfermarkt.fr/ligapro-serie-a/tabelle/wettbewerb/EC1N/saison_id/2025",
+    "id_pays": "93",
     "saison": 2025,
     "equipes": [
       {
@@ -10112,13 +10113,13 @@
         "difference": "-19",
         "points": "26"
       }
-    ],
-    "id_pays": "93"
+    ]
   },
   {
     "id_championnat": "49",
     "championnat": "Premier League",
     "url": "https://www.transfermarkt.fr/egyptian-premier-league/tabelle/wettbewerb/EGY1/saison_id/2025",
+    "id_pays": "112",
     "saison": 2025,
     "equipes": [
       {
@@ -10196,17 +10197,29 @@
       {
         "position": "7",
         "nom": "Enppi SC",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "4",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "1",
         "buts_pour": "10",
         "buts_contre": "6",
         "difference": "4",
-        "points": "18"
+        "points": "19"
       },
       {
         "position": "8",
+        "nom": "Bank El Ahly",
+        "matchs": "13",
+        "victoires": "3",
+        "nuls": "8",
+        "defaites": "2",
+        "buts_pour": "12",
+        "buts_contre": "7",
+        "difference": "5",
+        "points": "17"
+      },
+      {
+        "position": "9",
         "nom": "Zed FC",
         "matchs": "13",
         "victoires": "4",
@@ -10218,19 +10231,19 @@
         "points": "17"
       },
       {
-        "position": "9",
-        "nom": "Bank El Ahly",
-        "matchs": "12",
-        "victoires": "3",
-        "nuls": "7",
-        "defaites": "2",
-        "buts_pour": "12",
-        "buts_contre": "7",
-        "difference": "5",
-        "points": "16"
+        "position": "10",
+        "nom": "Modern Sport",
+        "matchs": "13",
+        "victoires": "4",
+        "nuls": "5",
+        "defaites": "4",
+        "buts_pour": "14",
+        "buts_contre": "15",
+        "difference": "-1",
+        "points": "17"
       },
       {
-        "position": "10",
+        "position": "11",
         "nom": "El Mahalla",
         "matchs": "13",
         "victoires": "2",
@@ -10242,7 +10255,7 @@
         "points": "16"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "Smouha",
         "matchs": "12",
         "victoires": "3",
@@ -10251,18 +10264,6 @@
         "buts_pour": "9",
         "buts_contre": "7",
         "difference": "2",
-        "points": "16"
-      },
-      {
-        "position": "12",
-        "nom": "Modern Sport",
-        "matchs": "12",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "4",
-        "buts_pour": "14",
-        "buts_contre": "15",
-        "difference": "-1",
         "points": "16"
       },
       {
@@ -10315,6 +10316,18 @@
       },
       {
         "position": "17",
+        "nom": "Talaea El Geish",
+        "matchs": "14",
+        "victoires": "2",
+        "nuls": "5",
+        "defaites": "7",
+        "buts_pour": "6",
+        "buts_contre": "18",
+        "difference": "-12",
+        "points": "11"
+      },
+      {
+        "position": "18",
         "nom": "El Mokawloon",
         "matchs": "13",
         "victoires": "1",
@@ -10326,7 +10339,7 @@
         "points": "10"
       },
       {
-        "position": "18",
+        "position": "19",
         "nom": "Ismaily",
         "matchs": "13",
         "victoires": "3",
@@ -10335,18 +10348,6 @@
         "buts_pour": "7",
         "buts_contre": "16",
         "difference": "-9",
-        "points": "10"
-      },
-      {
-        "position": "19",
-        "nom": "Talaea El Geish",
-        "matchs": "13",
-        "victoires": "2",
-        "nuls": "4",
-        "defaites": "7",
-        "buts_pour": "6",
-        "buts_contre": "18",
-        "difference": "-12",
         "points": "10"
       },
       {
@@ -10373,13 +10374,13 @@
         "difference": "-12",
         "points": "8"
       }
-    ],
-    "id_pays": "112"
+    ]
   },
   {
     "id_championnat": "51",
     "championnat": "1.Lig",
     "url": "https://www.transfermarkt.fr/1-lig/tabelle/wettbewerb/TR2/saison_id/2025",
+    "id_pays": "36",
     "saison": 2025,
     "equipes": [
       {
@@ -10521,8 +10522,8 @@
         "victoires": "5",
         "nuls": "3",
         "defaites": "6",
-        "buts_pour": "25",
-        "buts_contre": "28",
+        "buts_pour": "26",
+        "buts_contre": "29",
         "difference": "-3",
         "points": "18"
       },
@@ -10557,8 +10558,8 @@
         "victoires": "2",
         "nuls": "9",
         "defaites": "3",
-        "buts_pour": "14",
-        "buts_contre": "19",
+        "buts_pour": "15",
+        "buts_contre": "20",
         "difference": "-5",
         "points": "15"
       },
@@ -10622,13 +10623,13 @@
         "difference": "-52",
         "points": "-23"
       }
-    ],
-    "id_pays": "36"
+    ]
   },
   {
     "id_championnat": "52",
     "championnat": "Ligat ha'Al",
     "url": "https://www.transfermarkt.fr/ligat-haal/tabelle/wettbewerb/ISR1/saison_id/2025",
+    "id_pays": "4",
     "saison": 2025,
     "equipes": [
       {
@@ -10799,13 +10800,13 @@
         "difference": "-20",
         "points": "1"
       }
-    ],
-    "id_pays": "4"
+    ]
   },
   {
     "id_championnat": "53",
     "championnat": "Liga Portugal 2",
     "url": "https://www.transfermarkt.fr/liga-portugal-2/tabelle/wettbewerb/PO2/saison_id/2025",
+    "id_pays": "21",
     "saison": 2025,
     "equipes": [
       {
@@ -11024,13 +11025,13 @@
         "difference": "-9",
         "points": "8"
       }
-    ],
-    "id_pays": "21"
+    ]
   },
   {
     "id_championnat": "54",
     "championnat": "NB I.",
     "url": "https://www.transfermarkt.fr/nemzeti-bajnoksag/tabelle/wettbewerb/UNG1/saison_id/2025",
+    "id_pays": "44",
     "saison": 2025,
     "equipes": [
       {
@@ -11177,13 +11178,13 @@
         "difference": "-14",
         "points": "10"
       }
-    ],
-    "id_pays": "44"
+    ]
   },
   {
     "id_championnat": "55",
     "championnat": "Betway Premiership",
     "url": "https://www.transfermarkt.fr/betway-premiership/tabelle/wettbewerb/SFA1/saison_id/2025",
+    "id_pays": "110",
     "saison": 2025,
     "equipes": [
       {
@@ -11378,13 +11379,13 @@
         "difference": "-12",
         "points": "7"
       }
-    ],
-    "id_pays": "110"
+    ]
   },
   {
     "id_championnat": "57",
     "championnat": "Cyprus League",
     "url": "https://www.transfermarkt.fr/cyprus-league/tabelle/wettbewerb/ZYP1/saison_id/2025",
+    "id_pays": "49",
     "saison": 2025,
     "equipes": [
       {
@@ -11555,13 +11556,13 @@
         "difference": "-21",
         "points": "1"
       }
-    ],
-    "id_pays": "49"
+    ]
   },
   {
     "id_championnat": "58",
     "championnat": "3. Liga",
     "url": "https://www.transfermarkt.fr/3-liga/tabelle/wettbewerb/L3/saison_id/2025",
+    "id_pays": "51",
     "saison": 2025,
     "equipes": [
       {
@@ -11804,13 +11805,13 @@
         "difference": "-26",
         "points": "6"
       }
-    ],
-    "id_pays": "51"
+    ]
   },
   {
     "id_championnat": "59",
     "championnat": "Keuken Kampioen Divisie",
     "url": "https://www.transfermarkt.fr/keuken-kampioen-divisie/tabelle/wettbewerb/NL2/saison_id/2025",
+    "id_pays": "49",
     "saison": 2025,
     "equipes": [
       {
@@ -12053,13 +12054,13 @@
         "difference": "0",
         "points": "7"
       }
-    ],
-    "id_pays": "49"
+    ]
   },
   {
     "id_championnat": "60",
     "championnat": "J2 League",
     "url": "https://www.transfermarkt.fr/j2-league/tabelle/wettbewerb/JAP2/saison_id/2025",
+    "id_pays": "56",
     "saison": 2025,
     "equipes": [
       {
@@ -12302,13 +12303,13 @@
         "difference": "-33",
         "points": "21"
       }
-    ],
-    "id_pays": "56"
+    ]
   },
   {
     "id_championnat": "61",
     "championnat": "Super League",
     "url": "https://www.transfermarkt.fr/chinese-super-league/tabelle/wettbewerb/CSL/saison_id/2025",
+    "id_pays": "57",
     "saison": 2025,
     "equipes": [
       {
@@ -12503,13 +12504,13 @@
         "difference": "-26",
         "points": "19"
       }
-    ],
-    "id_pays": "57"
+    ]
   },
   {
     "id_championnat": "62",
     "championnat": "1.Division",
     "url": "https://www.transfermarkt.fr/1-division/tabelle/wettbewerb/RU2/saison_id/2025",
+    "id_pays": "36",
     "saison": 2025,
     "equipes": [
       {
@@ -12728,13 +12729,13 @@
         "difference": "-26",
         "points": "11"
       }
-    ],
-    "id_pays": "36"
+    ]
   },
   {
     "id_championnat": "63",
     "championnat": "Liga 1 Apertura",
     "url": "https://www.transfermarkt.fr/liga-1-apertura/tabelle/wettbewerb/TDeA/saison_id/2025",
+    "id_pays": "104",
     "saison": 2025,
     "equipes": [
       {
@@ -12965,13 +12966,13 @@
         "difference": "-17",
         "points": "11"
       }
-    ],
-    "id_pays": "104"
+    ]
   },
   {
     "id_championnat": "64",
     "championnat": "Liga 1 Clausura",
     "url": "https://www.transfermarkt.fr/liga-1-clausura/tabelle/wettbewerb/TDeC/saison_id/2025",
+    "id_pays": "104",
     "saison": 2025,
     "equipes": [
       {
@@ -13190,13 +13191,13 @@
         "difference": "-9",
         "points": "13"
       }
-    ],
-    "id_pays": "104"
+    ]
   },
   {
     "id_championnat": "65",
     "championnat": "Challenger Pro League",
     "url": "https://www.transfermarkt.fr/challenger-pro-league/tabelle/wettbewerb/BE2/saison_id/2025",
+    "id_pays": "11",
     "saison": 2025,
     "equipes": [
       {
@@ -13403,13 +13404,13 @@
         "difference": "-15",
         "points": "4"
       }
-    ],
-    "id_pays": "11"
+    ]
   },
   {
     "id_championnat": "66",
     "championnat": "Persian Gulf League",
     "url": "https://www.transfermarkt.fr/persian-gulf-pro-league/tabelle/wettbewerb/IRN1/saison_id/2025",
+    "id_pays": "58",
     "saison": 2025,
     "equipes": [
       {
@@ -13604,13 +13605,13 @@
         "difference": "-5",
         "points": "7"
       }
-    ],
-    "id_pays": "58"
+    ]
   },
   {
     "id_championnat": "67",
     "championnat": "K League 1",
     "url": "https://www.transfermarkt.fr/k-league-1/tabelle/wettbewerb/RSK1/saison_id/2025",
+    "id_pays": "59",
     "saison": 2025,
     "equipes": [
       {
@@ -13685,13 +13686,13 @@
         "difference": "-5",
         "points": "49"
       }
-    ],
-    "id_pays": "59"
+    ]
   },
   {
     "id_championnat": "68",
     "championnat": "Primera División Apertura",
     "url": "https://www.transfermarkt.fr/primera-division-apertura/tabelle/wettbewerb/PR1A/saison_id/2025",
+    "id_pays": "102",
     "saison": 2025,
     "equipes": [
       {
@@ -13838,13 +13839,13 @@
         "difference": "-14",
         "points": "18"
       }
-    ],
-    "id_pays": "102"
+    ]
   },
   {
     "id_championnat": "69",
     "championnat": "Primera División Clausura",
     "url": "https://www.transfermarkt.fr/primera-division-clausura/tabelle/wettbewerb/PR1C/saison_id/2025",
+    "id_pays": "102",
     "saison": 2025,
     "equipes": [
       {
@@ -13991,13 +13992,13 @@
         "difference": "-15",
         "points": "15"
       }
-    ],
-    "id_pays": "102"
+    ]
   },
   {
     "id_championnat": "70",
     "championnat": "Botola Pro Inwi",
     "url": "https://www.transfermarkt.fr/botola-pro-inwi/tabelle/wettbewerb/MAR1/saison_id/2025",
+    "id_pays": "116",
     "saison": 2025,
     "equipes": [
       {
@@ -14192,13 +14193,13 @@
         "difference": "-9",
         "points": "5"
       }
-    ],
-    "id_pays": "116"
+    ]
   },
   {
     "id_championnat": "71",
     "championnat": "Serie C - C",
     "url": "https://www.transfermarkt.fr/serie-c-girone-c/tabelle/wettbewerb/IT3C/saison_id/2025",
+    "id_pays": "44",
     "saison": 2025,
     "equipes": [
       {
@@ -14281,8 +14282,8 @@
         "nuls": "4",
         "defaites": "5",
         "buts_pour": "17",
-        "buts_contre": "18",
-        "difference": "-1",
+        "buts_contre": "19",
+        "difference": "-2",
         "points": "22"
       },
       {
@@ -14424,9 +14425,9 @@
         "victoires": "3",
         "nuls": "4",
         "defaites": "8",
-        "buts_pour": "19",
+        "buts_pour": "20",
         "buts_contre": "32",
-        "difference": "-13",
+        "difference": "-12",
         "points": "13"
       },
       {
@@ -14441,13 +14442,13 @@
         "difference": "-17",
         "points": "11"
       }
-    ],
-    "id_pays": "44"
+    ]
   },
   {
     "id_championnat": "72",
     "championnat": "Premyer Liqa",
     "url": "https://www.transfermarkt.fr/premyer-liqa/tabelle/wettbewerb/AZ1/saison_id/2025",
+    "id_pays": "45",
     "saison": 2025,
     "equipes": [
       {
@@ -14594,13 +14595,13 @@
         "difference": "-16",
         "points": "5"
       }
-    ],
-    "id_pays": "45"
+    ]
   },
   {
     "id_championnat": "73",
     "championnat": "Primera Nacional",
     "url": "https://www.transfermarkt.fr/primera-nacional/tabelle/wettbewerb/ARG2/saison_id/2025",
+    "id_pays": "86",
     "saison": 2025,
     "equipes": [
       {
@@ -14819,13 +14820,13 @@
         "difference": "-15",
         "points": "33"
       }
-    ],
-    "id_pays": "86"
+    ]
   },
   {
     "id_championnat": "74",
     "championnat": "Serie C - A",
     "url": "https://www.transfermarkt.fr/serie-c-girone-a/tabelle/wettbewerb/IT3A/saison_id/2025",
+    "id_pays": "29",
     "saison": 2025,
     "equipes": [
       {
@@ -15068,13 +15069,13 @@
         "difference": "-3",
         "points": "-8"
       }
-    ],
-    "id_pays": "29"
+    ]
   },
   {
     "id_championnat": "75",
     "championnat": "Niké Liga",
     "url": "https://www.transfermarkt.fr/nike-liga/tabelle/wettbewerb/SLO1/saison_id/2025",
+    "id_pays": "12",
     "saison": 2025,
     "equipes": [
       {
@@ -15118,12 +15119,12 @@
         "nom": "Spartak Trnava",
         "matchs": "14",
         "victoires": "7",
-        "nuls": "3",
-        "defaites": "4",
+        "nuls": "2",
+        "defaites": "5",
         "buts_pour": "24",
-        "buts_contre": "13",
-        "difference": "11",
-        "points": "24"
+        "buts_contre": "14",
+        "difference": "10",
+        "points": "23"
       },
       {
         "position": "5",
@@ -15213,21 +15214,21 @@
         "position": "12",
         "nom": "Kosice",
         "matchs": "15",
-        "victoires": "2",
-        "nuls": "2",
+        "victoires": "3",
+        "nuls": "1",
         "defaites": "11",
-        "buts_pour": "18",
+        "buts_pour": "19",
         "buts_contre": "34",
-        "difference": "-16",
-        "points": "8"
+        "difference": "-15",
+        "points": "10"
       }
-    ],
-    "id_pays": "12"
+    ]
   },
   {
     "id_championnat": "76",
     "championnat": "Serie C - B",
     "url": "https://www.transfermarkt.fr/serie-c-girone-b/tabelle/wettbewerb/IT3B/saison_id/2025",
+    "id_pays": "35",
     "saison": 2025,
     "equipes": [
       {
@@ -15340,26 +15341,26 @@
       },
       {
         "position": "10",
+        "nom": "Forlì",
+        "matchs": "15",
+        "victoires": "6",
+        "nuls": "2",
+        "defaites": "7",
+        "buts_pour": "18",
+        "buts_contre": "18",
+        "difference": "0",
+        "points": "20"
+      },
+      {
+        "position": "11",
         "nom": "Pianese",
         "matchs": "15",
         "victoires": "5",
         "nuls": "5",
         "defaites": "5",
         "buts_pour": "15",
-        "buts_contre": "14",
-        "difference": "1",
-        "points": "20"
-      },
-      {
-        "position": "11",
-        "nom": "Forlì",
-        "matchs": "15",
-        "victoires": "6",
-        "nuls": "2",
-        "defaites": "7",
-        "buts_pour": "17",
-        "buts_contre": "18",
-        "difference": "-1",
+        "buts_contre": "15",
+        "difference": "0",
         "points": "20"
       },
       {
@@ -15470,13 +15471,13 @@
         "difference": "-10",
         "points": "-4"
       }
-    ],
-    "id_pays": "35"
+    ]
   },
   {
     "id_championnat": "77",
     "championnat": "Ligue 1",
     "url": "https://www.transfermarkt.fr/ligue-1/tabelle/wettbewerb/ALG1/saison_id/2025",
+    "id_pays": "109",
     "saison": 2025,
     "equipes": [
       {
@@ -15671,13 +15672,13 @@
         "difference": "-15",
         "points": "3"
       }
-    ],
-    "id_pays": "109"
+    ]
   },
   {
     "id_championnat": "78",
     "championnat": "Primera Federación - Gr. I",
     "url": "https://www.transfermarkt.fr/primera-federacion-grupo-i/tabelle/wettbewerb/E3G1/saison_id/2025",
+    "id_pays": "22",
     "saison": 2025,
     "equipes": [
       {
@@ -15920,13 +15921,13 @@
         "difference": "-5",
         "points": "10"
       }
-    ],
-    "id_pays": "22"
+    ]
   },
   {
     "id_championnat": "79",
     "championnat": "USLC",
     "url": "https://www.transfermarkt.fr/usl-championship/tabelle/wettbewerb/USL/saison_id/2025",
+    "id_pays": "95",
     "saison": 2025,
     "equipes": [
       {
@@ -15941,13 +15942,13 @@
         "difference": "0",
         "points": "0"
       }
-    ],
-    "id_pays": "95"
+    ]
   },
   {
     "id_championnat": "81",
     "championnat": "League Two",
     "url": "https://www.transfermarkt.fr/league-two/tabelle/wettbewerb/GB4/saison_id/2025",
+    "id_pays": "19",
     "saison": 2025,
     "equipes": [
       {
@@ -16238,13 +16239,13 @@
         "difference": "-15",
         "points": "11"
       }
-    ],
-    "id_pays": "19"
+    ]
   },
   {
     "id_championnat": "82",
     "championnat": "Iraq Stars League",
     "url": "https://www.transfermarkt.fr/iraq-stars-league/tabelle/wettbewerb/IRQ1/saison_id/2025",
+    "id_pays": "60",
     "saison": 2025,
     "equipes": [
       {
@@ -16487,13 +16488,13 @@
         "difference": "-9",
         "points": "1"
       }
-    ],
-    "id_pays": "60"
+    ]
   },
   {
     "id_championnat": "83",
     "championnat": "Primera Federación - Gr. II",
     "url": "https://www.transfermarkt.fr/primera-federacion-grupo-ii/tabelle/wettbewerb/E3G2/saison_id/2025",
+    "id_pays": "2",
     "saison": 2025,
     "equipes": [
       {
@@ -16736,13 +16737,13 @@
         "difference": "-8",
         "points": "8"
       }
-    ],
-    "id_pays": "2"
+    ]
   },
   {
     "id_championnat": "84",
     "championnat": "Liga Expansión MX Cl.",
     "url": "https://www.transfermarkt.fr/liga-de-expansion-mx-clausura/tabelle/wettbewerb/MEX2/saison_id/2025",
+    "id_pays": "99",
     "saison": 2025,
     "equipes": [
       {
@@ -16925,13 +16926,13 @@
         "difference": "0",
         "points": "0"
       }
-    ],
-    "id_pays": "99"
+    ]
   },
   {
     "id_championnat": "85",
     "championnat": "Liga Expansión MX Ap.",
     "url": "https://www.transfermarkt.fr/liga-de-expansion-mx-apertura/tabelle/wettbewerb/MEXB/saison_id/2025",
+    "id_pays": "99",
     "saison": 2025,
     "equipes": [
       {
@@ -17114,13 +17115,13 @@
         "difference": "-18",
         "points": "5"
       }
-    ],
-    "id_pays": "99"
+    ]
   },
   {
     "id_championnat": "86",
     "championnat": "A-League Men",
     "url": "https://www.transfermarkt.fr/a-league-men/tabelle/wettbewerb/AUS1/saison_id/2025",
+    "id_pays": "61",
     "saison": 2025,
     "equipes": [
       {
@@ -17267,13 +17268,13 @@
         "difference": "-7",
         "points": "1"
       }
-    ],
-    "id_pays": "61"
+    ]
   },
   {
     "id_championnat": "87",
     "championnat": "K League 2",
     "url": "https://www.transfermarkt.fr/k-league-2/tabelle/wettbewerb/RSK2/saison_id/2025",
+    "id_pays": "59",
     "saison": 2025,
     "equipes": [
       {
@@ -17444,13 +17445,13 @@
         "difference": "-29",
         "points": "27"
       }
-    ],
-    "id_pays": "59"
+    ]
   },
   {
     "id_championnat": "88",
     "championnat": "Superliga",
     "url": "https://www.transfermarkt.fr/ozbekiston-superligasi/tabelle/wettbewerb/UZ1/saison_id/2025",
+    "id_pays": "81",
     "saison": 2025,
     "equipes": [
       {
@@ -17645,13 +17646,13 @@
         "difference": "-30",
         "points": "16"
       }
-    ],
-    "id_pays": "81"
+    ]
   },
   {
     "id_championnat": "89",
     "championnat": "División Profesional",
     "url": "https://www.transfermarkt.fr/division-profesional/tabelle/wettbewerb/BO1A/saison_id/2025",
+    "id_pays": "87",
     "saison": 2025,
     "equipes": [
       {
@@ -17846,13 +17847,13 @@
         "difference": "-11",
         "points": "-5"
       }
-    ],
-    "id_pays": "87"
+    ]
   },
   {
     "id_championnat": "91",
     "championnat": "Betclic 1 Liga",
     "url": "https://www.transfermarkt.fr/betclic-1-liga/tabelle/wettbewerb/PL2/saison_id/2025",
+    "id_pays": "5",
     "saison": 2025,
     "equipes": [
       {
@@ -18071,13 +18072,13 @@
         "difference": "-22",
         "points": "10"
       }
-    ],
-    "id_pays": "5"
+    ]
   },
   {
     "id_championnat": "92",
     "championnat": "Premier Liga",
     "url": "https://www.transfermarkt.fr/premier-liga/tabelle/wettbewerb/KAS1/saison_id/2025",
+    "id_pays": "10",
     "saison": 2025,
     "equipes": [
       {
@@ -18248,13 +18249,13 @@
         "difference": "-33",
         "points": "16"
       }
-    ],
-    "id_pays": "10"
+    ]
   },
   {
     "id_championnat": "93",
     "championnat": "Saudi First Division League",
     "url": "https://www.transfermarkt.fr/saudi-first-division-league/tabelle/wettbewerb/SA2L/saison_id/2025",
+    "id_pays": "53",
     "saison": 2025,
     "equipes": [
       {
@@ -18473,13 +18474,13 @@
         "difference": "-14",
         "points": "1"
       }
-    ],
-    "id_pays": "53"
+    ]
   },
   {
     "id_championnat": "94",
     "championnat": "Ligue 1",
     "url": "https://www.transfermarkt.fr/ligue-1/tabelle/wettbewerb/TUN1/saison_id/2025",
+    "id_pays": "121",
     "saison": 2025,
     "equipes": [
       {
@@ -18674,13 +18675,13 @@
         "difference": "-10",
         "points": "9"
       }
-    ],
-    "id_pays": "121"
+    ]
   },
   {
     "id_championnat": "95",
     "championnat": "Thai League",
     "url": "https://www.transfermarkt.fr/thai-league/tabelle/wettbewerb/THA1/saison_id/2025",
+    "id_pays": "63",
     "saison": 2025,
     "equipes": [
       {
@@ -18875,13 +18876,13 @@
         "difference": "-13",
         "points": "7"
       }
-    ],
-    "id_pays": "63"
+    ]
   },
   {
     "id_championnat": "96",
     "championnat": "OBOS-ligaen",
     "url": "https://www.transfermarkt.fr/obos-ligaen/tabelle/wettbewerb/NO2/saison_id/2025",
+    "id_pays": "46",
     "saison": 2025,
     "equipes": [
       {
@@ -19076,13 +19077,13 @@
         "difference": "-31",
         "points": "15"
       }
-    ],
-    "id_pays": "46"
+    ]
   },
   {
     "id_championnat": "97",
     "championnat": "Super League",
     "url": "https://www.transfermarkt.fr/super-league/tabelle/wettbewerb/IN1L/saison_id/2025",
+    "id_pays": "64",
     "saison": 2025,
     "equipes": [
       {
@@ -19301,13 +19302,13 @@
         "difference": "-11",
         "points": "6"
       }
-    ],
-    "id_pays": "64"
+    ]
   },
   {
     "id_championnat": "98",
     "championnat": "Super League 2",
     "url": "https://www.transfermarkt.fr/super-league-2/tabelle/wettbewerb/GRS2/saison_id/2025",
+    "id_pays": "18",
     "saison": 2025,
     "equipes": [
       {
@@ -19430,13 +19431,13 @@
         "difference": "-17",
         "points": "5"
       }
-    ],
-    "id_pays": "18"
+    ]
   },
   {
     "id_championnat": "99",
     "championnat": "Superettan",
     "url": "https://www.transfermarkt.fr/superettan/tabelle/wettbewerb/SE2/saison_id/2025",
+    "id_pays": "51",
     "saison": 2025,
     "equipes": [
       {
@@ -19631,13 +19632,13 @@
         "difference": "-27",
         "points": "19"
       }
-    ],
-    "id_pays": "51"
+    ]
   },
   {
     "id_championnat": "100",
     "championnat": "Liga FUTVE Apertura",
     "url": "https://www.transfermarkt.fr/liga-futve-apertura/tabelle/wettbewerb/VZ1A/saison_id/2025",
+    "id_pays": "106",
     "saison": 2025,
     "equipes": [
       {
@@ -19808,13 +19809,13 @@
         "difference": "-12",
         "points": "8"
       }
-    ],
-    "id_pays": "106"
+    ]
   },
   {
     "id_championnat": "101",
     "championnat": "Liga FUTVE Clausura",
     "url": "https://www.transfermarkt.fr/liga-futve-clausura/tabelle/wettbewerb/VZ1C/saison_id/2025",
+    "id_pays": "106",
     "saison": 2025,
     "equipes": [
       {
@@ -19985,13 +19986,13 @@
         "difference": "-11",
         "points": "7"
       }
-    ],
-    "id_pays": "106"
+    ]
   },
   {
     "id_championnat": "103",
     "championnat": "Liga de Ascenso",
     "url": "https://www.transfermarkt.fr/liga-de-ascenso/tabelle/wettbewerb/CL2B/saison_id/2025",
+    "id_pays": "90",
     "saison": 2025,
     "equipes": [
       {
@@ -20186,13 +20187,13 @@
         "difference": "-9",
         "points": "29"
       }
-    ],
-    "id_pays": "90"
+    ]
   },
   {
     "id_championnat": "104",
     "championnat": "1.Division",
     "url": "https://www.transfermarkt.fr/1-division/tabelle/wettbewerb/DK2/saison_id/2025",
+    "id_pays": "43",
     "saison": 2025,
     "equipes": [
       {
@@ -20339,13 +20340,13 @@
         "difference": "-16",
         "points": "9"
       }
-    ],
-    "id_pays": "43"
+    ]
   },
   {
     "id_championnat": "105",
     "championnat": "2. Division A (Phase 2)",
     "url": "https://www.transfermarkt.fr/2-division-a-phase-2-/tabelle/wettbewerb/R3D2/saison_id/2025",
+    "id_pays": "26",
     "saison": 2025,
     "equipes": [
       {
@@ -20468,13 +20469,13 @@
         "difference": "-14",
         "points": "12"
       }
-    ],
-    "id_pays": "26"
+    ]
   },
   {
     "id_championnat": "106",
     "championnat": "2. Liga",
     "url": "https://www.transfermarkt.fr/2-liga/tabelle/wettbewerb/A2/saison_id/2025",
+    "id_pays": "9",
     "saison": 2025,
     "equipes": [
       {
@@ -20669,13 +20670,13 @@
         "difference": "0",
         "points": "0"
       }
-    ],
-    "id_pays": "9"
+    ]
   },
   {
     "id_championnat": "107",
     "championnat": "Prva Liga",
     "url": "https://www.transfermarkt.fr/prva-liga/tabelle/wettbewerb/SL1/saison_id/2025",
+    "id_pays": "50",
     "saison": 2025,
     "equipes": [
       {
@@ -20798,13 +20799,13 @@
         "difference": "-21",
         "points": "9"
       }
-    ],
-    "id_pays": "50"
+    ]
   },
   {
     "id_championnat": "108",
     "championnat": "Ch. National",
     "url": "https://www.transfermarkt.fr/championnat-national/tabelle/wettbewerb/FR3/saison_id/2025",
+    "id_pays": "2",
     "saison": 2025,
     "equipes": [
       {
@@ -21011,13 +21012,13 @@
         "difference": "-14",
         "points": "6"
       }
-    ],
-    "id_pays": "2"
+    ]
   },
   {
     "id_championnat": "109",
     "championnat": "ChNL",
     "url": "https://www.transfermarkt.fr/chance-narodni-liga/tabelle/wettbewerb/TS2/saison_id/2025",
+    "id_pays": "11",
     "saison": 2025,
     "equipes": [
       {
@@ -21212,13 +21213,13 @@
         "difference": "-19",
         "points": "10"
       }
-    ],
-    "id_pays": "11"
+    ]
   },
   {
     "id_championnat": "110",
     "championnat": "Vysshaya Liga",
     "url": "https://www.transfermarkt.fr/vysshaya-liga/tabelle/wettbewerb/WER1/saison_id/2025",
+    "id_pays": "26",
     "saison": 2025,
     "equipes": [
       {
@@ -21413,13 +21414,13 @@
         "difference": "-42",
         "points": "11"
       }
-    ],
-    "id_pays": "26"
+    ]
   },
   {
     "id_championnat": "111",
     "championnat": "Premijer Liga BiH",
     "url": "https://www.transfermarkt.fr/premijer-liga-bosne-i-hercegovine/tabelle/wettbewerb/BOS1/saison_id/2025",
+    "id_pays": "40",
     "saison": 2025,
     "equipes": [
       {
@@ -21542,13 +21543,13 @@
         "difference": "-9",
         "points": "9"
       }
-    ],
-    "id_pays": "40"
+    ]
   },
   {
     "id_championnat": "112",
     "championnat": "2. Division A (Phase 1)",
     "url": "https://www.transfermarkt.fr/2-division-a-phase-1-/tabelle/wettbewerb/R3D1/saison_id/2025",
+    "id_pays": "10",
     "saison": 2025,
     "equipes": [
       {
@@ -21671,13 +21672,13 @@
         "difference": "-27",
         "points": "12"
       }
-    ],
-    "id_pays": "10"
+    ]
   },
   {
     "id_championnat": "113",
     "championnat": "Liga 2",
     "url": "https://www.transfermarkt.fr/liga-2/tabelle/wettbewerb/RO2/saison_id/2025",
+    "id_pays": "42",
     "saison": 2025,
     "equipes": [
       {
@@ -21944,13 +21945,13 @@
         "difference": "-22",
         "points": "7"
       }
-    ],
-    "id_pays": "42"
+    ]
   },
   {
     "id_championnat": "114",
     "championnat": "V.League 1",
     "url": "https://www.transfermarkt.fr/v-league-1/tabelle/wettbewerb/VIE1/saison_id/2025",
+    "id_pays": "65",
     "saison": 2025,
     "equipes": [
       {
@@ -22121,13 +22122,13 @@
         "difference": "-8",
         "points": "7"
       }
-    ],
-    "id_pays": "65"
+    ]
   },
   {
     "id_championnat": "115",
     "championnat": "Super League",
     "url": "https://www.transfermarkt.fr/malaysia-super-league/tabelle/wettbewerb/MYS1/saison_id/2025",
+    "id_pays": "66",
     "saison": 2025,
     "equipes": [
       {
@@ -22286,13 +22287,13 @@
         "difference": "-12",
         "points": "3"
       }
-    ],
-    "id_pays": "66"
+    ]
   },
   {
     "id_championnat": "116",
     "championnat": "Premier League",
     "url": "https://www.transfermarkt.fr/premier-league/tabelle/wettbewerb/ARM1/saison_id/2025",
+    "id_pays": "22",
     "saison": 2025,
     "equipes": [
       {
@@ -22415,13 +22416,13 @@
         "difference": "-27",
         "points": "3"
       }
-    ],
-    "id_pays": "22"
+    ]
   },
   {
     "id_championnat": "117",
     "championnat": "Challenge League",
     "url": "https://www.transfermarkt.fr/challenge-league/tabelle/wettbewerb/C2/saison_id/2025",
+    "id_pays": "4",
     "saison": 2025,
     "equipes": [
       {
@@ -22544,17 +22545,29 @@
         "difference": "-20",
         "points": "7"
       }
-    ],
-    "id_pays": "4"
+    ]
   },
   {
     "id_championnat": "118",
     "championnat": "Kategoria Superiore",
     "url": "https://www.transfermarkt.fr/kategoria-superiore/tabelle/wettbewerb/ALB1/saison_id/2025",
+    "id_pays": "11",
     "saison": 2025,
     "equipes": [
       {
         "position": "1",
+        "nom": "AF Elbasani",
+        "matchs": "12",
+        "victoires": "7",
+        "nuls": "3",
+        "defaites": "2",
+        "buts_pour": "13",
+        "buts_contre": "6",
+        "difference": "7",
+        "points": "24"
+      },
+      {
+        "position": "2",
         "nom": "KF Vllaznia",
         "matchs": "11",
         "victoires": "7",
@@ -22563,18 +22576,6 @@
         "buts_pour": "18",
         "buts_contre": "9",
         "difference": "9",
-        "points": "23"
-      },
-      {
-        "position": "2",
-        "nom": "AF Elbasani",
-        "matchs": "11",
-        "victoires": "7",
-        "nuls": "2",
-        "defaites": "2",
-        "buts_pour": "13",
-        "buts_contre": "6",
-        "difference": "7",
         "points": "23"
       },
       {
@@ -22592,14 +22593,14 @@
       {
         "position": "4",
         "nom": "Dinamo City",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "5",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "3",
         "buts_pour": "11",
         "buts_contre": "5",
         "difference": "6",
-        "points": "18"
+        "points": "19"
       },
       {
         "position": "5",
@@ -22673,13 +22674,13 @@
         "difference": "-11",
         "points": "6"
       }
-    ],
-    "id_pays": "11"
+    ]
   },
   {
     "id_championnat": "119",
     "championnat": "Veikkausliiga",
     "url": "https://www.transfermarkt.fr/veikkausliiga/tabelle/wettbewerb/FI1/saison_id/2025",
+    "id_pays": "2",
     "saison": 2025,
     "equipes": [
       {
@@ -22826,13 +22827,13 @@
         "difference": "0",
         "points": "0"
       }
-    ],
-    "id_pays": "2"
+    ]
   },
   {
     "id_championnat": "120",
     "championnat": "Virsliga",
     "url": "https://www.transfermarkt.fr/virsliga/tabelle/wettbewerb/LET1/saison_id/2025",
+    "id_pays": "37",
     "saison": 2025,
     "equipes": [
       {
@@ -22955,13 +22956,13 @@
         "difference": "-35",
         "points": "31"
       }
-    ],
-    "id_pays": "37"
+    ]
   },
   {
     "id_championnat": "121",
     "championnat": "Indian Super League",
     "url": "https://www.transfermarkt.fr/indian-super-league/tabelle/wettbewerb/IND1/saison_id/2025",
+    "id_pays": "64",
     "saison": 2025,
     "equipes": [
       {
@@ -23132,13 +23133,13 @@
         "difference": "0",
         "points": "0"
       }
-    ],
-    "id_pays": "64"
+    ]
   },
   {
     "id_championnat": "122",
     "championnat": "Torneo Competencia",
     "url": "https://www.transfermarkt.fr/segunda-division-torneo-competencia/tabelle/wettbewerb/UR2T/saison_id/2025",
+    "id_pays": "105",
     "saison": 2025,
     "equipes": [
       {
@@ -23225,13 +23226,13 @@
         "difference": "-7",
         "points": "3"
       }
-    ],
-    "id_pays": "105"
+    ]
   },
   {
     "id_championnat": "123",
     "championnat": "Segunda División",
     "url": "https://www.transfermarkt.fr/segunda-division-fase-regular/tabelle/wettbewerb/URU2/saison_id/2025",
+    "id_pays": "105",
     "saison": 2025,
     "equipes": [
       {
@@ -23402,13 +23403,13 @@
         "difference": "-26",
         "points": "26"
       }
-    ],
-    "id_pays": "105"
+    ]
   },
   {
     "id_championnat": "124",
     "championnat": "Torneo DIMAYOR II",
     "url": "https://www.transfermarkt.fr/torneo-dimayor-ii/tabelle/wettbewerb/CO22/saison_id/2025",
+    "id_pays": "91",
     "saison": 2025,
     "equipes": [
       {
@@ -23603,13 +23604,13 @@
         "difference": "-20",
         "points": "10"
       }
-    ],
-    "id_pays": "91"
+    ]
   },
   {
     "id_championnat": "125",
     "championnat": "Torneo DIMAYOR I",
     "url": "https://www.transfermarkt.fr/torneo-dimayor-i/tabelle/wettbewerb/CO2T/saison_id/2025",
+    "id_pays": "91",
     "saison": 2025,
     "equipes": [
       {
@@ -23804,13 +23805,13 @@
         "difference": "-9",
         "points": "8"
       }
-    ],
-    "id_pays": "91"
+    ]
   },
   {
     "id_championnat": "126",
     "championnat": "A Lyga",
     "url": "https://www.transfermarkt.fr/a-lyga/tabelle/wettbewerb/LI1/saison_id/2025",
+    "id_pays": "13",
     "saison": 2025,
     "equipes": [
       {
@@ -23933,13 +23934,13 @@
         "difference": "-49",
         "points": "18"
       }
-    ],
-    "id_pays": "13"
+    ]
   },
   {
     "id_championnat": "127",
     "championnat": "Premier League Opening Round",
     "url": "https://www.transfermarkt.fr/premier-league-opening-round/tabelle/wettbewerb/MT1N/saison_id/2025",
+    "id_pays": "8",
     "saison": 2025,
     "equipes": [
       {
@@ -24086,13 +24087,13 @@
         "difference": "-13",
         "points": "5"
       }
-    ],
-    "id_pays": "8"
+    ]
   },
   {
     "id_championnat": "128",
     "championnat": "Segunda Federación - Gr. III",
     "url": "https://www.transfermarkt.fr/segunda-federacion-grupo-iii/tabelle/wettbewerb/E4G3/saison_id/2025",
+    "id_pays": "2",
     "saison": 2025,
     "equipes": [
       {
@@ -24311,13 +24312,13 @@
         "difference": "-7",
         "points": "7"
       }
-    ],
-    "id_pays": "2"
+    ]
   },
   {
     "id_championnat": "129",
     "championnat": "Primera División Apertura",
     "url": "https://www.transfermarkt.fr/primera-division-apertura/tabelle/wettbewerb/CRPD/saison_id/2025",
+    "id_pays": "92",
     "saison": 2025,
     "equipes": [
       {
@@ -24440,13 +24441,13 @@
         "difference": "-12",
         "points": "12"
       }
-    ],
-    "id_pays": "92"
+    ]
   },
   {
     "id_championnat": "131",
     "championnat": "League One",
     "url": "https://www.transfermarkt.fr/china-league-one/tabelle/wettbewerb/CLO/saison_id/2025",
+    "id_pays": "57",
     "saison": 2025,
     "equipes": [
       {
@@ -24641,13 +24642,13 @@
         "difference": "-30",
         "points": "13"
       }
-    ],
-    "id_pays": "57"
+    ]
   },
   {
     "id_championnat": "132",
     "championnat": "Persha Liga",
     "url": "https://www.transfermarkt.fr/persha-liga/tabelle/wettbewerb/UKR2/saison_id/2025",
+    "id_pays": "48",
     "saison": 2025,
     "equipes": [
       {
@@ -24842,13 +24843,13 @@
         "difference": "-27",
         "points": "6"
       }
-    ],
-    "id_pays": "48"
+    ]
   },
   {
     "id_championnat": "133",
     "championnat": "Prva liga Srbije",
     "url": "https://www.transfermarkt.fr/prva-liga-srbije/tabelle/wettbewerb/SER2/saison_id/2025",
+    "id_pays": "1",
     "saison": 2025,
     "equipes": [
       {
@@ -25043,13 +25044,13 @@
         "difference": "-10",
         "points": "15"
       }
-    ],
-    "id_pays": "1"
+    ]
   },
   {
     "id_championnat": "134",
     "championnat": "Liga 2",
     "url": "https://www.transfermarkt.fr/liga-2/tabelle/wettbewerb/PER2/saison_id/2025",
+    "id_pays": "107",
     "saison": 2025,
     "equipes": [
       {
@@ -25136,13 +25137,13 @@
         "difference": "-11",
         "points": "10"
       }
-    ],
-    "id_pays": "107"
+    ]
   },
   {
     "id_championnat": "135",
     "championnat": "Superliga e Kosovës",
     "url": "https://www.transfermarkt.fr/superliga-e-kosoves/tabelle/wettbewerb/KO1/saison_id/2025",
+    "id_pays": "27",
     "saison": 2025,
     "equipes": [
       {
@@ -25265,13 +25266,13 @@
         "difference": "-9",
         "points": "9"
       }
-    ],
-    "id_pays": "27"
+    ]
   },
   {
     "id_championnat": "136",
     "championnat": "Prva liga",
     "url": "https://www.transfermarkt.fr/prva-makedonska-fudbalska-liga/tabelle/wettbewerb/MAZ1/saison_id/2025",
+    "id_pays": "6",
     "saison": 2025,
     "equipes": [
       {
@@ -25418,13 +25419,13 @@
         "difference": "-26",
         "points": "1"
       }
-    ],
-    "id_pays": "6"
+    ]
   },
   {
     "id_championnat": "137",
     "championnat": "NB II.",
     "url": "https://www.transfermarkt.fr/nemzeti-bajnoksag-ii-/tabelle/wettbewerb/UN2/saison_id/2025",
+    "id_pays": "17",
     "saison": 2025,
     "equipes": [
       {
@@ -25619,13 +25620,13 @@
         "difference": "-13",
         "points": "10"
       }
-    ],
-    "id_pays": "17"
+    ]
   },
   {
     "id_championnat": "138",
     "championnat": "Regionalliga Südwest",
     "url": "https://www.transfermarkt.fr/regionalliga-sudwest/tabelle/wettbewerb/RLSW/saison_id/2025",
+    "id_pays": "34",
     "saison": 2025,
     "equipes": [
       {
@@ -25844,13 +25845,13 @@
         "difference": "-24",
         "points": "9"
       }
-    ],
-    "id_pays": "34"
+    ]
   },
   {
     "id_championnat": "139",
     "championnat": "Liga Leumit",
     "url": "https://www.transfermarkt.fr/liga-leumit/tabelle/wettbewerb/ISR2/saison_id/2025",
+    "id_pays": "30",
     "saison": 2025,
     "equipes": [
       {
@@ -26045,13 +26046,13 @@
         "difference": "-7",
         "points": "8"
       }
-    ],
-    "id_pays": "30"
+    ]
   },
   {
     "id_championnat": "140",
     "championnat": "Regionalliga West",
     "url": "https://www.transfermarkt.fr/regionalliga-west/tabelle/wettbewerb/RLW3/saison_id/2025",
+    "id_pays": "25",
     "saison": 2025,
     "equipes": [
       {
@@ -26270,13 +26271,13 @@
         "difference": "-25",
         "points": "7"
       }
-    ],
-    "id_pays": "25"
+    ]
   },
   {
     "id_championnat": "141",
     "championnat": "Jindal League",
     "url": "https://www.transfermarkt.fr/oman-jindal-league/tabelle/wettbewerb/OM1L/saison_id/2025",
+    "id_pays": "67",
     "saison": 2025,
     "equipes": [
       {
@@ -26447,13 +26448,13 @@
         "difference": "-10",
         "points": "0"
       }
-    ],
-    "id_pays": "67"
+    ]
   },
   {
     "id_championnat": "142",
     "championnat": "Azadegan League",
     "url": "https://www.transfermarkt.fr/azadegan-league/tabelle/wettbewerb/IRN2/saison_id/2025",
+    "id_pays": "58",
     "saison": 2025,
     "equipes": [
       {
@@ -26672,13 +26673,13 @@
         "difference": "-10",
         "points": "3"
       }
-    ],
-    "id_pays": "58"
+    ]
   },
   {
     "id_championnat": "143",
     "championnat": "Vtora Liga",
     "url": "https://www.transfermarkt.fr/vtora-liga/tabelle/wettbewerb/BU2/saison_id/2025",
+    "id_pays": "31",
     "saison": 2025,
     "equipes": [
       {
@@ -26885,13 +26886,13 @@
         "difference": "-21",
         "points": "10"
       }
-    ],
-    "id_pays": "31"
+    ]
   },
   {
     "id_championnat": "144",
     "championnat": "Segunda Federación - Gr. IV",
     "url": "https://www.transfermarkt.fr/segunda-federacion-grupo-iv/tabelle/wettbewerb/E4G4/saison_id/2025",
+    "id_pays": "50",
     "saison": 2025,
     "equipes": [
       {
@@ -27110,13 +27111,13 @@
         "difference": "-9",
         "points": "6"
       }
-    ],
-    "id_pays": "50"
+    ]
   },
   {
     "id_championnat": "145",
     "championnat": "Regionalliga Bayern",
     "url": "https://www.transfermarkt.fr/regionalliga-bayern/tabelle/wettbewerb/RLB3/saison_id/2025",
+    "id_pays": "50",
     "saison": 2025,
     "equipes": [
       {
@@ -27335,13 +27336,13 @@
         "difference": "-19",
         "points": "9"
       }
-    ],
-    "id_pays": "50"
+    ]
   },
   {
     "id_championnat": "146",
     "championnat": "Erovnuli Liga",
     "url": "https://www.transfermarkt.fr/erovnuli-liga/tabelle/wettbewerb/GE1N/saison_id/2025",
+    "id_pays": "27",
     "saison": 2025,
     "equipes": [
       {
@@ -27464,13 +27465,13 @@
         "difference": "-30",
         "points": "22"
       }
-    ],
-    "id_pays": "27"
+    ]
   },
   {
     "id_championnat": "147",
     "championnat": "Regionalliga Nord-Est",
     "url": "https://www.transfermarkt.fr/regionalliga-nord-est/tabelle/wettbewerb/RLN4/saison_id/2025",
+    "id_pays": "24",
     "saison": 2025,
     "equipes": [
       {
@@ -27689,13 +27690,13 @@
         "difference": "-17",
         "points": "7"
       }
-    ],
-    "id_pays": "24"
+    ]
   },
   {
     "id_championnat": "148",
     "championnat": "First Division",
     "url": "https://www.transfermarkt.fr/first-division/tabelle/wettbewerb/SC2/saison_id/2025",
+    "id_pays": "34",
     "saison": 2025,
     "equipes": [
       {
@@ -27818,13 +27819,13 @@
         "difference": "-12",
         "points": "11"
       }
-    ],
-    "id_pays": "34"
+    ]
   },
   {
     "id_championnat": "149",
     "championnat": "USL1",
     "url": "https://www.transfermarkt.fr/usl-league-one/tabelle/wettbewerb/USC3/saison_id/2025",
+    "id_pays": "95",
     "saison": 2025,
     "equipes": [
       {
@@ -27995,13 +27996,13 @@
         "difference": "-16",
         "points": "24"
       }
-    ],
-    "id_pays": "95"
+    ]
   },
   {
     "id_championnat": "150",
     "championnat": "Liga Guate Apertura",
     "url": "https://www.transfermarkt.fr/liga-guate-apertura/tabelle/wettbewerb/GU1A/saison_id/2025",
+    "id_pays": "96",
     "saison": 2025,
     "equipes": [
       {
@@ -28148,13 +28149,13 @@
         "difference": "-16",
         "points": "18"
       }
-    ],
-    "id_pays": "96"
+    ]
   },
   {
     "id_championnat": "151",
     "championnat": "Liga Guate Clausura",
     "url": "https://www.transfermarkt.fr/liga-guate-clausura/tabelle/wettbewerb/GU1C/saison_id/2025",
+    "id_pays": "96",
     "saison": 2025,
     "equipes": [
       {
@@ -28301,13 +28302,13 @@
         "difference": "0",
         "points": "0"
       }
-    ],
-    "id_pays": "96"
+    ]
   },
   {
     "id_championnat": "153",
     "championnat": "Liga Pro Serie B",
     "url": "https://www.transfermarkt.fr/liga-pro-serie-b/tabelle/wettbewerb/EC2L/saison_id/2025",
+    "id_pays": "93",
     "saison": 2025,
     "equipes": [
       {
@@ -28454,13 +28455,13 @@
         "difference": "-23",
         "points": "17"
       }
-    ],
-    "id_pays": "93"
+    ]
   },
   {
     "id_championnat": "154",
     "championnat": "Lebanese Premier League",
     "url": "https://www.transfermarkt.fr/lebanese-premier-league/tabelle/wettbewerb/LIB1/saison_id/2025",
+    "id_pays": "68",
     "saison": 2025,
     "equipes": [
       {
@@ -28607,13 +28608,13 @@
         "difference": "-18",
         "points": "1"
       }
-    ],
-    "id_pays": "68"
+    ]
   },
   {
     "id_championnat": "155",
     "championnat": "Besta deild",
     "url": "https://www.transfermarkt.fr/besta-deild/tabelle/wettbewerb/IS1/saison_id/2025",
+    "id_pays": "45",
     "saison": 2025,
     "equipes": [
       {
@@ -28760,13 +28761,13 @@
         "difference": "-10",
         "points": "21"
       }
-    ],
-    "id_pays": "45"
+    ]
   },
   {
     "id_championnat": "156",
     "championnat": "2.Lig Beyaz",
     "url": "https://www.transfermarkt.fr/2-lig-beyaz/tabelle/wettbewerb/TR3A/saison_id/2025",
+    "id_pays": "15",
     "saison": 2025,
     "equipes": [
       {
@@ -28997,13 +28998,13 @@
         "difference": "-14",
         "points": "3"
       }
-    ],
-    "id_pays": "15"
+    ]
   },
   {
     "id_championnat": "157",
     "championnat": "Qatari Second Division",
     "url": "https://www.transfermarkt.fr/qatari-second-division/tabelle/wettbewerb/QU2L/saison_id/2025",
+    "id_pays": "54",
     "saison": 2025,
     "equipes": [
       {
@@ -29102,13 +29103,13 @@
         "difference": "-5",
         "points": "2"
       }
-    ],
-    "id_pays": "54"
+    ]
   },
   {
     "id_championnat": "158",
     "championnat": "Kyrgyz Premier League",
     "url": "https://www.transfermarkt.fr/kyrgyz-premier-league/tabelle/wettbewerb/KG1L/saison_id/2025",
+    "id_pays": "69",
     "saison": 2025,
     "equipes": [
       {
@@ -29279,13 +29280,13 @@
         "difference": "-33",
         "points": "14"
       }
-    ],
-    "id_pays": "69"
+    ]
   },
   {
     "id_championnat": "159",
     "championnat": "Jordanian Pro League",
     "url": "https://www.transfermarkt.fr/jordanian-pro-league/tabelle/wettbewerb/JO1L/saison_id/2025",
+    "id_pays": "70",
     "saison": 2025,
     "equipes": [
       {
@@ -29408,13 +29409,13 @@
         "difference": "-15",
         "points": "1"
       }
-    ],
-    "id_pays": "70"
+    ]
   },
   {
     "id_championnat": "160",
     "championnat": "Liga Panameña Apertura",
     "url": "https://www.transfermarkt.fr/liga-panamena-de-futbol-apertura/tabelle/wettbewerb/PN1A/saison_id/2025",
+    "id_pays": "101",
     "saison": 2025,
     "equipes": [
       {
@@ -29489,13 +29490,13 @@
         "difference": "-7",
         "points": "16"
       }
-    ],
-    "id_pays": "101"
+    ]
   },
   {
     "id_championnat": "161",
     "championnat": "Liga Panameña Clausura",
     "url": "https://www.transfermarkt.fr/liga-panamena-de-futbol-clausura/tabelle/wettbewerb/PN1C/saison_id/2025",
+    "id_pays": "101",
     "saison": 2025,
     "equipes": [
       {
@@ -29570,13 +29571,13 @@
         "difference": "-11",
         "points": "13"
       }
-    ],
-    "id_pays": "101"
+    ]
   },
   {
     "id_championnat": "162",
     "championnat": "Thai League 2",
     "url": "https://www.transfermarkt.fr/thai-league-2/tabelle/wettbewerb/THA2/saison_id/2025",
+    "id_pays": "63",
     "saison": 2025,
     "equipes": [
       {
@@ -29795,13 +29796,13 @@
         "difference": "-9",
         "points": "9"
       }
-    ],
-    "id_pays": "63"
+    ]
   },
   {
     "id_championnat": "163",
     "championnat": "2.Lig Kirmizi",
     "url": "https://www.transfermarkt.fr/2-lig-kirmizi/tabelle/wettbewerb/TR3B/saison_id/2025",
+    "id_pays": "2",
     "saison": 2025,
     "equipes": [
       {
@@ -30020,13 +30021,13 @@
         "difference": "-40",
         "points": "-40"
       }
-    ],
-    "id_pays": "2"
+    ]
   },
   {
     "id_championnat": "164",
     "championnat": "Premier Division",
     "url": "https://www.transfermarkt.fr/league-of-ireland-premier-division/tabelle/wettbewerb/IR1/saison_id/2025",
+    "id_pays": "27",
     "saison": 2025,
     "equipes": [
       {
@@ -30149,13 +30150,13 @@
         "difference": "0",
         "points": "0"
       }
-    ],
-    "id_pays": "27"
+    ]
   },
   {
     "id_championnat": "165",
     "championnat": "Liga Nacional Apertura",
     "url": "https://www.transfermarkt.fr/liga-nacional-apertura/tabelle/wettbewerb/HO1A/saison_id/2025",
+    "id_pays": "97",
     "saison": 2025,
     "equipes": [
       {
@@ -30290,13 +30291,13 @@
         "difference": "-21",
         "points": "5"
       }
-    ],
-    "id_pays": "97"
+    ]
   },
   {
     "id_championnat": "166",
     "championnat": "Premium Liiga",
     "url": "https://www.transfermarkt.fr/premium-liiga/tabelle/wettbewerb/EST1/saison_id/2025",
+    "id_pays": "16",
     "saison": 2025,
     "equipes": [
       {
@@ -30419,13 +30420,13 @@
         "difference": "-81",
         "points": "17"
       }
-    ],
-    "id_pays": "16"
+    ]
   },
   {
     "id_championnat": "167",
     "championnat": "Primera División Apertura",
     "url": "https://www.transfermarkt.fr/primera-division-apertura/tabelle/wettbewerb/SL1A/saison_id/2025",
+    "id_pays": "94",
     "saison": 2025,
     "equipes": [
       {
@@ -30572,13 +30573,13 @@
         "difference": "-13",
         "points": "16"
       }
-    ],
-    "id_pays": "94"
+    ]
   },
   {
     "id_championnat": "168",
     "championnat": "Primera División Clausura",
     "url": "https://www.transfermarkt.fr/primera-division-clausura/tabelle/wettbewerb/SL1C/saison_id/2025",
+    "id_pays": "94",
     "saison": 2025,
     "equipes": [
       {
@@ -30725,13 +30726,13 @@
         "difference": "0",
         "points": "0"
       }
-    ],
-    "id_pays": "94"
+    ]
   },
   {
     "id_championnat": "169",
     "championnat": "Championship",
     "url": "https://www.transfermarkt.fr/championship/tabelle/wettbewerb/ILI2/saison_id/2025",
+    "id_pays": "85",
     "saison": 2025,
     "equipes": [
       {
@@ -30854,13 +30855,13 @@
         "difference": "-18",
         "points": "2"
       }
-    ],
-    "id_pays": "85"
+    ]
   },
   {
     "id_championnat": "170",
     "championnat": "BGL Ligue",
     "url": "https://www.transfermarkt.fr/bgl-ligue/tabelle/wettbewerb/LUX1/saison_id/2025",
+    "id_pays": "32",
     "saison": 2025,
     "equipes": [
       {
@@ -31055,13 +31056,13 @@
         "difference": "-16",
         "points": "7"
       }
-    ],
-    "id_pays": "32"
+    ]
   },
   {
     "id_championnat": "171",
     "championnat": "Super Liga",
     "url": "https://www.transfermarkt.fr/super-liga/tabelle/wettbewerb/MO1N/saison_id/2025",
+    "id_pays": "33",
     "saison": 2025,
     "equipes": [
       {
@@ -31160,13 +31161,13 @@
         "difference": "-42",
         "points": "10"
       }
-    ],
-    "id_pays": "33"
+    ]
   },
   {
     "id_championnat": "172",
     "championnat": "National League Championship",
     "url": "https://www.transfermarkt.fr/national-league-championship/tabelle/wettbewerb/NZNL/saison_id/2025",
+    "id_pays": "71",
     "saison": 2025,
     "equipes": [
       {
@@ -31301,13 +31302,13 @@
         "difference": "-16",
         "points": "4"
       }
-    ],
-    "id_pays": "71"
+    ]
   },
   {
     "id_championnat": "173",
     "championnat": "Premier League",
     "url": "https://www.transfermarkt.fr/ghana-premier-league/tabelle/wettbewerb/GHPL/saison_id/2025",
+    "id_pays": "114",
     "saison": 2025,
     "equipes": [
       {
@@ -31526,13 +31527,13 @@
         "difference": "-10",
         "points": "2"
       }
-    ],
-    "id_pays": "114"
+    ]
   },
   {
     "id_championnat": "174",
     "championnat": "CanPL",
     "url": "https://www.transfermarkt.fr/canadian-premier-league/tabelle/wettbewerb/CDN1/saison_id/2025",
+    "id_pays": "89",
     "saison": 2025,
     "equipes": [
       {
@@ -31643,13 +31644,13 @@
         "difference": "0",
         "points": "0"
       }
-    ],
-    "id_pays": "89"
+    ]
   },
   {
     "id_championnat": "175",
     "championnat": "Hong Kong Premier League",
     "url": "https://www.transfermarkt.fr/hong-kong-premier-league/tabelle/wettbewerb/HGKG/saison_id/2025",
+    "id_pays": "72",
     "saison": 2025,
     "equipes": [
       {
@@ -31772,13 +31773,13 @@
         "difference": "-19",
         "points": "3"
       }
-    ],
-    "id_pays": "72"
+    ]
   },
   {
     "id_championnat": "176",
     "championnat": "Vysshaya Liga",
     "url": "https://www.transfermarkt.fr/vysshaya-liga/tabelle/wettbewerb/TAD1/saison_id/2025",
+    "id_pays": "73",
     "saison": 2025,
     "equipes": [
       {
@@ -31925,13 +31926,13 @@
         "difference": "-25",
         "points": "12"
       }
-    ],
-    "id_pays": "73"
+    ]
   },
   {
     "id_championnat": "177",
     "championnat": "National League - North",
     "url": "https://www.transfermarkt.fr/national-league-north/tabelle/wettbewerb/NNL1/saison_id/2025",
+    "id_pays": "71",
     "saison": 2025,
     "equipes": [
       {
@@ -32078,13 +32079,13 @@
         "difference": "-20",
         "points": "15"
       }
-    ],
-    "id_pays": "71"
+    ]
   },
   {
     "id_championnat": "178",
     "championnat": "Primera Divisió",
     "url": "https://www.transfermarkt.fr/primera-divisio/tabelle/wettbewerb/AND1/saison_id/2025",
+    "id_pays": "3",
     "saison": 2025,
     "equipes": [
       {
@@ -32207,13 +32208,13 @@
         "difference": "-6",
         "points": "-2"
       }
-    ],
-    "id_pays": "3"
+    ]
   },
   {
     "id_championnat": "180",
     "championnat": "Premier League",
     "url": "https://www.transfermarkt.fr/singapore-premier-league/tabelle/wettbewerb/SIN1/saison_id/2025",
+    "id_pays": "82",
     "saison": 2025,
     "equipes": [
       {
@@ -32312,13 +32313,13 @@
         "difference": "-13",
         "points": "0"
       }
-    ],
-    "id_pays": "82"
+    ]
   },
   {
     "id_championnat": "181",
     "championnat": "Fiji Premier League",
     "url": "https://www.transfermarkt.fr/fiji-premier-league/tabelle/wettbewerb/FIJ1/saison_id/2025",
+    "id_pays": "74",
     "saison": 2025,
     "equipes": [
       {
@@ -32441,13 +32442,13 @@
         "difference": "-39",
         "points": "3"
       }
-    ],
-    "id_pays": "74"
+    ]
   },
   {
     "id_championnat": "182",
     "championnat": "Myanmar National League",
     "url": "https://www.transfermarkt.fr/myanmar-national-league/tabelle/wettbewerb/MYA1/saison_id/2025",
+    "id_pays": "75",
     "saison": 2025,
     "equipes": [
       {
@@ -32594,13 +32595,13 @@
         "difference": "-21",
         "points": "2"
       }
-    ],
-    "id_pays": "75"
+    ]
   },
   {
     "id_championnat": "183",
     "championnat": "C. Premier League",
     "url": "https://www.transfermarkt.fr/cambodian-premier-league/tabelle/wettbewerb/KHM1/saison_id/2025",
+    "id_pays": "57",
     "saison": 2025,
     "equipes": [
       {
@@ -32735,13 +32736,13 @@
         "difference": "-20",
         "points": "4"
       }
-    ],
-    "id_pays": "57"
+    ]
   },
   {
     "id_championnat": "184",
     "championnat": "Bangladesh PL",
     "url": "https://www.transfermarkt.fr/bangladesh-premier-league/tabelle/wettbewerb/BGD1/saison_id/2025",
+    "id_pays": "76",
     "saison": 2025,
     "equipes": [
       {
@@ -32864,13 +32865,13 @@
         "difference": "-2",
         "points": "1"
       }
-    ],
-    "id_pays": "76"
+    ]
   },
   {
     "id_championnat": "185",
     "championnat": "Cymru Premier",
     "url": "https://www.transfermarkt.fr/cymru-premier/tabelle/wettbewerb/WAL1/saison_id/2025",
+    "id_pays": "38",
     "saison": 2025,
     "equipes": [
       {
@@ -33017,13 +33018,13 @@
         "difference": "-37",
         "points": "8"
       }
-    ],
-    "id_pays": "38"
+    ]
   },
   {
     "id_championnat": "186",
     "championnat": "Liga FUTVE 2",
     "url": "https://www.transfermarkt.fr/liga-futve-2/tabelle/wettbewerb/VN2A/saison_id/2025",
+    "id_pays": "106",
     "saison": 2025,
     "equipes": [
       {
@@ -33122,13 +33123,13 @@
         "difference": "-25",
         "points": "22"
       }
-    ],
-    "id_pays": "106"
+    ]
   },
   {
     "id_championnat": "187",
     "championnat": "Betri-deildin",
     "url": "https://www.transfermarkt.fr/betri-deildin/tabelle/wettbewerb/FARO/saison_id/2025",
+    "id_pays": "52",
     "saison": 2025,
     "equipes": [
       {
@@ -33251,13 +33252,13 @@
         "difference": "-63",
         "points": "13"
       }
-    ],
-    "id_pays": "52"
+    ]
   },
   {
     "id_championnat": "188",
     "championnat": "PFL",
     "url": "https://www.transfermarkt.fr/philippines-football-league/tabelle/wettbewerb/PFL1/saison_id/2025",
+    "id_pays": "77",
     "saison": 2025,
     "equipes": [
       {
@@ -33392,13 +33393,13 @@
         "difference": "-47",
         "points": "0"
       }
-    ],
-    "id_pays": "77"
+    ]
   },
   {
     "id_championnat": "189",
     "championnat": "I-League",
     "url": "https://www.transfermarkt.fr/i-league/tabelle/wettbewerb/INIL/saison_id/2025",
+    "id_pays": "64",
     "saison": 2025,
     "equipes": [
       {
@@ -33533,13 +33534,13 @@
         "difference": "0",
         "points": "0"
       }
-    ],
-    "id_pays": "64"
+    ]
   },
   {
     "id_championnat": "190",
     "championnat": "National League - Central",
     "url": "https://www.transfermarkt.fr/national-league-central/tabelle/wettbewerb/NCL1/saison_id/2025",
+    "id_pays": "71",
     "saison": 2025,
     "equipes": [
       {
@@ -33662,13 +33663,13 @@
         "difference": "-40",
         "points": "12"
       }
-    ],
-    "id_pays": "71"
+    ]
   },
   {
     "id_championnat": "191",
     "championnat": "Gibraltar Football League",
     "url": "https://www.transfermarkt.fr/gibraltar-football-league/tabelle/wettbewerb/GI1/saison_id/2025",
+    "id_pays": "20",
     "saison": 2025,
     "equipes": [
       {
@@ -33815,13 +33816,13 @@
         "difference": "-19",
         "points": "5"
       }
-    ],
-    "id_pays": "20"
+    ]
   },
   {
     "id_championnat": "192",
     "championnat": "Camp. Sammarinese",
     "url": "https://www.transfermarkt.fr/campionato-sammarinese/tabelle/wettbewerb/SMR1/saison_id/2025",
+    "id_pays": "47",
     "saison": 2025,
     "equipes": [
       {
@@ -34016,13 +34017,13 @@
         "difference": "-8",
         "points": "-2"
       }
-    ],
-    "id_pays": "47"
+    ]
   },
   {
     "id_championnat": "193",
     "championnat": "Liga Primera Apertura",
     "url": "https://www.transfermarkt.fr/liga-primera-de-nicaragua-apertura/tabelle/wettbewerb/NC1A/saison_id/2025",
+    "id_pays": "100",
     "saison": 2025,
     "equipes": [
       {
@@ -34145,13 +34146,13 @@
         "difference": "-22",
         "points": "10"
       }
-    ],
-    "id_pays": "100"
+    ]
   },
   {
     "id_championnat": "194",
     "championnat": "Lao League 1",
     "url": "https://www.transfermarkt.fr/lao-league-1/tabelle/wettbewerb/LAO1/saison_id/2025",
+    "id_pays": "78",
     "saison": 2025,
     "equipes": [
       {
@@ -34274,13 +34275,13 @@
         "difference": "-28",
         "points": "0"
       }
-    ],
-    "id_pays": "78"
+    ]
   },
   {
     "id_championnat": "195",
     "championnat": "Premier League",
     "url": "https://www.transfermarkt.fr/ethiopian-premier-league/tabelle/wettbewerb/ETP1/saison_id/2025",
+    "id_pays": "113",
     "saison": 2025,
     "equipes": [
       {
@@ -34523,13 +34524,13 @@
         "difference": "-8",
         "points": "0"
       }
-    ],
-    "id_pays": "113"
+    ]
   },
   {
     "id_championnat": "196",
     "championnat": "Bhutan Premier League",
     "url": "https://www.transfermarkt.fr/bhutan-premier-league/tabelle/wettbewerb/BH1L/saison_id/2025",
+    "id_pays": "79",
     "saison": 2025,
     "equipes": [
       {
@@ -34652,13 +34653,13 @@
         "difference": "-65",
         "points": "8"
       }
-    ],
-    "id_pays": "79"
+    ]
   },
   {
     "id_championnat": "197",
     "championnat": "Jamaica Premier League",
     "url": "https://www.transfermarkt.fr/jamaica-premier-league/tabelle/wettbewerb/JPL1/saison_id/2025",
+    "id_pays": "98",
     "saison": 2025,
     "equipes": [
       {
@@ -34829,13 +34830,13 @@
         "difference": "-15",
         "points": "2"
       }
-    ],
-    "id_pays": "98"
+    ]
   },
   {
     "id_championnat": "198",
     "championnat": "NPFL",
     "url": "https://www.transfermarkt.fr/nigeria-professional-football-league/tabelle/wettbewerb/NPFL/saison_id/2025",
+    "id_pays": "117",
     "saison": 2025,
     "equipes": [
       {
@@ -35078,13 +35079,13 @@
         "difference": "-8",
         "points": "6"
       }
-    ],
-    "id_pays": "117"
+    ]
   },
   {
     "id_championnat": "199",
     "championnat": "Uganda Premier League",
     "url": "https://www.transfermarkt.fr/uganda-premier-league/tabelle/wettbewerb/UGL1/saison_id/2025",
+    "id_pays": "118",
     "saison": 2025,
     "equipes": [
       {
@@ -35279,13 +35280,13 @@
         "difference": "-9",
         "points": "1"
       }
-    ],
-    "id_pays": "118"
+    ]
   },
   {
     "id_championnat": "200",
     "championnat": "Second Division",
     "url": "https://www.transfermarkt.fr/second-division/tabelle/wettbewerb/SC3/saison_id/2025",
+    "id_pays": "23",
     "saison": 2025,
     "equipes": [
       {
@@ -35295,9 +35296,9 @@
         "victoires": "11",
         "nuls": "1",
         "defaites": "2",
-        "buts_pour": "23",
+        "buts_pour": "24",
         "buts_contre": "8",
-        "difference": "15",
+        "difference": "16",
         "points": "29"
       },
       {
@@ -35356,8 +35357,8 @@
         "nuls": "3",
         "defaites": "6",
         "buts_pour": "19",
-        "buts_contre": "18",
-        "difference": "1",
+        "buts_contre": "19",
+        "difference": "0",
         "points": "21"
       },
       {
@@ -35408,13 +35409,13 @@
         "difference": "-18",
         "points": "9"
       }
-    ],
-    "id_pays": "23"
+    ]
   },
   {
     "id_championnat": "201",
     "championnat": "Liga Dominicana de Fútbol",
     "url": "https://www.transfermarkt.fr/liga-dominicana-de-futbol/tabelle/wettbewerb/DOM1/saison_id/2025",
+    "id_pays": "108",
     "saison": 2025,
     "equipes": [
       {
@@ -35537,13 +35538,13 @@
         "difference": "-43",
         "points": "2"
       }
-    ],
-    "id_pays": "108"
+    ]
   },
   {
     "id_championnat": "202",
     "championnat": "Liga Puerto Rico Apertura",
     "url": "https://www.transfermarkt.fr/liga-puerto-rico-apertura/tabelle/wettbewerb/PRA1/saison_id/2025",
+    "id_pays": "103",
     "saison": 2025,
     "equipes": [
       {
@@ -35666,13 +35667,13 @@
         "difference": "-63",
         "points": "4"
       }
-    ],
-    "id_pays": "103"
+    ]
   },
   {
     "id_championnat": "203",
     "championnat": "Nepal Super League",
     "url": "https://www.transfermarkt.fr/nepal-super-league/tabelle/wettbewerb/NPL1/saison_id/2025",
+    "id_pays": "80",
     "saison": 2025,
     "equipes": [
       {
@@ -35759,13 +35760,13 @@
         "difference": "-9",
         "points": "1"
       }
-    ],
-    "id_pays": "80"
+    ]
   },
   {
     "id_championnat": "204",
     "championnat": "D1 Comores",
     "url": "https://www.transfermarkt.fr/championnat-des-comores-de-d1/tabelle/wettbewerb/COM1/saison_id/2025",
+    "id_pays": "111",
     "saison": 2025,
     "equipes": [
       {
@@ -35912,13 +35913,13 @@
         "difference": "-7",
         "points": "5"
       }
-    ],
-    "id_pays": "111"
+    ]
   },
   {
     "id_championnat": "205",
     "championnat": "Ligue 1",
     "url": "https://www.transfermarkt.fr/ligue-1/tabelle/wettbewerb/SEN1/saison_id/2025",
+    "id_pays": "119",
     "saison": 2025,
     "equipes": [
       {
@@ -36113,7 +36114,6 @@
         "difference": "-3",
         "points": "1"
       }
-    ],
-    "id_pays": "119"
+    ]
   }
 ]
