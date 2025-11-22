@@ -18962,6 +18962,18 @@
       },
       {
         "position": "6",
+        "nom": "Arema FC",
+        "matchs": "12",
+        "victoires": "5",
+        "nuls": "3",
+        "defaites": "4",
+        "buts_pour": "18",
+        "buts_contre": "16",
+        "difference": "2",
+        "points": "18"
+      },
+      {
+        "position": "7",
         "nom": "Persita",
         "matchs": "11",
         "victoires": "5",
@@ -18973,7 +18985,7 @@
         "points": "18"
       },
       {
-        "position": "7",
+        "position": "8",
         "nom": "Bhayangkara FC",
         "matchs": "12",
         "victoires": "5",
@@ -18985,31 +18997,7 @@
         "points": "18"
       },
       {
-        "position": "8",
-        "nom": "Persebaya Surab",
-        "matchs": "11",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "3",
-        "buts_pour": "12",
-        "buts_contre": "10",
-        "difference": "2",
-        "points": "16"
-      },
-      {
         "position": "9",
-        "nom": "Arema FC",
-        "matchs": "12",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "4",
-        "buts_pour": "17",
-        "buts_contre": "16",
-        "difference": "1",
-        "points": "16"
-      },
-      {
-        "position": "10",
         "nom": "PSM Makassar",
         "matchs": "11",
         "victoires": "3",
@@ -19018,6 +19006,18 @@
         "buts_pour": "15",
         "buts_contre": "9",
         "difference": "6",
+        "points": "15"
+      },
+      {
+        "position": "10",
+        "nom": "Persebaya Surab",
+        "matchs": "11",
+        "victoires": "4",
+        "nuls": "3",
+        "defaites": "4",
+        "buts_pour": "12",
+        "buts_contre": "11",
+        "difference": "1",
         "points": "15"
       },
       {
@@ -21949,18 +21949,30 @@
       },
       {
         "position": "4",
-        "nom": "Terengganu FC",
+        "nom": "N. Sembilan FC",
         "matchs": "9",
         "victoires": "4",
-        "nuls": "2",
-        "defaites": "3",
-        "buts_pour": "20",
-        "buts_contre": "14",
-        "difference": "6",
-        "points": "14"
+        "nuls": "3",
+        "defaites": "2",
+        "buts_pour": "17",
+        "buts_contre": "13",
+        "difference": "4",
+        "points": "15"
       },
       {
         "position": "5",
+        "nom": "Terengganu FC",
+        "matchs": "9",
+        "victoires": "4",
+        "nuls": "1",
+        "defaites": "4",
+        "buts_pour": "20",
+        "buts_contre": "15",
+        "difference": "5",
+        "points": "13"
+      },
+      {
+        "position": "6",
         "nom": "Selangor FC",
         "matchs": "8",
         "victoires": "4",
@@ -21969,18 +21981,6 @@
         "buts_pour": "14",
         "buts_contre": "10",
         "difference": "4",
-        "points": "13"
-      },
-      {
-        "position": "6",
-        "nom": "N. Sembilan FC",
-        "matchs": "9",
-        "victoires": "3",
-        "nuls": "4",
-        "defaites": "2",
-        "buts_pour": "16",
-        "buts_contre": "13",
-        "difference": "3",
         "points": "13"
       },
       {
