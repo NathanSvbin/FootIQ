@@ -26,8 +26,8 @@ def lire_championnats_csv(fichier_csv):
                 id = row[0]
                 nom = row[1].strip()
                 lien = row[2].strip()
-                lien_classement = lien.replace("startseite", "tabelle") + "/saison_id/2025"
                 pays = row[4]
+                lien_classement = lien.replace("startseite", "tabelle") + "/saison_id/2025"
                 championnats.append((id, nom, lien_classement, pays))
     return championnats
 
@@ -106,6 +106,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
