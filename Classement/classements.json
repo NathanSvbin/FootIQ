@@ -12161,6 +12161,18 @@
       },
       {
         "position": "9",
+        "nom": "FC Imabari",
+        "matchs": "37",
+        "victoires": "14",
+        "nuls": "13",
+        "defaites": "10",
+        "buts_pour": "46",
+        "buts_contre": "40",
+        "difference": "6",
+        "points": "55"
+      },
+      {
+        "position": "10",
         "nom": "Iwaki FC",
         "matchs": "37",
         "victoires": "14",
@@ -12169,18 +12181,6 @@
         "buts_pour": "54",
         "buts_contre": "44",
         "difference": "10",
-        "points": "53"
-      },
-      {
-        "position": "10",
-        "nom": "FC Imabari",
-        "matchs": "37",
-        "victoires": "13",
-        "nuls": "14",
-        "defaites": "10",
-        "buts_pour": "45",
-        "buts_contre": "40",
-        "difference": "5",
         "points": "53"
       },
       {
@@ -12200,12 +12200,12 @@
         "nom": "H. C. Sapporo",
         "matchs": "37",
         "victoires": "15",
-        "nuls": "5",
-        "defaites": "17",
+        "nuls": "4",
+        "defaites": "18",
         "buts_pour": "46",
-        "buts_contre": "62",
-        "difference": "-16",
-        "points": "50"
+        "buts_contre": "63",
+        "difference": "-17",
+        "points": "49"
       },
       {
         "position": "13",
@@ -17210,6 +17210,18 @@
       },
       {
         "position": "8",
+        "nom": "Newcastle",
+        "matchs": "5",
+        "victoires": "2",
+        "nuls": "0",
+        "defaites": "3",
+        "buts_pour": "9",
+        "buts_contre": "12",
+        "difference": "-3",
+        "points": "6"
+      },
+      {
+        "position": "9",
         "nom": "Wellington",
         "matchs": "5",
         "victoires": "1",
@@ -17221,7 +17233,7 @@
         "points": "5"
       },
       {
-        "position": "9",
+        "position": "10",
         "nom": "Western Sydney",
         "matchs": "5",
         "victoires": "1",
@@ -17233,7 +17245,7 @@
         "points": "5"
       },
       {
-        "position": "10",
+        "position": "11",
         "nom": "Melbourne Vict.",
         "matchs": "5",
         "victoires": "1",
@@ -17245,27 +17257,15 @@
         "points": "4"
       },
       {
-        "position": "11",
-        "nom": "Newcastle",
-        "matchs": "4",
-        "victoires": "1",
-        "nuls": "0",
-        "defaites": "3",
-        "buts_pour": "8",
-        "buts_contre": "12",
-        "difference": "-4",
-        "points": "3"
-      },
-      {
         "position": "12",
         "nom": "Perth Glory",
-        "matchs": "4",
+        "matchs": "5",
         "victoires": "0",
         "nuls": "1",
-        "defaites": "3",
+        "defaites": "4",
         "buts_pour": "2",
-        "buts_contre": "9",
-        "difference": "-7",
+        "buts_contre": "10",
+        "difference": "-8",
         "points": "1"
       }
     ]
@@ -17294,12 +17294,12 @@
         "nom": "Suwon Bluewings",
         "matchs": "39",
         "victoires": "20",
-        "nuls": "11",
-        "defaites": "8",
-        "buts_pour": "75",
+        "nuls": "12",
+        "defaites": "7",
+        "buts_pour": "76",
         "buts_contre": "50",
-        "difference": "25",
-        "points": "71"
+        "difference": "26",
+        "points": "72"
       },
       {
         "position": "3",
@@ -17320,9 +17320,9 @@
         "victoires": "17",
         "nuls": "14",
         "defaites": "8",
-        "buts_pour": "61",
+        "buts_pour": "63",
         "buts_contre": "43",
-        "difference": "18",
+        "difference": "20",
         "points": "65"
       },
       {
@@ -17351,18 +17351,6 @@
       },
       {
         "position": "7",
-        "nom": "Gimpo FC",
-        "matchs": "39",
-        "victoires": "15",
-        "nuls": "12",
-        "defaites": "12",
-        "buts_pour": "48",
-        "buts_contre": "36",
-        "difference": "12",
-        "points": "57"
-      },
-      {
-        "position": "8",
         "nom": "Busan IPark",
         "matchs": "39",
         "victoires": "14",
@@ -17372,6 +17360,18 @@
         "buts_contre": "45",
         "difference": "2",
         "points": "56"
+      },
+      {
+        "position": "8",
+        "nom": "Gimpo FC",
+        "matchs": "39",
+        "victoires": "14",
+        "nuls": "13",
+        "defaites": "12",
+        "buts_pour": "48",
+        "buts_contre": "37",
+        "difference": "11",
+        "points": "55"
       },
       {
         "position": "9",
@@ -17404,9 +17404,9 @@
         "victoires": "11",
         "nuls": "7",
         "defaites": "21",
-        "buts_pour": "33",
+        "buts_pour": "34",
         "buts_contre": "58",
-        "difference": "-25",
+        "difference": "-24",
         "points": "40"
       },
       {
@@ -17429,8 +17429,8 @@
         "nuls": "9",
         "defaites": "23",
         "buts_pour": "41",
-        "buts_contre": "69",
-        "difference": "-28",
+        "buts_contre": "70",
+        "difference": "-29",
         "points": "30"
       },
       {
@@ -17441,8 +17441,8 @@
         "nuls": "12",
         "defaites": "22",
         "buts_pour": "25",
-        "buts_contre": "57",
-        "difference": "-32",
+        "buts_contre": "59",
+        "difference": "-34",
         "points": "27"
       }
     ]
