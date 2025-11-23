@@ -12245,18 +12245,6 @@
       },
       {
         "position": "16",
-        "nom": "Roasso Kumamoto",
-        "matchs": "37",
-        "victoires": "10",
-        "nuls": "8",
-        "defaites": "19",
-        "buts_pour": "41",
-        "buts_contre": "56",
-        "difference": "-15",
-        "points": "38"
-      },
-      {
-        "position": "17",
         "nom": "Oita Trinita",
         "matchs": "37",
         "victoires": "8",
@@ -12266,6 +12254,18 @@
         "buts_contre": "42",
         "difference": "-15",
         "points": "38"
+      },
+      {
+        "position": "17",
+        "nom": "Roasso Kumamoto",
+        "matchs": "37",
+        "victoires": "9",
+        "nuls": "9",
+        "defaites": "19",
+        "buts_pour": "41",
+        "buts_contre": "57",
+        "difference": "-16",
+        "points": "36"
       },
       {
         "position": "18",
@@ -12296,12 +12296,12 @@
         "nom": "Ehime FC",
         "matchs": "37",
         "victoires": "3",
-        "nuls": "12",
-        "defaites": "22",
-        "buts_pour": "34",
+        "nuls": "13",
+        "defaites": "21",
+        "buts_pour": "35",
         "buts_contre": "68",
-        "difference": "-34",
-        "points": "21"
+        "difference": "-33",
+        "points": "22"
       }
     ]
   },
@@ -34559,8 +34559,8 @@
         "nuls": "2",
         "defaites": "1",
         "buts_pour": "17",
-        "buts_contre": "9",
-        "difference": "8",
+        "buts_contre": "10",
+        "difference": "7",
         "points": "17"
       },
       {
@@ -34606,9 +34606,9 @@
         "victoires": "3",
         "nuls": "1",
         "defaites": "2",
-        "buts_pour": "15",
+        "buts_pour": "16",
         "buts_contre": "8",
-        "difference": "7",
+        "difference": "8",
         "points": "10"
       },
       {
