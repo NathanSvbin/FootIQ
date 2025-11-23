@@ -12089,6 +12089,18 @@
       },
       {
         "position": "3",
+        "nom": "RB Omiya",
+        "matchs": "37",
+        "victoires": "19",
+        "nuls": "9",
+        "defaites": "9",
+        "buts_pour": "58",
+        "buts_contre": "34",
+        "difference": "24",
+        "points": "66"
+      },
+      {
+        "position": "4",
         "nom": "JEF Utd. Chiba",
         "matchs": "37",
         "victoires": "19",
@@ -12100,148 +12112,136 @@
         "points": "66"
       },
       {
-        "position": "4",
-        "nom": "RB Omiya",
-        "matchs": "36",
-        "victoires": "18",
-        "nuls": "9",
-        "defaites": "9",
-        "buts_pour": "57",
-        "buts_contre": "34",
-        "difference": "23",
-        "points": "63"
-      },
-      {
         "position": "5",
-        "nom": "Tokushima Vort.",
-        "matchs": "36",
-        "victoires": "17",
-        "nuls": "10",
-        "defaites": "9",
-        "buts_pour": "42",
-        "buts_contre": "22",
-        "difference": "20",
-        "points": "61"
-      },
-      {
-        "position": "6",
         "nom": "Vegalta Sendai",
-        "matchs": "36",
+        "matchs": "37",
         "victoires": "16",
-        "nuls": "13",
+        "nuls": "14",
         "defaites": "7",
         "buts_pour": "47",
         "buts_contre": "35",
         "difference": "12",
+        "points": "62"
+      },
+      {
+        "position": "6",
+        "nom": "Tokushima Vort.",
+        "matchs": "37",
+        "victoires": "17",
+        "nuls": "10",
+        "defaites": "10",
+        "buts_pour": "42",
+        "buts_contre": "23",
+        "difference": "19",
         "points": "61"
       },
       {
         "position": "7",
         "nom": "Júbilo Iwata",
-        "matchs": "36",
+        "matchs": "37",
         "victoires": "18",
         "nuls": "6",
-        "defaites": "12",
+        "defaites": "13",
         "buts_pour": "55",
-        "buts_contre": "48",
-        "difference": "7",
+        "buts_contre": "49",
+        "difference": "6",
         "points": "60"
       },
       {
         "position": "8",
         "nom": "Sagan Tosu",
-        "matchs": "36",
+        "matchs": "37",
         "victoires": "16",
-        "nuls": "9",
+        "nuls": "10",
         "defaites": "11",
         "buts_pour": "45",
         "buts_contre": "41",
         "difference": "4",
-        "points": "57"
+        "points": "58"
       },
       {
         "position": "9",
         "nom": "Iwaki FC",
-        "matchs": "36",
+        "matchs": "37",
         "victoires": "14",
-        "nuls": "10",
+        "nuls": "11",
         "defaites": "12",
         "buts_pour": "54",
         "buts_contre": "44",
         "difference": "10",
-        "points": "52"
+        "points": "53"
       },
       {
         "position": "10",
         "nom": "FC Imabari",
-        "matchs": "36",
+        "matchs": "37",
         "victoires": "13",
-        "nuls": "13",
+        "nuls": "14",
         "defaites": "10",
         "buts_pour": "45",
         "buts_contre": "40",
         "difference": "5",
-        "points": "52"
+        "points": "53"
       },
       {
         "position": "11",
         "nom": "Monte. Yamagata",
-        "matchs": "36",
-        "victoires": "14",
+        "matchs": "37",
+        "victoires": "15",
         "nuls": "7",
         "defaites": "15",
-        "buts_pour": "54",
+        "buts_pour": "55",
         "buts_contre": "51",
-        "difference": "3",
-        "points": "49"
+        "difference": "4",
+        "points": "52"
       },
       {
         "position": "12",
         "nom": "H. C. Sapporo",
-        "matchs": "36",
+        "matchs": "37",
         "victoires": "15",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "17",
         "buts_pour": "46",
         "buts_contre": "62",
         "difference": "-16",
-        "points": "49"
+        "points": "50"
       },
       {
         "position": "13",
         "nom": "Ventforet Kofu",
-        "matchs": "36",
+        "matchs": "37",
         "victoires": "11",
-        "nuls": "10",
+        "nuls": "11",
         "defaites": "15",
         "buts_pour": "37",
         "buts_contre": "44",
         "difference": "-7",
-        "points": "43"
+        "points": "44"
       },
       {
         "position": "14",
         "nom": "Blaublitz Akita",
-        "matchs": "36",
+        "matchs": "37",
         "victoires": "11",
-        "nuls": "9",
+        "nuls": "10",
         "defaites": "16",
         "buts_pour": "42",
         "buts_contre": "55",
         "difference": "-13",
-        "points": "42"
+        "points": "43"
       },
       {
         "position": "15",
         "nom": "Fujieda MYFC",
-        "matchs": "36",
+        "matchs": "37",
         "victoires": "9",
-        "nuls": "11",
+        "nuls": "12",
         "defaites": "16",
         "buts_pour": "40",
         "buts_contre": "48",
         "difference": "-8",
-        "points": "38"
+        "points": "39"
       },
       {
         "position": "16",
@@ -12270,26 +12270,26 @@
       {
         "position": "18",
         "nom": "Reno. Yamaguchi",
-        "matchs": "36",
+        "matchs": "37",
         "victoires": "6",
-        "nuls": "14",
+        "nuls": "15",
         "defaites": "16",
         "buts_pour": "33",
         "buts_contre": "45",
         "difference": "-12",
-        "points": "32"
+        "points": "33"
       },
       {
         "position": "19",
         "nom": "Kataller Toyama",
-        "matchs": "36",
+        "matchs": "37",
         "victoires": "7",
-        "nuls": "10",
+        "nuls": "11",
         "defaites": "19",
         "buts_pour": "29",
         "buts_contre": "48",
         "difference": "-19",
-        "points": "31"
+        "points": "32"
       },
       {
         "position": "20",
@@ -17280,169 +17280,169 @@
       {
         "position": "1",
         "nom": "Incheon Utd.",
-        "matchs": "38",
+        "matchs": "39",
         "victoires": "23",
-        "nuls": "9",
+        "nuls": "10",
         "defaites": "6",
         "buts_pour": "66",
         "buts_contre": "29",
         "difference": "37",
-        "points": "78"
+        "points": "79"
       },
       {
         "position": "2",
         "nom": "Suwon Bluewings",
-        "matchs": "38",
+        "matchs": "39",
         "victoires": "20",
-        "nuls": "11",
+        "nuls": "12",
         "defaites": "7",
         "buts_pour": "75",
         "buts_contre": "49",
         "difference": "26",
-        "points": "71"
+        "points": "72"
       },
       {
         "position": "3",
         "nom": "Bucheon FC",
-        "matchs": "38",
+        "matchs": "39",
         "victoires": "19",
-        "nuls": "9",
+        "nuls": "10",
         "defaites": "10",
         "buts_pour": "59",
         "buts_contre": "49",
         "difference": "10",
-        "points": "66"
+        "points": "67"
       },
       {
         "position": "4",
         "nom": "Seoul E-Land",
-        "matchs": "38",
-        "victoires": "16",
+        "matchs": "39",
+        "victoires": "17",
         "nuls": "14",
         "defaites": "8",
-        "buts_pour": "58",
+        "buts_pour": "59",
         "buts_contre": "43",
-        "difference": "15",
-        "points": "62"
+        "difference": "16",
+        "points": "65"
       },
       {
         "position": "5",
         "nom": "Jeonnam Dragons",
-        "matchs": "38",
-        "victoires": "17",
+        "matchs": "39",
+        "victoires": "18",
         "nuls": "11",
         "defaites": "10",
-        "buts_pour": "62",
+        "buts_pour": "63",
         "buts_contre": "50",
-        "difference": "12",
-        "points": "62"
+        "difference": "13",
+        "points": "65"
       },
       {
         "position": "6",
         "nom": "Seongnam FC",
-        "matchs": "38",
+        "matchs": "39",
         "victoires": "16",
-        "nuls": "13",
+        "nuls": "14",
         "defaites": "9",
-        "buts_pour": "44",
-        "buts_contre": "31",
+        "buts_pour": "45",
+        "buts_contre": "32",
         "difference": "13",
-        "points": "61"
+        "points": "62"
       },
       {
         "position": "7",
         "nom": "Busan IPark",
-        "matchs": "38",
+        "matchs": "39",
         "victoires": "14",
-        "nuls": "13",
+        "nuls": "14",
         "defaites": "11",
-        "buts_pour": "46",
-        "buts_contre": "44",
+        "buts_pour": "47",
+        "buts_contre": "45",
         "difference": "2",
-        "points": "55"
+        "points": "56"
       },
       {
         "position": "8",
         "nom": "Gimpo FC",
-        "matchs": "38",
+        "matchs": "39",
         "victoires": "14",
-        "nuls": "12",
+        "nuls": "13",
         "defaites": "12",
         "buts_pour": "47",
         "buts_contre": "36",
         "difference": "11",
-        "points": "54"
+        "points": "55"
       },
       {
         "position": "9",
         "nom": "Chungnam Asan",
-        "matchs": "38",
+        "matchs": "39",
         "victoires": "12",
         "nuls": "14",
-        "defaites": "12",
+        "defaites": "13",
         "buts_pour": "49",
-        "buts_contre": "46",
-        "difference": "3",
+        "buts_contre": "47",
+        "difference": "2",
         "points": "50"
       },
       {
         "position": "10",
         "nom": "Hwaseong FC",
-        "matchs": "38",
+        "matchs": "39",
         "victoires": "9",
-        "nuls": "12",
+        "nuls": "13",
         "defaites": "17",
         "buts_pour": "36",
         "buts_contre": "50",
         "difference": "-14",
-        "points": "39"
+        "points": "40"
       },
       {
         "position": "11",
         "nom": "Gyeongnam FC",
-        "matchs": "38",
-        "victoires": "10",
+        "matchs": "39",
+        "victoires": "11",
         "nuls": "7",
         "defaites": "21",
-        "buts_pour": "32",
+        "buts_pour": "33",
         "buts_contre": "58",
-        "difference": "-26",
-        "points": "37"
+        "difference": "-25",
+        "points": "40"
       },
       {
         "position": "12",
         "nom": "Cheonan City",
-        "matchs": "38",
+        "matchs": "39",
         "victoires": "7",
         "nuls": "9",
-        "defaites": "22",
+        "defaites": "23",
         "buts_pour": "41",
-        "buts_contre": "68",
-        "difference": "-27",
+        "buts_contre": "69",
+        "difference": "-28",
         "points": "30"
       },
       {
         "position": "13",
         "nom": "Cheongju FC",
-        "matchs": "38",
+        "matchs": "39",
         "victoires": "6",
-        "nuls": "10",
+        "nuls": "11",
         "defaites": "22",
         "buts_pour": "29",
         "buts_contre": "62",
         "difference": "-33",
-        "points": "28"
+        "points": "29"
       },
       {
         "position": "14",
         "nom": "Ansan Greeners",
-        "matchs": "38",
+        "matchs": "39",
         "victoires": "5",
         "nuls": "12",
-        "defaites": "21",
+        "defaites": "22",
         "buts_pour": "25",
-        "buts_contre": "54",
-        "difference": "-29",
+        "buts_contre": "55",
+        "difference": "-30",
         "points": "27"
       }
     ]
@@ -33632,18 +33632,30 @@
     "equipes": [
       {
         "position": "1",
-        "nom": "Western Springs",
-        "matchs": "7",
+        "nom": "Miramar Rangers",
+        "matchs": "8",
         "victoires": "5",
         "nuls": "1",
-        "defaites": "1",
-        "buts_pour": "14",
-        "buts_contre": "6",
-        "difference": "8",
+        "defaites": "2",
+        "buts_pour": "22",
+        "buts_contre": "11",
+        "difference": "11",
         "points": "16"
       },
       {
         "position": "2",
+        "nom": "Western Springs",
+        "matchs": "8",
+        "victoires": "5",
+        "nuls": "1",
+        "defaites": "2",
+        "buts_pour": "14",
+        "buts_contre": "7",
+        "difference": "7",
+        "points": "16"
+      },
+      {
+        "position": "3",
         "nom": "Olympic",
         "matchs": "8",
         "victoires": "5",
@@ -33655,7 +33667,7 @@
         "points": "15"
       },
       {
-        "position": "3",
+        "position": "4",
         "nom": "Christchurch",
         "matchs": "9",
         "victoires": "4",
@@ -33667,7 +33679,7 @@
         "points": "14"
       },
       {
-        "position": "4",
+        "position": "5",
         "nom": "Auckland City",
         "matchs": "8",
         "victoires": "4",
@@ -33677,18 +33689,6 @@
         "buts_contre": "13",
         "difference": "0",
         "points": "14"
-      },
-      {
-        "position": "5",
-        "nom": "Miramar Rangers",
-        "matchs": "7",
-        "victoires": "4",
-        "nuls": "1",
-        "defaites": "2",
-        "buts_pour": "18",
-        "buts_contre": "10",
-        "difference": "8",
-        "points": "13"
       },
       {
         "position": "6",
@@ -33704,39 +33704,39 @@
       },
       {
         "position": "7",
-        "nom": "Birkenhead",
-        "matchs": "7",
+        "nom": "Western Suburbs",
+        "matchs": "8",
         "victoires": "3",
-        "nuls": "0",
+        "nuls": "1",
         "defaites": "4",
-        "buts_pour": "13",
-        "buts_contre": "14",
-        "difference": "-1",
-        "points": "9"
+        "buts_pour": "16",
+        "buts_contre": "12",
+        "difference": "4",
+        "points": "10"
       },
       {
         "position": "8",
-        "nom": "Auckland Utd.",
-        "matchs": "7",
-        "victoires": "2",
-        "nuls": "2",
-        "defaites": "3",
-        "buts_pour": "11",
-        "buts_contre": "12",
-        "difference": "-1",
-        "points": "8"
+        "nom": "Birkenhead",
+        "matchs": "8",
+        "victoires": "3",
+        "nuls": "0",
+        "defaites": "5",
+        "buts_pour": "14",
+        "buts_contre": "18",
+        "difference": "-4",
+        "points": "9"
       },
       {
         "position": "9",
-        "nom": "Western Suburbs",
-        "matchs": "7",
+        "nom": "Auckland Utd.",
+        "matchs": "8",
         "victoires": "2",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "4",
-        "buts_pour": "15",
-        "buts_contre": "12",
-        "difference": "3",
-        "points": "7"
+        "buts_pour": "11",
+        "buts_contre": "13",
+        "difference": "-2",
+        "points": "8"
       },
       {
         "position": "10",
@@ -33753,14 +33753,14 @@
       {
         "position": "11",
         "nom": "Coastal Spirit",
-        "matchs": "8",
-        "victoires": "1",
+        "matchs": "9",
+        "victoires": "2",
         "nuls": "1",
         "defaites": "6",
-        "buts_pour": "4",
+        "buts_pour": "5",
         "buts_contre": "20",
-        "difference": "-16",
-        "points": "4"
+        "difference": "-15",
+        "points": "7"
       }
     ]
   },
