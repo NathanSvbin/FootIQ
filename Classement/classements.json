@@ -1458,14 +1458,14 @@
       {
         "position": "22",
         "nom": "Sheff Utd",
-        "matchs": "15",
-        "victoires": "3",
+        "matchs": "16",
+        "victoires": "4",
         "nuls": "1",
         "defaites": "11",
-        "buts_pour": "11",
+        "buts_pour": "12",
         "buts_contre": "26",
-        "difference": "-15",
-        "points": "10"
+        "difference": "-14",
+        "points": "13"
       },
       {
         "position": "23",
@@ -1482,13 +1482,13 @@
       {
         "position": "24",
         "nom": "Sheff Wed",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "1",
         "nuls": "5",
-        "defaites": "9",
+        "defaites": "10",
         "buts_pour": "12",
-        "buts_contre": "29",
-        "difference": "-17",
+        "buts_contre": "30",
+        "difference": "-18",
         "points": "8"
       }
     ]
@@ -2417,12 +2417,12 @@
         "nom": "AZ Alkmaar",
         "matchs": "13",
         "victoires": "7",
-        "nuls": "4",
-        "defaites": "2",
+        "nuls": "3",
+        "defaites": "3",
         "buts_pour": "25",
-        "buts_contre": "18",
-        "difference": "7",
-        "points": "25"
+        "buts_contre": "20",
+        "difference": "5",
+        "points": "24"
       },
       {
         "position": "4",
@@ -2486,6 +2486,18 @@
       },
       {
         "position": "9",
+        "nom": "Heerenveen",
+        "matchs": "13",
+        "victoires": "4",
+        "nuls": "5",
+        "defaites": "4",
+        "buts_pour": "21",
+        "buts_contre": "21",
+        "difference": "0",
+        "points": "17"
+      },
+      {
+        "position": "10",
         "nom": "Fortuna Sittard",
         "matchs": "13",
         "victoires": "5",
@@ -2497,7 +2509,7 @@
         "points": "17"
       },
       {
-        "position": "10",
+        "position": "11",
         "nom": "Sparta R.",
         "matchs": "13",
         "victoires": "5",
@@ -2509,7 +2521,7 @@
         "points": "17"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "Go Ahead Eagles",
         "matchs": "13",
         "victoires": "4",
@@ -2519,18 +2531,6 @@
         "buts_contre": "22",
         "difference": "-1",
         "points": "16"
-      },
-      {
-        "position": "12",
-        "nom": "Heerenveen",
-        "matchs": "13",
-        "victoires": "3",
-        "nuls": "6",
-        "defaites": "4",
-        "buts_pour": "19",
-        "buts_contre": "21",
-        "difference": "-2",
-        "points": "15"
       },
       {
         "position": "13",
@@ -2865,14 +2865,14 @@
       {
         "position": "3",
         "nom": "Zenit S-Pb",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "8",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "1",
         "buts_pour": "29",
         "buts_contre": "12",
         "difference": "17",
-        "points": "30"
+        "points": "31"
       },
       {
         "position": "4",
@@ -3008,6 +3008,18 @@
       },
       {
         "position": "15",
+        "nom": "Pari NN",
+        "matchs": "16",
+        "victoires": "2",
+        "nuls": "3",
+        "defaites": "11",
+        "buts_pour": "9",
+        "buts_contre": "25",
+        "difference": "-16",
+        "points": "9"
+      },
+      {
+        "position": "16",
         "nom": "FK Sochi",
         "matchs": "16",
         "victoires": "2",
@@ -3016,18 +3028,6 @@
         "buts_pour": "14",
         "buts_contre": "37",
         "difference": "-23",
-        "points": "8"
-      },
-      {
-        "position": "16",
-        "nom": "Pari NN",
-        "matchs": "15",
-        "victoires": "2",
-        "nuls": "2",
-        "defaites": "11",
-        "buts_pour": "9",
-        "buts_contre": "25",
-        "difference": "-16",
         "points": "8"
       }
     ]
@@ -5342,8 +5342,8 @@
         "nuls": "2",
         "defaites": "4",
         "buts_pour": "22",
-        "buts_contre": "19",
-        "difference": "3",
+        "buts_contre": "20",
+        "difference": "2",
         "points": "23"
       },
       {
@@ -5413,9 +5413,9 @@
         "victoires": "4",
         "nuls": "4",
         "defaites": "5",
-        "buts_pour": "11",
+        "buts_pour": "12",
         "buts_contre": "14",
-        "difference": "-3",
+        "difference": "-2",
         "points": "16"
       },
       {
@@ -5738,6 +5738,18 @@
       },
       {
         "position": "6",
+        "nom": "Hradec Kralove",
+        "matchs": "16",
+        "victoires": "7",
+        "nuls": "5",
+        "defaites": "4",
+        "buts_pour": "25",
+        "buts_contre": "20",
+        "difference": "5",
+        "points": "26"
+      },
+      {
+        "position": "7",
         "nom": "Viktoria Plzen",
         "matchs": "15",
         "victoires": "7",
@@ -5747,18 +5759,6 @@
         "buts_contre": "19",
         "difference": "9",
         "points": "25"
-      },
-      {
-        "position": "7",
-        "nom": "Hradec Kralove",
-        "matchs": "15",
-        "victoires": "6",
-        "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "24",
-        "buts_contre": "20",
-        "difference": "4",
-        "points": "23"
       },
       {
         "position": "8",
@@ -5775,13 +5775,13 @@
       {
         "position": "9",
         "nom": "Karvina",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "7",
         "nuls": "1",
-        "defaites": "7",
+        "defaites": "8",
         "buts_pour": "24",
-        "buts_contre": "26",
-        "difference": "-2",
+        "buts_contre": "27",
+        "difference": "-3",
         "points": "22"
       },
       {
@@ -7632,17 +7632,29 @@
       {
         "position": "9",
         "nom": "IMT Belgrad",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "5",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "7",
         "buts_pour": "17",
         "buts_contre": "30",
         "difference": "-13",
-        "points": "18"
+        "points": "19"
       },
       {
         "position": "10",
+        "nom": "Mladost",
+        "matchs": "15",
+        "victoires": "4",
+        "nuls": "6",
+        "defaites": "5",
+        "buts_pour": "12",
+        "buts_contre": "18",
+        "difference": "-6",
+        "points": "18"
+      },
+      {
+        "position": "11",
         "nom": "Javor-Matis",
         "matchs": "15",
         "victoires": "4",
@@ -7651,18 +7663,6 @@
         "buts_pour": "19",
         "buts_contre": "24",
         "difference": "-5",
-        "points": "17"
-      },
-      {
-        "position": "11",
-        "nom": "Mladost",
-        "matchs": "14",
-        "victoires": "4",
-        "nuls": "5",
-        "defaites": "5",
-        "buts_pour": "12",
-        "buts_contre": "18",
-        "difference": "-6",
         "points": "17"
       },
       {
@@ -10400,12 +10400,12 @@
         "nom": "Bodrum FK",
         "matchs": "14",
         "victoires": "8",
-        "nuls": "4",
-        "defaites": "2",
+        "nuls": "3",
+        "defaites": "3",
         "buts_pour": "32",
-        "buts_contre": "12",
-        "difference": "20",
-        "points": "28"
+        "buts_contre": "13",
+        "difference": "19",
+        "points": "27"
       },
       {
         "position": "3",
@@ -10451,8 +10451,8 @@
         "nuls": "8",
         "defaites": "1",
         "buts_pour": "24",
-        "buts_contre": "13",
-        "difference": "11",
+        "buts_contre": "14",
+        "difference": "10",
         "points": "23"
       },
       {
@@ -10474,9 +10474,9 @@
         "victoires": "6",
         "nuls": "4",
         "defaites": "4",
-        "buts_pour": "21",
+        "buts_pour": "22",
         "buts_contre": "20",
-        "difference": "1",
+        "difference": "2",
         "points": "22"
       },
       {
@@ -10565,6 +10565,18 @@
       },
       {
         "position": "16",
+        "nom": "Ümraniyespor",
+        "matchs": "14",
+        "victoires": "4",
+        "nuls": "2",
+        "defaites": "8",
+        "buts_pour": "9",
+        "buts_contre": "21",
+        "difference": "-12",
+        "points": "14"
+      },
+      {
+        "position": "17",
         "nom": "Manisa FK",
         "matchs": "14",
         "victoires": "3",
@@ -10574,18 +10586,6 @@
         "buts_contre": "26",
         "difference": "-5",
         "points": "13"
-      },
-      {
-        "position": "17",
-        "nom": "Ümraniyespor",
-        "matchs": "14",
-        "victoires": "3",
-        "nuls": "3",
-        "defaites": "8",
-        "buts_pour": "8",
-        "buts_contre": "21",
-        "difference": "-13",
-        "points": "12"
       },
       {
         "position": "18",
@@ -10919,18 +10919,6 @@
       },
       {
         "position": "10",
-        "nom": "Portimonense",
-        "matchs": "11",
-        "victoires": "3",
-        "nuls": "4",
-        "defaites": "4",
-        "buts_pour": "13",
-        "buts_contre": "18",
-        "difference": "-5",
-        "points": "13"
-      },
-      {
-        "position": "11",
         "nom": "Leixões",
         "matchs": "12",
         "victoires": "4",
@@ -10942,7 +10930,7 @@
         "points": "13"
       },
       {
-        "position": "12",
+        "position": "11",
         "nom": "Feirense",
         "matchs": "11",
         "victoires": "3",
@@ -10954,7 +10942,7 @@
         "points": "12"
       },
       {
-        "position": "13",
+        "position": "12",
         "nom": "Oliveirense",
         "matchs": "11",
         "victoires": "2",
@@ -10966,7 +10954,7 @@
         "points": "12"
       },
       {
-        "position": "14",
+        "position": "13",
         "nom": "Felgueiras",
         "matchs": "11",
         "victoires": "3",
@@ -10975,6 +10963,18 @@
         "buts_pour": "12",
         "buts_contre": "17",
         "difference": "-5",
+        "points": "12"
+      },
+      {
+        "position": "14",
+        "nom": "Portimonense",
+        "matchs": "11",
+        "victoires": "3",
+        "nuls": "3",
+        "defaites": "5",
+        "buts_pour": "13",
+        "buts_contre": "19",
+        "difference": "-6",
         "points": "12"
       },
       {
@@ -11003,6 +11003,18 @@
       },
       {
         "position": "17",
+        "nom": "FC Porto B",
+        "matchs": "11",
+        "victoires": "3",
+        "nuls": "2",
+        "defaites": "6",
+        "buts_pour": "8",
+        "buts_contre": "16",
+        "difference": "-8",
+        "points": "11"
+      },
+      {
+        "position": "18",
         "nom": "Benfica B",
         "matchs": "11",
         "victoires": "2",
@@ -11012,18 +11024,6 @@
         "buts_contre": "19",
         "difference": "-3",
         "points": "10"
-      },
-      {
-        "position": "18",
-        "nom": "FC Porto B",
-        "matchs": "11",
-        "victoires": "2",
-        "nuls": "3",
-        "defaites": "6",
-        "buts_pour": "7",
-        "buts_contre": "16",
-        "difference": "-9",
-        "points": "9"
       }
     ]
   },
@@ -12520,9 +12520,9 @@
         "victoires": "14",
         "nuls": "3",
         "defaites": "3",
-        "buts_pour": "26",
+        "buts_pour": "27",
         "buts_contre": "11",
-        "difference": "15",
+        "difference": "16",
         "points": "45"
       },
       {
@@ -12689,8 +12689,8 @@
         "nuls": "7",
         "defaites": "9",
         "buts_pour": "23",
-        "buts_contre": "27",
-        "difference": "-4",
+        "buts_contre": "28",
+        "difference": "-5",
         "points": "19"
       },
       {
@@ -14341,8 +14341,8 @@
         "victoires": "5",
         "nuls": "3",
         "defaites": "6",
-        "buts_pour": "23",
-        "buts_contre": "17",
+        "buts_pour": "24",
+        "buts_contre": "18",
         "difference": "6",
         "points": "18"
       },
@@ -14353,8 +14353,8 @@
         "victoires": "4",
         "nuls": "5",
         "defaites": "6",
-        "buts_pour": "17",
-        "buts_contre": "18",
+        "buts_pour": "18",
+        "buts_contre": "19",
         "difference": "-1",
         "points": "17"
       },
@@ -18321,14 +18321,14 @@
       {
         "position": "6",
         "nom": "Al-Raed",
-        "matchs": "8",
+        "matchs": "9",
         "victoires": "4",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "1",
         "buts_pour": "15",
         "buts_contre": "9",
         "difference": "6",
-        "points": "15"
+        "points": "16"
       },
       {
         "position": "7",
@@ -18345,14 +18345,14 @@
       {
         "position": "8",
         "nom": "Al-Jabalain",
-        "matchs": "8",
+        "matchs": "9",
         "victoires": "3",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "2",
         "buts_pour": "15",
         "buts_contre": "10",
         "difference": "5",
-        "points": "12"
+        "points": "13"
       },
       {
         "position": "9",
@@ -18758,18 +18758,6 @@
       },
       {
         "position": "7",
-        "nom": "Rayong FC",
-        "matchs": "12",
-        "victoires": "4",
-        "nuls": "5",
-        "defaites": "3",
-        "buts_pour": "16",
-        "buts_contre": "13",
-        "difference": "3",
-        "points": "17"
-      },
-      {
-        "position": "8",
         "nom": "PT Prachuap FC",
         "matchs": "12",
         "victoires": "4",
@@ -18779,6 +18767,18 @@
         "buts_contre": "14",
         "difference": "2",
         "points": "17"
+      },
+      {
+        "position": "8",
+        "nom": "Rayong FC",
+        "matchs": "12",
+        "victoires": "4",
+        "nuls": "4",
+        "defaites": "4",
+        "buts_pour": "16",
+        "buts_contre": "14",
+        "difference": "2",
+        "points": "16"
       },
       {
         "position": "9",
@@ -18819,17 +18819,29 @@
       {
         "position": "12",
         "nom": "Uthai Thani",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "2",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "5",
         "buts_pour": "14",
         "buts_contre": "21",
         "difference": "-7",
-        "points": "10"
+        "points": "11"
       },
       {
         "position": "13",
+        "nom": "Kanchanaburi FC",
+        "matchs": "12",
+        "victoires": "2",
+        "nuls": "5",
+        "defaites": "5",
+        "buts_pour": "12",
+        "buts_contre": "22",
+        "difference": "-10",
+        "points": "11"
+      },
+      {
+        "position": "14",
         "nom": "Muangthong Utd.",
         "matchs": "12",
         "victoires": "2",
@@ -18841,19 +18853,19 @@
         "points": "10"
       },
       {
-        "position": "14",
-        "nom": "Kanchanaburi FC",
+        "position": "15",
+        "nom": "Lamphun Warrior",
         "matchs": "12",
         "victoires": "1",
-        "nuls": "6",
-        "defaites": "5",
-        "buts_pour": "11",
-        "buts_contre": "22",
-        "difference": "-11",
-        "points": "9"
+        "nuls": "5",
+        "defaites": "6",
+        "buts_pour": "15",
+        "buts_contre": "28",
+        "difference": "-13",
+        "points": "8"
       },
       {
-        "position": "15",
+        "position": "16",
         "nom": "Swat Cat",
         "matchs": "12",
         "victoires": "1",
@@ -18862,18 +18874,6 @@
         "buts_pour": "7",
         "buts_contre": "18",
         "difference": "-11",
-        "points": "7"
-      },
-      {
-        "position": "16",
-        "nom": "Lamphun Warrior",
-        "matchs": "11",
-        "victoires": "1",
-        "nuls": "4",
-        "defaites": "6",
-        "buts_pour": "15",
-        "buts_contre": "28",
-        "difference": "-13",
         "points": "7"
       }
     ]
@@ -19209,14 +19209,14 @@
       {
         "position": "11",
         "nom": "Bali United",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "3",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "4",
         "buts_pour": "15",
         "buts_contre": "18",
         "difference": "-3",
-        "points": "13"
+        "points": "14"
       },
       {
         "position": "12",
@@ -19293,14 +19293,14 @@
       {
         "position": "18",
         "nom": "PERSIS",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "1",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "7",
         "buts_pour": "11",
         "buts_contre": "22",
         "difference": "-11",
-        "points": "6"
+        "points": "7"
       }
     ]
   },
@@ -21337,9 +21337,9 @@
         "victoires": "11",
         "nuls": "7",
         "defaites": "11",
-        "buts_pour": "35",
+        "buts_pour": "37",
         "buts_contre": "41",
-        "difference": "-6",
+        "difference": "-4",
         "points": "40"
       },
       {
@@ -21386,8 +21386,8 @@
         "nuls": "4",
         "defaites": "18",
         "buts_pour": "33",
-        "buts_contre": "52",
-        "difference": "-19",
+        "buts_contre": "54",
+        "difference": "-21",
         "points": "25"
       },
       {
@@ -22231,13 +22231,13 @@
         "position": "9",
         "nom": "Penang",
         "matchs": "9",
-        "victoires": "1",
-        "nuls": "3",
+        "victoires": "2",
+        "nuls": "2",
         "defaites": "5",
-        "buts_pour": "6",
+        "buts_pour": "7",
         "buts_contre": "17",
-        "difference": "-11",
-        "points": "6"
+        "difference": "-10",
+        "points": "8"
       },
       {
         "position": "10",
@@ -22253,18 +22253,6 @@
       },
       {
         "position": "11",
-        "nom": "Sabah",
-        "matchs": "9",
-        "victoires": "0",
-        "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "6",
-        "buts_contre": "19",
-        "difference": "-13",
-        "points": "5"
-      },
-      {
-        "position": "12",
         "nom": "DPMM FC",
         "matchs": "9",
         "victoires": "1",
@@ -22274,6 +22262,18 @@
         "buts_contre": "29",
         "difference": "-23",
         "points": "5"
+      },
+      {
+        "position": "12",
+        "nom": "Sabah",
+        "matchs": "9",
+        "victoires": "0",
+        "nuls": "4",
+        "defaites": "5",
+        "buts_pour": "6",
+        "buts_contre": "20",
+        "difference": "-14",
+        "points": "4"
       },
       {
         "position": "13",
@@ -22360,25 +22360,25 @@
         "position": "6",
         "nom": "FC Van",
         "matchs": "14",
-        "victoires": "5",
+        "victoires": "6",
         "nuls": "2",
-        "defaites": "7",
-        "buts_pour": "15",
-        "buts_contre": "21",
-        "difference": "-6",
-        "points": "17"
+        "defaites": "6",
+        "buts_pour": "16",
+        "buts_contre": "20",
+        "difference": "-4",
+        "points": "20"
       },
       {
         "position": "7",
         "nom": "BKMA Yerevan",
         "matchs": "13",
-        "victoires": "3",
+        "victoires": "2",
         "nuls": "5",
-        "defaites": "5",
-        "buts_pour": "17",
-        "buts_contre": "18",
-        "difference": "-1",
-        "points": "14"
+        "defaites": "6",
+        "buts_pour": "16",
+        "buts_contre": "19",
+        "difference": "-3",
+        "points": "11"
       },
       {
         "position": "8",
@@ -24658,9 +24658,9 @@
         "victoires": "14",
         "nuls": "3",
         "defaites": "0",
-        "buts_pour": "38",
+        "buts_pour": "39",
         "buts_contre": "12",
-        "difference": "26",
+        "difference": "27",
         "points": "45"
       },
       {
@@ -24707,21 +24707,21 @@
         "nuls": "3",
         "defaites": "5",
         "buts_pour": "20",
-        "buts_contre": "16",
-        "difference": "4",
+        "buts_contre": "17",
+        "difference": "3",
         "points": "30"
       },
       {
         "position": "6",
         "nom": "Prykarpattya",
-        "matchs": "16",
-        "victoires": "6",
+        "matchs": "17",
+        "victoires": "7",
         "nuls": "4",
         "defaites": "6",
-        "buts_pour": "21",
+        "buts_pour": "22",
         "buts_contre": "20",
-        "difference": "1",
-        "points": "22"
+        "difference": "2",
+        "points": "25"
       },
       {
         "position": "7",
@@ -24798,13 +24798,13 @@
       {
         "position": "13",
         "nom": "Feniks-Mariupol",
-        "matchs": "16",
+        "matchs": "17",
         "victoires": "4",
         "nuls": "3",
-        "defaites": "9",
+        "defaites": "10",
         "buts_pour": "10",
-        "buts_contre": "18",
-        "difference": "-8",
+        "buts_contre": "19",
+        "difference": "-9",
         "points": "15"
       },
       {
@@ -29879,6 +29879,18 @@
       },
       {
         "position": "7",
+        "nom": "Nongbua FC",
+        "matchs": "13",
+        "victoires": "5",
+        "nuls": "3",
+        "defaites": "5",
+        "buts_pour": "20",
+        "buts_contre": "22",
+        "difference": "-2",
+        "points": "18"
+      },
+      {
+        "position": "8",
         "nom": "Khon Kaen Utd.",
         "matchs": "13",
         "victoires": "4",
@@ -29890,7 +29902,7 @@
         "points": "17"
       },
       {
-        "position": "8",
+        "position": "9",
         "nom": "Mahasarakham FC",
         "matchs": "13",
         "victoires": "4",
@@ -29902,7 +29914,19 @@
         "points": "17"
       },
       {
-        "position": "9",
+        "position": "10",
+        "nom": "Chiangmai Utd.",
+        "matchs": "13",
+        "victoires": "5",
+        "nuls": "2",
+        "defaites": "6",
+        "buts_pour": "20",
+        "buts_contre": "20",
+        "difference": "0",
+        "points": "17"
+      },
+      {
+        "position": "11",
         "nom": "Pattani FC",
         "matchs": "13",
         "victoires": "4",
@@ -29914,52 +29938,28 @@
         "points": "17"
       },
       {
-        "position": "10",
+        "position": "12",
         "nom": "Chanthaburi",
         "matchs": "13",
-        "victoires": "5",
-        "nuls": "2",
+        "victoires": "4",
+        "nuls": "3",
         "defaites": "6",
         "buts_pour": "15",
-        "buts_contre": "19",
-        "difference": "-4",
-        "points": "17"
-      },
-      {
-        "position": "11",
-        "nom": "Chiangmai Utd.",
-        "matchs": "12",
-        "victoires": "5",
-        "nuls": "1",
-        "defaites": "6",
-        "buts_pour": "19",
-        "buts_contre": "19",
-        "difference": "0",
-        "points": "16"
-      },
-      {
-        "position": "12",
-        "nom": "Nongbua FC",
-        "matchs": "13",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "5",
-        "buts_pour": "19",
-        "buts_contre": "22",
-        "difference": "-3",
-        "points": "16"
+        "buts_contre": "20",
+        "difference": "-5",
+        "points": "15"
       },
       {
         "position": "13",
         "nom": "Trat FC",
         "matchs": "13",
         "victoires": "4",
-        "nuls": "3",
-        "defaites": "6",
+        "nuls": "2",
+        "defaites": "7",
         "buts_pour": "21",
-        "buts_contre": "19",
-        "difference": "2",
-        "points": "15"
+        "buts_contre": "20",
+        "difference": "1",
+        "points": "14"
       },
       {
         "position": "14",
@@ -29976,14 +29976,14 @@
       {
         "position": "15",
         "nom": "Pattaya United",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "2",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "4",
-        "buts_pour": "14",
-        "buts_contre": "18",
+        "buts_pour": "15",
+        "buts_contre": "19",
         "difference": "-4",
-        "points": "12"
+        "points": "13"
       },
       {
         "position": "16",
@@ -30014,12 +30014,12 @@
         "nom": "Bangkok FC",
         "matchs": "13",
         "victoires": "2",
-        "nuls": "3",
-        "defaites": "8",
-        "buts_pour": "14",
+        "nuls": "4",
+        "defaites": "7",
+        "buts_pour": "15",
         "buts_contre": "24",
-        "difference": "-10",
-        "points": "9"
+        "difference": "-9",
+        "points": "10"
       }
     ]
   },
@@ -36855,14 +36855,14 @@
       {
         "position": "9",
         "nom": "Kirivong FC",
-        "matchs": "10",
-        "victoires": "2",
+        "matchs": "11",
+        "victoires": "3",
         "nuls": "1",
         "defaites": "7",
-        "buts_pour": "9",
+        "buts_pour": "11",
         "buts_contre": "22",
-        "difference": "-13",
-        "points": "7"
+        "difference": "-11",
+        "points": "10"
       },
       {
         "position": "10",
@@ -36879,13 +36879,13 @@
       {
         "position": "11",
         "nom": "Dangkor Senchey",
-        "matchs": "10",
+        "matchs": "11",
         "victoires": "1",
         "nuls": "1",
-        "defaites": "8",
+        "defaites": "9",
         "buts_pour": "9",
-        "buts_contre": "29",
-        "difference": "-20",
+        "buts_contre": "31",
+        "difference": "-22",
         "points": "4"
       }
     ]
