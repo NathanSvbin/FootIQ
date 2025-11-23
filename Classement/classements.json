@@ -1527,14 +1527,14 @@
       {
         "position": "3",
         "nom": "Cruzeiro",
-        "matchs": "34",
+        "matchs": "35",
         "victoires": "18",
-        "nuls": "11",
+        "nuls": "12",
         "defaites": "5",
         "buts_pour": "49",
         "buts_contre": "25",
         "difference": "24",
-        "points": "65"
+        "points": "66"
       },
       {
         "position": "4",
@@ -1598,6 +1598,18 @@
       },
       {
         "position": "9",
+        "nom": "Corinthians",
+        "matchs": "35",
+        "victoires": "12",
+        "nuls": "10",
+        "defaites": "13",
+        "buts_pour": "38",
+        "buts_contre": "39",
+        "difference": "-1",
+        "points": "46"
+      },
+      {
+        "position": "10",
         "nom": "RB Bragantino",
         "matchs": "35",
         "victoires": "13",
@@ -1606,18 +1618,6 @@
         "buts_pour": "40",
         "buts_contre": "53",
         "difference": "-13",
-        "points": "45"
-      },
-      {
-        "position": "10",
-        "nom": "Corinthians",
-        "matchs": "34",
-        "victoires": "12",
-        "nuls": "9",
-        "defaites": "13",
-        "buts_pour": "38",
-        "buts_contre": "39",
-        "difference": "-1",
         "points": "45"
       },
       {
@@ -9287,6 +9287,18 @@
       },
       {
         "position": "7",
+        "nom": "Colo-Colo",
+        "matchs": "28",
+        "victoires": "12",
+        "nuls": "8",
+        "defaites": "8",
+        "buts_pour": "42",
+        "buts_contre": "30",
+        "difference": "12",
+        "points": "44"
+      },
+      {
+        "position": "8",
         "nom": "Cobresal",
         "matchs": "28",
         "victoires": "13",
@@ -9296,18 +9308,6 @@
         "buts_contre": "33",
         "difference": "2",
         "points": "44"
-      },
-      {
-        "position": "8",
-        "nom": "Colo-Colo",
-        "matchs": "28",
-        "victoires": "11",
-        "nuls": "9",
-        "defaites": "8",
-        "buts_pour": "41",
-        "buts_contre": "30",
-        "difference": "11",
-        "points": "42"
       },
       {
         "position": "9",
@@ -9323,18 +9323,6 @@
       },
       {
         "position": "10",
-        "nom": "La Calera",
-        "matchs": "28",
-        "victoires": "8",
-        "nuls": "6",
-        "defaites": "14",
-        "buts_pour": "26",
-        "buts_contre": "32",
-        "difference": "-6",
-        "points": "30"
-      },
-      {
-        "position": "11",
         "nom": "Ñublense",
         "matchs": "27",
         "victoires": "7",
@@ -9344,6 +9332,18 @@
         "buts_contre": "38",
         "difference": "-12",
         "points": "30"
+      },
+      {
+        "position": "11",
+        "nom": "La Calera",
+        "matchs": "28",
+        "victoires": "8",
+        "nuls": "5",
+        "defaites": "15",
+        "buts_pour": "26",
+        "buts_contre": "33",
+        "difference": "-7",
+        "points": "29"
       },
       {
         "position": "12",
@@ -41777,6 +41777,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "US Goréenne",
+        "matchs": "4",
+        "victoires": "3",
+        "nuls": "1",
+        "defaites": "0",
+        "buts_pour": "7",
+        "buts_contre": "0",
+        "difference": "7",
+        "points": "10"
+      },
+      {
+        "position": "2",
         "nom": "Casa Sports",
         "matchs": "4",
         "victoires": "2",
@@ -41788,7 +41800,7 @@
         "points": "8"
       },
       {
-        "position": "2",
+        "position": "3",
         "nom": "AJEL Rufisque",
         "matchs": "4",
         "victoires": "2",
@@ -41801,78 +41813,78 @@
       },
       {
         "position": "3",
-        "nom": "US Goréenne",
-        "matchs": "3",
-        "victoires": "2",
-        "nuls": "1",
-        "defaites": "0",
-        "buts_pour": "5",
-        "buts_contre": "0",
-        "difference": "5",
-        "points": "7"
-      },
-      {
-        "position": "4",
         "nom": "Stade Mbour",
-        "matchs": "3",
+        "matchs": "4",
         "victoires": "2",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "0",
         "buts_pour": "5",
         "buts_contre": "2",
         "difference": "3",
-        "points": "7"
+        "points": "8"
       },
       {
         "position": "5",
         "nom": "Teungueth",
-        "matchs": "3",
+        "matchs": "4",
         "victoires": "2",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "0",
         "buts_pour": "3",
         "buts_contre": "1",
         "difference": "2",
-        "points": "7"
+        "points": "8"
       },
       {
         "position": "6",
-        "nom": "Sonacos",
-        "matchs": "3",
-        "victoires": "1",
+        "nom": "Sacré Cœur",
+        "matchs": "4",
+        "victoires": "2",
         "nuls": "1",
+        "defaites": "1",
+        "buts_pour": "4",
+        "buts_contre": "5",
+        "difference": "-1",
+        "points": "7"
+      },
+      {
+        "position": "7",
+        "nom": "Sonacos",
+        "matchs": "4",
+        "victoires": "1",
+        "nuls": "2",
         "defaites": "1",
         "buts_pour": "3",
         "buts_contre": "3",
         "difference": "0",
-        "points": "4"
+        "points": "5"
       },
       {
-        "position": "7",
-        "nom": "Pikine",
-        "matchs": "3",
-        "victoires": "1",
-        "nuls": "1",
-        "defaites": "1",
-        "buts_pour": "1",
-        "buts_contre": "1",
-        "difference": "0",
-        "points": "4"
-      },
-      {
-        "position": "7",
+        "position": "8",
         "nom": "Ouakam",
-        "matchs": "3",
+        "matchs": "4",
         "victoires": "1",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "1",
-        "buts_pour": "1",
-        "buts_contre": "1",
+        "buts_pour": "2",
+        "buts_contre": "2",
         "difference": "0",
-        "points": "4"
+        "points": "5"
       },
       {
         "position": "9",
+        "nom": "Pikine",
+        "matchs": "4",
+        "victoires": "1",
+        "nuls": "2",
+        "defaites": "1",
+        "buts_pour": "1",
+        "buts_contre": "1",
+        "difference": "0",
+        "points": "5"
+      },
+      {
+        "position": "10",
         "nom": "Génération Foot",
         "matchs": "4",
         "victoires": "1",
@@ -41884,76 +41896,64 @@
         "points": "4"
       },
       {
-        "position": "10",
-        "nom": "Sacré Cœur",
-        "matchs": "3",
-        "victoires": "1",
-        "nuls": "1",
-        "defaites": "1",
-        "buts_pour": "3",
-        "buts_contre": "5",
-        "difference": "-2",
-        "points": "4"
-      },
-      {
         "position": "11",
         "nom": "ASC HLM",
-        "matchs": "3",
+        "matchs": "4",
         "victoires": "0",
         "nuls": "3",
-        "defaites": "0",
+        "defaites": "1",
         "buts_pour": "2",
-        "buts_contre": "2",
-        "difference": "0",
+        "buts_contre": "3",
+        "difference": "-1",
         "points": "3"
       },
       {
         "position": "12",
-        "nom": "ASC La Linguère",
-        "matchs": "3",
+        "nom": "AS Cambérène",
+        "matchs": "4",
         "victoires": "0",
-        "nuls": "2",
+        "nuls": "3",
         "defaites": "1",
-        "buts_pour": "3",
-        "buts_contre": "4",
-        "difference": "-1",
-        "points": "2"
+        "buts_pour": "1",
+        "buts_contre": "5",
+        "difference": "-4",
+        "points": "3"
       },
       {
         "position": "13",
-        "nom": "AS Cambérène",
-        "matchs": "3",
+        "nom": "Wally Daan",
+        "matchs": "4",
         "victoires": "0",
         "nuls": "2",
-        "defaites": "1",
-        "buts_pour": "0",
+        "defaites": "2",
+        "buts_pour": "2",
         "buts_contre": "4",
-        "difference": "-4",
+        "difference": "-2",
         "points": "2"
       },
       {
         "position": "14",
-        "nom": "Wally Daan",
-        "matchs": "3",
+        "nom": "ASC La Linguère",
+        "matchs": "4",
         "victoires": "0",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "2",
-        "buts_pour": "1",
-        "buts_contre": "3",
-        "difference": "-2",
-        "points": "1"
+        "buts_pour": "3",
+        "buts_contre": "6",
+        "difference": "-3",
+        "points": "2"
       },
       {
         "position": "15",
         "nom": "ASC Jaraaf",
-        "matchs": "3",
+        "matchs": "4",
         "victoires": "0",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "2",
-        "buts_pour": "1",
-        "buts_contre": "4",
+        "buts_pour": "2",
+        "buts_contre": "5",
         "difference": "-3",
-        "points": "1"
+        "points": "2"
       },
       {
         "position": "16",
