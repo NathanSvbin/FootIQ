@@ -12065,42 +12065,30 @@
     "equipes": [
       {
         "position": "1",
-        "nom": "Mito HollyHock",
+        "nom": "V-V. Nagasaki",
         "matchs": "37",
         "victoires": "19",
-        "nuls": "11",
-        "defaites": "7",
-        "buts_pour": "53",
-        "buts_contre": "33",
-        "difference": "20",
-        "points": "68"
+        "nuls": "12",
+        "defaites": "6",
+        "buts_pour": "62",
+        "buts_contre": "43",
+        "difference": "19",
+        "points": "69"
       },
       {
         "position": "2",
-        "nom": "V-V. Nagasaki",
+        "nom": "Mito HollyHock",
         "matchs": "37",
-        "victoires": "18",
-        "nuls": "13",
-        "defaites": "6",
-        "buts_pour": "61",
-        "buts_contre": "43",
-        "difference": "18",
+        "victoires": "19",
+        "nuls": "10",
+        "defaites": "8",
+        "buts_pour": "53",
+        "buts_contre": "34",
+        "difference": "19",
         "points": "67"
       },
       {
         "position": "3",
-        "nom": "RB Omiya",
-        "matchs": "37",
-        "victoires": "19",
-        "nuls": "9",
-        "defaites": "9",
-        "buts_pour": "58",
-        "buts_contre": "34",
-        "difference": "24",
-        "points": "66"
-      },
-      {
-        "position": "4",
         "nom": "JEF Utd. Chiba",
         "matchs": "37",
         "victoires": "19",
@@ -12112,7 +12100,31 @@
         "points": "66"
       },
       {
+        "position": "4",
+        "nom": "Tokushima Vort.",
+        "matchs": "37",
+        "victoires": "18",
+        "nuls": "10",
+        "defaites": "9",
+        "buts_pour": "44",
+        "buts_contre": "23",
+        "difference": "21",
+        "points": "64"
+      },
+      {
         "position": "5",
+        "nom": "RB Omiya",
+        "matchs": "37",
+        "victoires": "18",
+        "nuls": "9",
+        "defaites": "10",
+        "buts_pour": "58",
+        "buts_contre": "36",
+        "difference": "22",
+        "points": "63"
+      },
+      {
+        "position": "6",
         "nom": "Vegalta Sendai",
         "matchs": "37",
         "victoires": "16",
@@ -12122,18 +12134,6 @@
         "buts_contre": "35",
         "difference": "12",
         "points": "62"
-      },
-      {
-        "position": "6",
-        "nom": "Tokushima Vort.",
-        "matchs": "37",
-        "victoires": "17",
-        "nuls": "10",
-        "defaites": "10",
-        "buts_pour": "42",
-        "buts_contre": "23",
-        "difference": "19",
-        "points": "61"
       },
       {
         "position": "7",
@@ -17282,12 +17282,12 @@
         "nom": "Incheon Utd.",
         "matchs": "39",
         "victoires": "23",
-        "nuls": "10",
-        "defaites": "6",
+        "nuls": "9",
+        "defaites": "7",
         "buts_pour": "66",
-        "buts_contre": "29",
-        "difference": "37",
-        "points": "79"
+        "buts_contre": "30",
+        "difference": "36",
+        "points": "78"
       },
       {
         "position": "2",
@@ -17320,22 +17320,22 @@
         "victoires": "17",
         "nuls": "14",
         "defaites": "8",
-        "buts_pour": "59",
+        "buts_pour": "60",
         "buts_contre": "43",
-        "difference": "16",
+        "difference": "17",
         "points": "65"
       },
       {
         "position": "5",
         "nom": "Jeonnam Dragons",
         "matchs": "39",
-        "victoires": "18",
-        "nuls": "11",
+        "victoires": "17",
+        "nuls": "12",
         "defaites": "10",
         "buts_pour": "63",
-        "buts_contre": "50",
-        "difference": "13",
-        "points": "65"
+        "buts_contre": "51",
+        "difference": "12",
+        "points": "63"
       },
       {
         "position": "6",
@@ -17378,12 +17378,12 @@
         "nom": "Chungnam Asan",
         "matchs": "39",
         "victoires": "12",
-        "nuls": "14",
-        "defaites": "13",
-        "buts_pour": "49",
+        "nuls": "15",
+        "defaites": "12",
+        "buts_pour": "50",
         "buts_contre": "47",
-        "difference": "2",
-        "points": "50"
+        "difference": "3",
+        "points": "51"
       },
       {
         "position": "10",
@@ -17411,6 +17411,18 @@
       },
       {
         "position": "12",
+        "nom": "Cheongju FC",
+        "matchs": "39",
+        "victoires": "7",
+        "nuls": "10",
+        "defaites": "22",
+        "buts_pour": "30",
+        "buts_contre": "62",
+        "difference": "-32",
+        "points": "31"
+      },
+      {
+        "position": "13",
         "nom": "Cheonan City",
         "matchs": "39",
         "victoires": "7",
@@ -17422,18 +17434,6 @@
         "points": "30"
       },
       {
-        "position": "13",
-        "nom": "Cheongju FC",
-        "matchs": "39",
-        "victoires": "6",
-        "nuls": "11",
-        "defaites": "22",
-        "buts_pour": "29",
-        "buts_contre": "62",
-        "difference": "-33",
-        "points": "29"
-      },
-      {
         "position": "14",
         "nom": "Ansan Greeners",
         "matchs": "39",
@@ -17441,8 +17441,8 @@
         "nuls": "12",
         "defaites": "22",
         "buts_pour": "25",
-        "buts_contre": "55",
-        "difference": "-30",
+        "buts_contre": "56",
+        "difference": "-31",
         "points": "27"
       }
     ]
