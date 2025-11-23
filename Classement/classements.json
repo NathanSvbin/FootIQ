@@ -12140,12 +12140,12 @@
         "nom": "Júbilo Iwata",
         "matchs": "37",
         "victoires": "18",
-        "nuls": "6",
-        "defaites": "13",
-        "buts_pour": "56",
+        "nuls": "7",
+        "defaites": "12",
+        "buts_pour": "57",
         "buts_contre": "50",
-        "difference": "6",
-        "points": "60"
+        "difference": "7",
+        "points": "61"
       },
       {
         "position": "8",
@@ -12187,13 +12187,13 @@
         "position": "11",
         "nom": "Monte. Yamagata",
         "matchs": "37",
-        "victoires": "15",
-        "nuls": "7",
+        "victoires": "14",
+        "nuls": "8",
         "defaites": "15",
         "buts_pour": "56",
-        "buts_contre": "52",
-        "difference": "4",
-        "points": "52"
+        "buts_contre": "53",
+        "difference": "3",
+        "points": "50"
       },
       {
         "position": "12",
@@ -12212,12 +12212,12 @@
         "nom": "Ventforet Kofu",
         "matchs": "37",
         "victoires": "11",
-        "nuls": "11",
-        "defaites": "15",
+        "nuls": "10",
+        "defaites": "16",
         "buts_pour": "37",
-        "buts_contre": "44",
-        "difference": "-7",
-        "points": "44"
+        "buts_contre": "45",
+        "difference": "-8",
+        "points": "43"
       },
       {
         "position": "14",
@@ -12245,6 +12245,18 @@
       },
       {
         "position": "16",
+        "nom": "Roasso Kumamoto",
+        "matchs": "37",
+        "victoires": "10",
+        "nuls": "8",
+        "defaites": "19",
+        "buts_pour": "41",
+        "buts_contre": "56",
+        "difference": "-15",
+        "points": "38"
+      },
+      {
+        "position": "17",
         "nom": "Oita Trinita",
         "matchs": "37",
         "victoires": "8",
@@ -12256,19 +12268,19 @@
         "points": "38"
       },
       {
-        "position": "17",
-        "nom": "Roasso Kumamoto",
-        "matchs": "36",
-        "victoires": "9",
-        "nuls": "8",
+        "position": "18",
+        "nom": "Kataller Toyama",
+        "matchs": "37",
+        "victoires": "8",
+        "nuls": "10",
         "defaites": "19",
-        "buts_pour": "40",
-        "buts_contre": "56",
-        "difference": "-16",
-        "points": "35"
+        "buts_pour": "30",
+        "buts_contre": "48",
+        "difference": "-18",
+        "points": "34"
       },
       {
-        "position": "18",
+        "position": "19",
         "nom": "Reno. Yamaguchi",
         "matchs": "37",
         "victoires": "6",
@@ -12280,27 +12292,15 @@
         "points": "33"
       },
       {
-        "position": "19",
-        "nom": "Kataller Toyama",
-        "matchs": "37",
-        "victoires": "7",
-        "nuls": "11",
-        "defaites": "19",
-        "buts_pour": "29",
-        "buts_contre": "48",
-        "difference": "-19",
-        "points": "32"
-      },
-      {
         "position": "20",
         "nom": "Ehime FC",
-        "matchs": "36",
+        "matchs": "37",
         "victoires": "3",
         "nuls": "12",
-        "defaites": "21",
+        "defaites": "22",
         "buts_pour": "34",
-        "buts_contre": "67",
-        "difference": "-33",
+        "buts_contre": "68",
+        "difference": "-34",
         "points": "21"
       }
     ]
@@ -12540,17 +12540,17 @@
       {
         "position": "3",
         "nom": "Rodina Moscow",
-        "matchs": "19",
+        "matchs": "20",
         "victoires": "9",
-        "nuls": "7",
+        "nuls": "8",
         "defaites": "3",
         "buts_pour": "28",
         "buts_contre": "16",
         "difference": "12",
-        "points": "34"
+        "points": "35"
       },
       {
-        "position": "3",
+        "position": "4",
         "nom": "S. Kostroma",
         "matchs": "20",
         "victoires": "9",
@@ -12648,14 +12648,14 @@
       {
         "position": "12",
         "nom": "Enisey",
-        "matchs": "19",
+        "matchs": "20",
         "victoires": "5",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "8",
         "buts_pour": "14",
         "buts_contre": "25",
         "difference": "-11",
-        "points": "21"
+        "points": "22"
       },
       {
         "position": "13",
@@ -34554,29 +34554,17 @@
       {
         "position": "1",
         "nom": "North District",
-        "matchs": "7",
+        "matchs": "8",
         "victoires": "4",
-        "nuls": "2",
+        "nuls": "3",
         "defaites": "1",
         "buts_pour": "15",
         "buts_contre": "9",
         "difference": "6",
-        "points": "14"
+        "points": "15"
       },
       {
         "position": "2",
-        "nom": "Kitchee",
-        "matchs": "6",
-        "victoires": "4",
-        "nuls": "2",
-        "defaites": "0",
-        "buts_pour": "14",
-        "buts_contre": "6",
-        "difference": "8",
-        "points": "14"
-      },
-      {
-        "position": "3",
         "nom": "Tai Po",
         "matchs": "7",
         "victoires": "4",
@@ -34588,7 +34576,31 @@
         "points": "14"
       },
       {
+        "position": "3",
+        "nom": "Kitchee",
+        "matchs": "6",
+        "victoires": "4",
+        "nuls": "2",
+        "defaites": "0",
+        "buts_pour": "14",
+        "buts_contre": "6",
+        "difference": "8",
+        "points": "14"
+      },
+      {
         "position": "4",
+        "nom": "Lee Man",
+        "matchs": "6",
+        "victoires": "3",
+        "nuls": "2",
+        "defaites": "1",
+        "buts_pour": "15",
+        "buts_contre": "6",
+        "difference": "9",
+        "points": "11"
+      },
+      {
+        "position": "5",
         "nom": "Eastern Dist.",
         "matchs": "9",
         "victoires": "3",
@@ -34598,18 +34610,6 @@
         "buts_contre": "5",
         "difference": "1",
         "points": "11"
-      },
-      {
-        "position": "5",
-        "nom": "Lee Man",
-        "matchs": "5",
-        "victoires": "3",
-        "nuls": "1",
-        "defaites": "1",
-        "buts_pour": "15",
-        "buts_contre": "6",
-        "difference": "9",
-        "points": "10"
       },
       {
         "position": "6",
