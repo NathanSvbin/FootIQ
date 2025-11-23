@@ -34555,13 +34555,13 @@
         "position": "1",
         "nom": "North District",
         "matchs": "8",
-        "victoires": "5",
-        "nuls": "2",
+        "victoires": "4",
+        "nuls": "3",
         "defaites": "1",
         "buts_pour": "17",
-        "buts_contre": "10",
-        "difference": "7",
-        "points": "17"
+        "buts_contre": "11",
+        "difference": "6",
+        "points": "15"
       },
       {
         "position": "2",
@@ -34589,6 +34589,18 @@
       },
       {
         "position": "4",
+        "nom": "Lee Man",
+        "matchs": "6",
+        "victoires": "3",
+        "nuls": "2",
+        "defaites": "1",
+        "buts_pour": "17",
+        "buts_contre": "8",
+        "difference": "9",
+        "points": "11"
+      },
+      {
+        "position": "5",
         "nom": "Eastern Dist.",
         "matchs": "9",
         "victoires": "3",
@@ -34598,18 +34610,6 @@
         "buts_contre": "5",
         "difference": "1",
         "points": "11"
-      },
-      {
-        "position": "5",
-        "nom": "Lee Man",
-        "matchs": "6",
-        "victoires": "3",
-        "nuls": "1",
-        "defaites": "2",
-        "buts_pour": "16",
-        "buts_contre": "8",
-        "difference": "8",
-        "points": "10"
       },
       {
         "position": "6",
