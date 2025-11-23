@@ -295,13 +295,13 @@
         "position": "4",
         "nom": "Atlético",
         "matchs": "13",
-        "victoires": "7",
-        "nuls": "5",
+        "victoires": "8",
+        "nuls": "4",
         "defaites": "1",
-        "buts_pour": "24",
+        "buts_pour": "25",
         "buts_contre": "11",
-        "difference": "13",
-        "points": "26"
+        "difference": "14",
+        "points": "28"
       },
       {
         "position": "5",
@@ -332,12 +332,12 @@
         "nom": "FC Getafe",
         "matchs": "13",
         "victoires": "5",
-        "nuls": "3",
-        "defaites": "5",
+        "nuls": "2",
+        "defaites": "6",
         "buts_pour": "12",
-        "buts_contre": "14",
-        "difference": "-2",
-        "points": "18"
+        "buts_contre": "15",
+        "difference": "-3",
+        "points": "17"
       },
       {
         "position": "8",
@@ -1575,17 +1575,29 @@
       {
         "position": "7",
         "nom": "EC Bahia",
-        "matchs": "34",
+        "matchs": "35",
         "victoires": "15",
-        "nuls": "8",
+        "nuls": "9",
         "defaites": "11",
         "buts_pour": "46",
         "buts_contre": "43",
         "difference": "3",
-        "points": "53"
+        "points": "54"
       },
       {
         "position": "8",
+        "nom": "FC São Paulo",
+        "matchs": "35",
+        "victoires": "13",
+        "nuls": "9",
+        "defaites": "13",
+        "buts_pour": "39",
+        "buts_contre": "39",
+        "difference": "0",
+        "points": "48"
+      },
+      {
+        "position": "9",
         "nom": "RB Bragantino",
         "matchs": "35",
         "victoires": "13",
@@ -1597,20 +1609,8 @@
         "points": "45"
       },
       {
-        "position": "9",
+        "position": "10",
         "nom": "Corinthians",
-        "matchs": "34",
-        "victoires": "12",
-        "nuls": "9",
-        "defaites": "13",
-        "buts_pour": "38",
-        "buts_contre": "39",
-        "difference": "-1",
-        "points": "45"
-      },
-      {
-        "position": "9",
-        "nom": "FC São Paulo",
         "matchs": "34",
         "victoires": "12",
         "nuls": "9",
@@ -1634,6 +1634,18 @@
       },
       {
         "position": "12",
+        "nom": "Vasco da Gama",
+        "matchs": "35",
+        "victoires": "12",
+        "nuls": "7",
+        "defaites": "16",
+        "buts_pour": "50",
+        "buts_contre": "51",
+        "difference": "-1",
+        "points": "43"
+      },
+      {
+        "position": "13",
         "nom": "Grêmio",
         "matchs": "35",
         "victoires": "11",
@@ -1643,18 +1655,6 @@
         "buts_contre": "46",
         "difference": "-7",
         "points": "43"
-      },
-      {
-        "position": "13",
-        "nom": "Vasco da Gama",
-        "matchs": "34",
-        "victoires": "12",
-        "nuls": "6",
-        "defaites": "16",
-        "buts_pour": "50",
-        "buts_contre": "51",
-        "difference": "-1",
-        "points": "42"
       },
       {
         "position": "14",
@@ -1719,13 +1719,13 @@
       {
         "position": "19",
         "nom": "Juventude",
-        "matchs": "34",
+        "matchs": "35",
         "victoires": "9",
         "nuls": "6",
-        "defaites": "19",
+        "defaites": "20",
         "buts_pour": "32",
-        "buts_contre": "62",
-        "difference": "-30",
+        "buts_contre": "63",
+        "difference": "-31",
         "points": "33"
       },
       {
@@ -2620,9 +2620,9 @@
         "victoires": "9",
         "nuls": "0",
         "defaites": "0",
-        "buts_pour": "28",
+        "buts_pour": "29",
         "buts_contre": "5",
-        "difference": "23",
+        "difference": "24",
         "points": "27"
       },
       {
@@ -2681,8 +2681,8 @@
         "nuls": "2",
         "defaites": "3",
         "buts_pour": "22",
-        "buts_contre": "13",
-        "difference": "9",
+        "buts_contre": "14",
+        "difference": "8",
         "points": "14"
       },
       {
@@ -3448,8 +3448,8 @@
         "victoires": "8",
         "nuls": "3",
         "defaites": "4",
-        "buts_pour": "20",
-        "buts_contre": "16",
+        "buts_pour": "21",
+        "buts_contre": "17",
         "difference": "4",
         "points": "27"
       },
@@ -3568,8 +3568,8 @@
         "victoires": "4",
         "nuls": "3",
         "defaites": "8",
-        "buts_pour": "15",
-        "buts_contre": "23",
+        "buts_pour": "16",
+        "buts_contre": "24",
         "difference": "-8",
         "points": "15"
       },
@@ -4095,14 +4095,14 @@
       {
         "position": "3",
         "nom": "AEK Athènes",
-        "matchs": "10",
+        "matchs": "11",
         "victoires": "7",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "2",
         "buts_pour": "11",
         "buts_contre": "7",
         "difference": "4",
-        "points": "22"
+        "points": "23"
       },
       {
         "position": "4",
@@ -4143,14 +4143,14 @@
       {
         "position": "7",
         "nom": "Aris Salonique",
-        "matchs": "10",
+        "matchs": "11",
         "victoires": "3",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "3",
         "buts_pour": "9",
         "buts_contre": "11",
         "difference": "-2",
-        "points": "13"
+        "points": "14"
       },
       {
         "position": "8",
@@ -6425,12 +6425,12 @@
         "nom": "FC Midtjylland",
         "matchs": "16",
         "victoires": "9",
-        "nuls": "6",
-        "defaites": "1",
+        "nuls": "5",
+        "defaites": "2",
         "buts_pour": "39",
-        "buts_contre": "17",
-        "difference": "22",
-        "points": "33"
+        "buts_contre": "18",
+        "difference": "21",
+        "points": "32"
       },
       {
         "position": "3",
@@ -6460,13 +6460,13 @@
         "position": "5",
         "nom": "Sönderjyske",
         "matchs": "16",
-        "victoires": "6",
-        "nuls": "5",
+        "victoires": "7",
+        "nuls": "4",
         "defaites": "5",
-        "buts_pour": "25",
+        "buts_pour": "26",
         "buts_contre": "23",
-        "difference": "2",
-        "points": "23"
+        "difference": "3",
+        "points": "25"
       },
       {
         "position": "6",
@@ -11102,8 +11102,8 @@
         "nuls": "2",
         "defaites": "6",
         "buts_pour": "28",
-        "buts_contre": "24",
-        "difference": "4",
+        "buts_contre": "26",
+        "difference": "2",
         "points": "20"
       },
       {
@@ -11149,13 +11149,13 @@
         "victoires": "3",
         "nuls": "5",
         "defaites": "6",
-        "buts_pour": "18",
+        "buts_pour": "20",
         "buts_contre": "26",
-        "difference": "-8",
+        "difference": "-6",
         "points": "14"
       },
       {
-        "position": "10",
+        "position": "11",
         "nom": "Nyíregyháza",
         "matchs": "14",
         "victoires": "3",
@@ -11441,12 +11441,12 @@
         "nom": "APOEL Nikosia",
         "matchs": "11",
         "victoires": "6",
-        "nuls": "4",
-        "defaites": "1",
+        "nuls": "3",
+        "defaites": "2",
         "buts_pour": "24",
-        "buts_contre": "9",
-        "difference": "15",
-        "points": "22"
+        "buts_contre": "10",
+        "difference": "14",
+        "points": "21"
       },
       {
         "position": "6",
@@ -11462,6 +11462,18 @@
       },
       {
         "position": "7",
+        "nom": "AEL Limassol",
+        "matchs": "11",
+        "victoires": "5",
+        "nuls": "1",
+        "defaites": "5",
+        "buts_pour": "14",
+        "buts_contre": "18",
+        "difference": "-4",
+        "points": "16"
+      },
+      {
+        "position": "8",
         "nom": "Ethnikos",
         "matchs": "11",
         "victoires": "4",
@@ -11470,18 +11482,6 @@
         "buts_pour": "15",
         "buts_contre": "19",
         "difference": "-4",
-        "points": "14"
-      },
-      {
-        "position": "8",
-        "nom": "AEL Limassol",
-        "matchs": "11",
-        "victoires": "4",
-        "nuls": "2",
-        "defaites": "5",
-        "buts_pour": "13",
-        "buts_contre": "18",
-        "difference": "-5",
         "points": "14"
       },
       {
@@ -23983,13 +23983,13 @@
         "position": "4",
         "nom": "Sliema Wander.",
         "matchs": "12",
-        "victoires": "5",
-        "nuls": "5",
+        "victoires": "6",
+        "nuls": "4",
         "defaites": "2",
-        "buts_pour": "17",
+        "buts_pour": "18",
         "buts_contre": "15",
-        "difference": "2",
-        "points": "20"
+        "difference": "3",
+        "points": "22"
       },
       {
         "position": "5",
@@ -24008,12 +24008,12 @@
         "nom": "Birkirkara FC",
         "matchs": "12",
         "victoires": "4",
-        "nuls": "5",
-        "defaites": "3",
+        "nuls": "4",
+        "defaites": "4",
         "buts_pour": "13",
-        "buts_contre": "9",
-        "difference": "4",
-        "points": "17"
+        "buts_contre": "10",
+        "difference": "3",
+        "points": "16"
       },
       {
         "position": "7",
@@ -26944,7 +26944,19 @@
         "points": "21"
       },
       {
-        "position": "5",
+        "position": "4",
+        "nom": "Xerez CD",
+        "matchs": "12",
+        "victoires": "6",
+        "nuls": "3",
+        "defaites": "3",
+        "buts_pour": "14",
+        "buts_contre": "9",
+        "difference": "5",
+        "points": "21"
+      },
+      {
+        "position": "6",
         "nom": "UCAM Murcia",
         "matchs": "11",
         "victoires": "5",
@@ -26956,31 +26968,31 @@
         "points": "19"
       },
       {
-        "position": "6",
-        "nom": "Xerez CD",
-        "matchs": "11",
-        "victoires": "5",
-        "nuls": "3",
-        "defaites": "3",
-        "buts_pour": "11",
-        "buts_contre": "8",
-        "difference": "3",
-        "points": "18"
-      },
-      {
         "position": "7",
-        "nom": "Yeclano",
-        "matchs": "11",
+        "nom": "Real Jaén CF",
+        "matchs": "12",
         "victoires": "5",
-        "nuls": "2",
-        "defaites": "4",
-        "buts_pour": "10",
-        "buts_contre": "8",
-        "difference": "2",
-        "points": "17"
+        "nuls": "4",
+        "defaites": "3",
+        "buts_pour": "14",
+        "buts_contre": "13",
+        "difference": "1",
+        "points": "19"
       },
       {
         "position": "8",
+        "nom": "Yeclano",
+        "matchs": "12",
+        "victoires": "5",
+        "nuls": "2",
+        "defaites": "5",
+        "buts_pour": "11",
+        "buts_contre": "11",
+        "difference": "0",
+        "points": "17"
+      },
+      {
+        "position": "9",
         "nom": "Linares",
         "matchs": "12",
         "victoires": "4",
@@ -26992,19 +27004,19 @@
         "points": "17"
       },
       {
-        "position": "9",
+        "position": "10",
         "nom": "Recr. Huelva",
-        "matchs": "10",
+        "matchs": "11",
         "victoires": "5",
         "nuls": "2",
-        "defaites": "3",
-        "buts_pour": "11",
-        "buts_contre": "8",
-        "difference": "3",
+        "defaites": "4",
+        "buts_pour": "12",
+        "buts_contre": "10",
+        "difference": "2",
         "points": "17"
       },
       {
-        "position": "10",
+        "position": "11",
         "nom": "CA Antoniano",
         "matchs": "12",
         "victoires": "5",
@@ -27014,18 +27026,6 @@
         "buts_contre": "14",
         "difference": "1",
         "points": "17"
-      },
-      {
-        "position": "11",
-        "nom": "Real Jaén CF",
-        "matchs": "11",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "3",
-        "buts_pour": "12",
-        "buts_contre": "12",
-        "difference": "0",
-        "points": "16"
       },
       {
         "position": "12",
@@ -27041,27 +27041,27 @@
       },
       {
         "position": "13",
-        "nom": "Puente Genil FC",
-        "matchs": "11",
+        "nom": "Xerez Deportivo",
+        "matchs": "12",
         "victoires": "3",
         "nuls": "5",
-        "defaites": "3",
-        "buts_pour": "8",
-        "buts_contre": "11",
-        "difference": "-3",
+        "defaites": "4",
+        "buts_pour": "15",
+        "buts_contre": "16",
+        "difference": "-1",
         "points": "14"
       },
       {
         "position": "14",
-        "nom": "Xerez Deportivo",
-        "matchs": "11",
-        "victoires": "2",
+        "nom": "Puente Genil FC",
+        "matchs": "12",
+        "victoires": "3",
         "nuls": "5",
         "defaites": "4",
-        "buts_pour": "14",
-        "buts_contre": "16",
-        "difference": "-2",
-        "points": "11"
+        "buts_pour": "8",
+        "buts_contre": "12",
+        "difference": "-4",
+        "points": "14"
       },
       {
         "position": "15",
@@ -34035,14 +34035,14 @@
       {
         "position": "4",
         "nom": "Real Ávila",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "6",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "2",
-        "buts_pour": "16",
-        "buts_contre": "11",
+        "buts_pour": "18",
+        "buts_contre": "13",
         "difference": "5",
-        "points": "21"
+        "points": "22"
       },
       {
         "position": "5",
@@ -34131,14 +34131,14 @@
       {
         "position": "12",
         "nom": "Valladolid Prom",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "3",
-        "nuls": "2",
+        "nuls": "3",
         "defaites": "6",
-        "buts_pour": "14",
-        "buts_contre": "16",
+        "buts_pour": "16",
+        "buts_contre": "18",
         "difference": "-2",
-        "points": "11"
+        "points": "12"
       },
       {
         "position": "13",
