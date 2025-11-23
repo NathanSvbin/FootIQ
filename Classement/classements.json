@@ -674,6 +674,18 @@
       },
       {
         "position": "15",
+        "nom": "Parma",
+        "matchs": "12",
+        "victoires": "2",
+        "nuls": "5",
+        "defaites": "5",
+        "buts_pour": "8",
+        "buts_contre": "14",
+        "difference": "-6",
+        "points": "11"
+      },
+      {
+        "position": "16",
         "nom": "Lecce",
         "matchs": "11",
         "victoires": "2",
@@ -685,7 +697,7 @@
         "points": "10"
       },
       {
-        "position": "16",
+        "position": "17",
         "nom": "Pisa",
         "matchs": "11",
         "victoires": "1",
@@ -694,18 +706,6 @@
         "buts_pour": "8",
         "buts_contre": "14",
         "difference": "-6",
-        "points": "9"
-      },
-      {
-        "position": "17",
-        "nom": "Parma",
-        "matchs": "12",
-        "victoires": "1",
-        "nuls": "6",
-        "defaites": "5",
-        "buts_pour": "7",
-        "buts_contre": "14",
-        "difference": "-7",
         "points": "9"
       },
       {
@@ -722,18 +722,6 @@
       },
       {
         "position": "19",
-        "nom": "Hellas Verona",
-        "matchs": "12",
-        "victoires": "0",
-        "nuls": "7",
-        "defaites": "5",
-        "buts_pour": "6",
-        "buts_contre": "16",
-        "difference": "-10",
-        "points": "7"
-      },
-      {
-        "position": "20",
         "nom": "Fiorentina",
         "matchs": "12",
         "victoires": "0",
@@ -742,6 +730,18 @@
         "buts_pour": "10",
         "buts_contre": "19",
         "difference": "-9",
+        "points": "6"
+      },
+      {
+        "position": "20",
+        "nom": "Hellas Verona",
+        "matchs": "12",
+        "victoires": "0",
+        "nuls": "6",
+        "defaites": "6",
+        "buts_pour": "6",
+        "buts_contre": "17",
+        "difference": "-11",
         "points": "6"
       }
     ]
@@ -10448,12 +10448,12 @@
         "nom": "Erzurumspor FK",
         "matchs": "14",
         "victoires": "5",
-        "nuls": "9",
-        "defaites": "0",
+        "nuls": "8",
+        "defaites": "1",
         "buts_pour": "24",
-        "buts_contre": "12",
-        "difference": "12",
-        "points": "24"
+        "buts_contre": "13",
+        "difference": "11",
+        "points": "23"
       },
       {
         "position": "7",
@@ -10469,6 +10469,18 @@
       },
       {
         "position": "8",
+        "nom": "Igdir FK",
+        "matchs": "14",
+        "victoires": "6",
+        "nuls": "4",
+        "defaites": "4",
+        "buts_pour": "21",
+        "buts_contre": "20",
+        "difference": "1",
+        "points": "22"
+      },
+      {
+        "position": "9",
         "nom": "Boluspor",
         "matchs": "14",
         "victoires": "5",
@@ -10480,7 +10492,7 @@
         "points": "20"
       },
       {
-        "position": "9",
+        "position": "10",
         "nom": "Van Spor FK",
         "matchs": "13",
         "victoires": "5",
@@ -10489,18 +10501,6 @@
         "buts_pour": "18",
         "buts_contre": "14",
         "difference": "4",
-        "points": "20"
-      },
-      {
-        "position": "10",
-        "nom": "Igdir FK",
-        "matchs": "14",
-        "victoires": "5",
-        "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "20",
-        "buts_contre": "20",
-        "difference": "0",
         "points": "20"
       },
       {
@@ -14341,8 +14341,8 @@
         "victoires": "5",
         "nuls": "3",
         "defaites": "6",
-        "buts_pour": "22",
-        "buts_contre": "16",
+        "buts_pour": "23",
+        "buts_contre": "17",
         "difference": "6",
         "points": "18"
       },
@@ -14353,8 +14353,8 @@
         "victoires": "4",
         "nuls": "5",
         "defaites": "6",
-        "buts_pour": "16",
-        "buts_contre": "17",
+        "buts_pour": "17",
+        "buts_contre": "18",
         "difference": "-1",
         "points": "17"
       },
@@ -22231,13 +22231,13 @@
         "position": "9",
         "nom": "Penang",
         "matchs": "9",
-        "victoires": "2",
-        "nuls": "2",
+        "victoires": "1",
+        "nuls": "3",
         "defaites": "5",
         "buts_pour": "6",
-        "buts_contre": "16",
-        "difference": "-10",
-        "points": "8"
+        "buts_contre": "17",
+        "difference": "-11",
+        "points": "6"
       },
       {
         "position": "10",
@@ -22253,6 +22253,18 @@
       },
       {
         "position": "11",
+        "nom": "Sabah",
+        "matchs": "9",
+        "victoires": "0",
+        "nuls": "5",
+        "defaites": "4",
+        "buts_pour": "6",
+        "buts_contre": "19",
+        "difference": "-13",
+        "points": "5"
+      },
+      {
+        "position": "12",
         "nom": "DPMM FC",
         "matchs": "9",
         "victoires": "1",
@@ -22262,18 +22274,6 @@
         "buts_contre": "29",
         "difference": "-23",
         "points": "5"
-      },
-      {
-        "position": "12",
-        "nom": "Sabah",
-        "matchs": "9",
-        "victoires": "0",
-        "nuls": "4",
-        "defaites": "5",
-        "buts_pour": "5",
-        "buts_contre": "19",
-        "difference": "-14",
-        "points": "4"
       },
       {
         "position": "13",
@@ -22361,24 +22361,24 @@
         "nom": "FC Van",
         "matchs": "14",
         "victoires": "5",
-        "nuls": "3",
-        "defaites": "6",
+        "nuls": "2",
+        "defaites": "7",
         "buts_pour": "15",
-        "buts_contre": "20",
-        "difference": "-5",
-        "points": "18"
+        "buts_contre": "21",
+        "difference": "-6",
+        "points": "17"
       },
       {
         "position": "7",
         "nom": "BKMA Yerevan",
         "matchs": "13",
-        "victoires": "2",
-        "nuls": "6",
+        "victoires": "3",
+        "nuls": "5",
         "defaites": "5",
-        "buts_pour": "16",
+        "buts_pour": "17",
         "buts_contre": "18",
-        "difference": "-2",
-        "points": "12"
+        "difference": "-1",
+        "points": "14"
       },
       {
         "position": "8",
