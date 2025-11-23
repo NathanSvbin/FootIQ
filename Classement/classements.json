@@ -22219,25 +22219,25 @@
         "position": "8",
         "nom": "Immigration FC",
         "matchs": "9",
-        "victoires": "1",
-        "nuls": "4",
+        "victoires": "2",
+        "nuls": "3",
         "defaites": "4",
-        "buts_pour": "6",
+        "buts_pour": "7",
         "buts_contre": "17",
-        "difference": "-11",
-        "points": "7"
+        "difference": "-10",
+        "points": "9"
       },
       {
         "position": "9",
         "nom": "PDRM FC",
         "matchs": "9",
         "victoires": "1",
-        "nuls": "4",
-        "defaites": "4",
+        "nuls": "3",
+        "defaites": "5",
         "buts_pour": "8",
-        "buts_contre": "22",
-        "difference": "-14",
-        "points": "7"
+        "buts_contre": "23",
+        "difference": "-15",
+        "points": "6"
       },
       {
         "position": "10",
@@ -39017,18 +39017,6 @@
       },
       {
         "position": "9",
-        "nom": "Lausanne II",
-        "matchs": "17",
-        "victoires": "6",
-        "nuls": "2",
-        "defaites": "9",
-        "buts_pour": "36",
-        "buts_contre": "37",
-        "difference": "-1",
-        "points": "20"
-      },
-      {
-        "position": "10",
         "nom": "FC Zürich U21",
         "matchs": "16",
         "victoires": "5",
@@ -39040,7 +39028,31 @@
         "points": "20"
       },
       {
+        "position": "10",
+        "nom": "Lausanne II",
+        "matchs": "17",
+        "victoires": "6",
+        "nuls": "1",
+        "defaites": "10",
+        "buts_pour": "36",
+        "buts_contre": "38",
+        "difference": "-2",
+        "points": "19"
+      },
+      {
         "position": "11",
+        "nom": "FC Schaffhausen",
+        "matchs": "17",
+        "victoires": "5",
+        "nuls": "4",
+        "defaites": "8",
+        "buts_pour": "21",
+        "buts_contre": "28",
+        "difference": "-7",
+        "points": "19"
+      },
+      {
+        "position": "12",
         "nom": "FC Lugano II",
         "matchs": "16",
         "victoires": "4",
@@ -39052,7 +39064,7 @@
         "points": "19"
       },
       {
-        "position": "12",
+        "position": "13",
         "nom": "FC Breitenrain",
         "matchs": "16",
         "victoires": "5",
@@ -39064,7 +39076,7 @@
         "points": "18"
       },
       {
-        "position": "13",
+        "position": "14",
         "nom": "FC Kreuzlingen",
         "matchs": "16",
         "victoires": "4",
@@ -39074,18 +39086,6 @@
         "buts_contre": "31",
         "difference": "-11",
         "points": "18"
-      },
-      {
-        "position": "14",
-        "nom": "FC Schaffhausen",
-        "matchs": "17",
-        "victoires": "4",
-        "nuls": "5",
-        "defaites": "8",
-        "buts_pour": "20",
-        "buts_contre": "28",
-        "difference": "-8",
-        "points": "17"
       },
       {
         "position": "15",
