@@ -17234,18 +17234,6 @@
       },
       {
         "position": "10",
-        "nom": "Newcastle",
-        "matchs": "5",
-        "victoires": "1",
-        "nuls": "1",
-        "defaites": "3",
-        "buts_pour": "9",
-        "buts_contre": "13",
-        "difference": "-4",
-        "points": "4"
-      },
-      {
-        "position": "11",
         "nom": "Melbourne Vict.",
         "matchs": "5",
         "victoires": "1",
@@ -17257,16 +17245,28 @@
         "points": "4"
       },
       {
-        "position": "12",
+        "position": "11",
         "nom": "Perth Glory",
         "matchs": "5",
-        "victoires": "0",
-        "nuls": "2",
+        "victoires": "1",
+        "nuls": "1",
         "defaites": "3",
-        "buts_pour": "3",
+        "buts_pour": "4",
         "buts_contre": "10",
-        "difference": "-7",
-        "points": "2"
+        "difference": "-6",
+        "points": "4"
+      },
+      {
+        "position": "12",
+        "nom": "Newcastle",
+        "matchs": "5",
+        "victoires": "1",
+        "nuls": "0",
+        "defaites": "4",
+        "buts_pour": "9",
+        "buts_contre": "14",
+        "difference": "-5",
+        "points": "3"
       }
     ]
   },
@@ -34558,9 +34558,9 @@
         "victoires": "5",
         "nuls": "2",
         "defaites": "1",
-        "buts_pour": "16",
+        "buts_pour": "17",
         "buts_contre": "9",
-        "difference": "7",
+        "difference": "8",
         "points": "17"
       },
       {
@@ -34607,8 +34607,8 @@
         "nuls": "1",
         "defaites": "2",
         "buts_pour": "15",
-        "buts_contre": "7",
-        "difference": "8",
+        "buts_contre": "8",
+        "difference": "7",
         "points": "10"
       },
       {
