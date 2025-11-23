@@ -518,6 +518,18 @@
       },
       {
         "position": "2",
+        "nom": "Inter",
+        "matchs": "12",
+        "victoires": "8",
+        "nuls": "1",
+        "defaites": "3",
+        "buts_pour": "26",
+        "buts_contre": "12",
+        "difference": "14",
+        "points": "25"
+      },
+      {
+        "position": "3",
         "nom": "Naples",
         "matchs": "12",
         "victoires": "8",
@@ -527,18 +539,6 @@
         "buts_contre": "11",
         "difference": "8",
         "points": "25"
-      },
-      {
-        "position": "3",
-        "nom": "Inter",
-        "matchs": "11",
-        "victoires": "8",
-        "nuls": "0",
-        "defaites": "3",
-        "buts_pour": "26",
-        "buts_contre": "12",
-        "difference": "14",
-        "points": "24"
       },
       {
         "position": "4",
@@ -555,14 +555,14 @@
       {
         "position": "5",
         "nom": "AC Milan",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "6",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "1",
         "buts_pour": "17",
         "buts_contre": "9",
         "difference": "8",
-        "points": "22"
+        "points": "23"
       },
       {
         "position": "6",
@@ -6788,6 +6788,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "Viking",
+        "matchs": "29",
+        "victoires": "21",
+        "nuls": "5",
+        "defaites": "3",
+        "buts_pour": "72",
+        "buts_contre": "35",
+        "difference": "37",
+        "points": "68"
+      },
+      {
+        "position": "2",
         "nom": "Bodø/Glimt",
         "matchs": "29",
         "victoires": "21",
@@ -6797,18 +6809,6 @@
         "buts_contre": "28",
         "difference": "52",
         "points": "67"
-      },
-      {
-        "position": "2",
-        "nom": "Viking",
-        "matchs": "29",
-        "victoires": "20",
-        "nuls": "6",
-        "defaites": "3",
-        "buts_pour": "71",
-        "buts_contre": "35",
-        "difference": "36",
-        "points": "66"
       },
       {
         "position": "3",
@@ -6851,12 +6851,12 @@
         "nom": "Fredrikstad",
         "matchs": "29",
         "victoires": "11",
-        "nuls": "10",
-        "defaites": "8",
+        "nuls": "9",
+        "defaites": "9",
         "buts_pour": "38",
-        "buts_contre": "29",
-        "difference": "9",
-        "points": "43"
+        "buts_contre": "30",
+        "difference": "8",
+        "points": "42"
       },
       {
         "position": "7",
@@ -10232,6 +10232,18 @@
       },
       {
         "position": "10",
+        "nom": "Petrojet",
+        "matchs": "13",
+        "victoires": "4",
+        "nuls": "6",
+        "defaites": "3",
+        "buts_pour": "13",
+        "buts_contre": "14",
+        "difference": "-1",
+        "points": "18"
+      },
+      {
+        "position": "11",
         "nom": "Bank El Ahly",
         "matchs": "13",
         "victoires": "3",
@@ -10243,7 +10255,7 @@
         "points": "17"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "Modern Sport",
         "matchs": "13",
         "victoires": "4",
@@ -10255,7 +10267,7 @@
         "points": "17"
       },
       {
-        "position": "12",
+        "position": "13",
         "nom": "El Mahalla",
         "matchs": "13",
         "victoires": "2",
@@ -10267,7 +10279,7 @@
         "points": "16"
       },
       {
-        "position": "13",
+        "position": "14",
         "nom": "Smouha",
         "matchs": "12",
         "victoires": "3",
@@ -10279,28 +10291,16 @@
         "points": "16"
       },
       {
-        "position": "14",
-        "nom": "Petrojet",
-        "matchs": "13",
-        "victoires": "3",
-        "nuls": "7",
-        "defaites": "3",
-        "buts_pour": "12",
-        "buts_contre": "14",
-        "difference": "-2",
-        "points": "16"
-      },
-      {
         "position": "15",
         "nom": "Harras Hodoud",
         "matchs": "13",
         "victoires": "3",
-        "nuls": "5",
-        "defaites": "5",
+        "nuls": "4",
+        "defaites": "6",
         "buts_pour": "10",
-        "buts_contre": "15",
-        "difference": "-5",
-        "points": "14"
+        "buts_contre": "16",
+        "difference": "-6",
+        "points": "13"
       },
       {
         "position": "16",
@@ -16335,13 +16335,13 @@
       {
         "position": "8",
         "nom": "Al-Talaba SC",
-        "matchs": "6",
+        "matchs": "7",
         "victoires": "3",
         "nuls": "2",
-        "defaites": "1",
-        "buts_pour": "6",
-        "buts_contre": "4",
-        "difference": "2",
+        "defaites": "2",
+        "buts_pour": "7",
+        "buts_contre": "6",
+        "difference": "1",
         "points": "11"
       },
       {
@@ -16407,14 +16407,14 @@
       {
         "position": "14",
         "nom": "A. Baghdad SC",
-        "matchs": "6",
-        "victoires": "2",
+        "matchs": "7",
+        "victoires": "3",
         "nuls": "0",
         "defaites": "4",
-        "buts_pour": "6",
-        "buts_contre": "10",
-        "difference": "-4",
-        "points": "6"
+        "buts_pour": "8",
+        "buts_contre": "11",
+        "difference": "-3",
+        "points": "9"
       },
       {
         "position": "15",
