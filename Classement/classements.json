@@ -12142,8 +12142,8 @@
         "victoires": "18",
         "nuls": "6",
         "defaites": "13",
-        "buts_pour": "55",
-        "buts_contre": "49",
+        "buts_pour": "56",
+        "buts_contre": "50",
         "difference": "6",
         "points": "60"
       },
@@ -12161,18 +12161,6 @@
       },
       {
         "position": "9",
-        "nom": "FC Imabari",
-        "matchs": "37",
-        "victoires": "14",
-        "nuls": "13",
-        "defaites": "10",
-        "buts_pour": "46",
-        "buts_contre": "40",
-        "difference": "6",
-        "points": "55"
-      },
-      {
-        "position": "10",
         "nom": "Iwaki FC",
         "matchs": "37",
         "victoires": "14",
@@ -12184,14 +12172,26 @@
         "points": "53"
       },
       {
+        "position": "10",
+        "nom": "FC Imabari",
+        "matchs": "37",
+        "victoires": "13",
+        "nuls": "14",
+        "defaites": "10",
+        "buts_pour": "46",
+        "buts_contre": "41",
+        "difference": "5",
+        "points": "53"
+      },
+      {
         "position": "11",
         "nom": "Monte. Yamagata",
         "matchs": "37",
         "victoires": "15",
         "nuls": "7",
         "defaites": "15",
-        "buts_pour": "55",
-        "buts_contre": "51",
+        "buts_pour": "56",
+        "buts_contre": "52",
         "difference": "4",
         "points": "52"
       },
@@ -12200,12 +12200,12 @@
         "nom": "H. C. Sapporo",
         "matchs": "37",
         "victoires": "15",
-        "nuls": "4",
-        "defaites": "18",
-        "buts_pour": "46",
+        "nuls": "5",
+        "defaites": "17",
+        "buts_pour": "47",
         "buts_contre": "63",
-        "difference": "-17",
-        "points": "49"
+        "difference": "-16",
+        "points": "50"
       },
       {
         "position": "13",
@@ -17210,18 +17210,6 @@
       },
       {
         "position": "8",
-        "nom": "Newcastle",
-        "matchs": "5",
-        "victoires": "2",
-        "nuls": "0",
-        "defaites": "3",
-        "buts_pour": "9",
-        "buts_contre": "12",
-        "difference": "-3",
-        "points": "6"
-      },
-      {
-        "position": "9",
         "nom": "Wellington",
         "matchs": "5",
         "victoires": "1",
@@ -17233,7 +17221,7 @@
         "points": "5"
       },
       {
-        "position": "10",
+        "position": "9",
         "nom": "Western Sydney",
         "matchs": "5",
         "victoires": "1",
@@ -17243,6 +17231,18 @@
         "buts_contre": "7",
         "difference": "-2",
         "points": "5"
+      },
+      {
+        "position": "10",
+        "nom": "Newcastle",
+        "matchs": "5",
+        "victoires": "1",
+        "nuls": "1",
+        "defaites": "3",
+        "buts_pour": "9",
+        "buts_contre": "13",
+        "difference": "-4",
+        "points": "4"
       },
       {
         "position": "11",
@@ -17261,12 +17261,12 @@
         "nom": "Perth Glory",
         "matchs": "5",
         "victoires": "0",
-        "nuls": "1",
-        "defaites": "4",
-        "buts_pour": "2",
+        "nuls": "2",
+        "defaites": "3",
+        "buts_pour": "3",
         "buts_contre": "10",
-        "difference": "-8",
-        "points": "1"
+        "difference": "-7",
+        "points": "2"
       }
     ]
   },
@@ -17327,6 +17327,18 @@
       },
       {
         "position": "5",
+        "nom": "Seongnam FC",
+        "matchs": "39",
+        "victoires": "17",
+        "nuls": "13",
+        "defaites": "9",
+        "buts_pour": "46",
+        "buts_contre": "32",
+        "difference": "14",
+        "points": "64"
+      },
+      {
+        "position": "6",
         "nom": "Jeonnam Dragons",
         "matchs": "39",
         "victoires": "17",
@@ -17338,31 +17350,7 @@
         "points": "63"
       },
       {
-        "position": "6",
-        "nom": "Seongnam FC",
-        "matchs": "39",
-        "victoires": "16",
-        "nuls": "14",
-        "defaites": "9",
-        "buts_pour": "45",
-        "buts_contre": "32",
-        "difference": "13",
-        "points": "62"
-      },
-      {
         "position": "7",
-        "nom": "Busan IPark",
-        "matchs": "39",
-        "victoires": "14",
-        "nuls": "14",
-        "defaites": "11",
-        "buts_pour": "47",
-        "buts_contre": "45",
-        "difference": "2",
-        "points": "56"
-      },
-      {
-        "position": "8",
         "nom": "Gimpo FC",
         "matchs": "39",
         "victoires": "14",
@@ -17371,6 +17359,18 @@
         "buts_pour": "48",
         "buts_contre": "37",
         "difference": "11",
+        "points": "55"
+      },
+      {
+        "position": "8",
+        "nom": "Busan IPark",
+        "matchs": "39",
+        "victoires": "14",
+        "nuls": "13",
+        "defaites": "12",
+        "buts_pour": "47",
+        "buts_contre": "46",
+        "difference": "1",
         "points": "55"
       },
       {
@@ -23945,6 +23945,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "Hamrun Spart.",
+        "matchs": "12",
+        "victoires": "7",
+        "nuls": "4",
+        "defaites": "1",
+        "buts_pour": "16",
+        "buts_contre": "6",
+        "difference": "10",
+        "points": "25"
+      },
+      {
+        "position": "2",
         "nom": "Floriana",
         "matchs": "11",
         "victoires": "7",
@@ -23956,27 +23968,15 @@
         "points": "23"
       },
       {
-        "position": "2",
-        "nom": "Hamrun Spart.",
-        "matchs": "11",
-        "victoires": "6",
-        "nuls": "4",
-        "defaites": "1",
-        "buts_pour": "15",
-        "buts_contre": "6",
-        "difference": "9",
-        "points": "22"
-      },
-      {
         "position": "3",
         "nom": "Valletta",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "6",
         "nuls": "4",
-        "defaites": "1",
+        "defaites": "2",
         "buts_pour": "16",
-        "buts_contre": "8",
-        "difference": "8",
+        "buts_contre": "9",
+        "difference": "7",
         "points": "22"
       },
       {
@@ -28067,6 +28067,18 @@
       },
       {
         "position": "6",
+        "nom": "Achuapa",
+        "matchs": "20",
+        "victoires": "6",
+        "nuls": "6",
+        "defaites": "8",
+        "buts_pour": "20",
+        "buts_contre": "23",
+        "difference": "-3",
+        "points": "24"
+      },
+      {
+        "position": "7",
         "nom": "Deportivo Marque",
         "matchs": "20",
         "victoires": "6",
@@ -28078,7 +28090,7 @@
         "points": "23"
       },
       {
-        "position": "7",
+        "position": "8",
         "nom": "Xelajú",
         "matchs": "20",
         "victoires": "6",
@@ -28090,7 +28102,7 @@
         "points": "22"
       },
       {
-        "position": "8",
+        "position": "9",
         "nom": "Cobán Imperial",
         "matchs": "20",
         "victoires": "6",
@@ -28102,27 +28114,15 @@
         "points": "22"
       },
       {
-        "position": "9",
-        "nom": "Achuapa",
-        "matchs": "19",
-        "victoires": "5",
-        "nuls": "6",
-        "defaites": "8",
-        "buts_pour": "19",
-        "buts_contre": "23",
-        "difference": "-4",
-        "points": "21"
-      },
-      {
         "position": "10",
         "nom": "Atl. Mictlán",
-        "matchs": "19",
+        "matchs": "20",
         "victoires": "5",
         "nuls": "5",
-        "defaites": "9",
+        "defaites": "10",
         "buts_pour": "17",
-        "buts_contre": "22",
-        "difference": "-5",
+        "buts_contre": "23",
+        "difference": "-6",
         "points": "20"
       },
       {
