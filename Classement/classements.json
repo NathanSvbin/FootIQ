@@ -17722,8 +17722,8 @@
         "victoires": "9",
         "nuls": "7",
         "defaites": "9",
-        "buts_pour": "44",
-        "buts_contre": "40",
+        "buts_pour": "45",
+        "buts_contre": "41",
         "difference": "4",
         "points": "34"
       },
@@ -17734,8 +17734,8 @@
         "victoires": "10",
         "nuls": "4",
         "defaites": "11",
-        "buts_pour": "47",
-        "buts_contre": "49",
+        "buts_pour": "48",
+        "buts_contre": "50",
         "difference": "-2",
         "points": "34"
       },
@@ -30411,26 +30411,26 @@
       {
         "position": "3",
         "nom": "FC Motagua",
-        "matchs": "16",
+        "matchs": "17",
         "victoires": "8",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "4",
-        "buts_pour": "30",
-        "buts_contre": "26",
+        "buts_pour": "31",
+        "buts_contre": "27",
         "difference": "4",
-        "points": "28"
+        "points": "29"
       },
       {
         "position": "4",
         "nom": "Real España",
-        "matchs": "17",
+        "matchs": "18",
         "victoires": "7",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "6",
-        "buts_pour": "27",
-        "buts_contre": "20",
+        "buts_pour": "28",
+        "buts_contre": "21",
         "difference": "7",
-        "points": "25"
+        "points": "26"
       },
       {
         "position": "5",
@@ -41210,6 +41210,18 @@
       },
       {
         "position": "12",
+        "nom": "Midre Genet",
+        "matchs": "6",
+        "victoires": "1",
+        "nuls": "3",
+        "defaites": "2",
+        "buts_pour": "4",
+        "buts_contre": "5",
+        "difference": "-1",
+        "points": "6"
+      },
+      {
+        "position": "12",
         "nom": "Negele Arsi",
         "matchs": "6",
         "victoires": "1",
@@ -41221,7 +41233,7 @@
         "points": "6"
       },
       {
-        "position": "13",
+        "position": "14",
         "nom": "Hadia Hosaina",
         "matchs": "6",
         "victoires": "1",
@@ -41231,18 +41243,6 @@
         "buts_contre": "6",
         "difference": "-2",
         "points": "6"
-      },
-      {
-        "position": "14",
-        "nom": "Midre Genet",
-        "matchs": "5",
-        "victoires": "1",
-        "nuls": "2",
-        "defaites": "2",
-        "buts_pour": "4",
-        "buts_contre": "5",
-        "difference": "-1",
-        "points": "5"
       },
       {
         "position": "15",
@@ -41307,14 +41307,14 @@
       {
         "position": "20",
         "nom": "Wolwalo Adigrat",
-        "matchs": "5",
+        "matchs": "6",
         "victoires": "0",
-        "nuls": "0",
+        "nuls": "1",
         "defaites": "5",
         "buts_pour": "2",
         "buts_contre": "11",
         "difference": "-9",
-        "points": "0"
+        "points": "1"
       }
     ]
   },
