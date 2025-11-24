@@ -1528,13 +1528,13 @@
         "position": "3",
         "nom": "Cruzeiro",
         "matchs": "35",
-        "victoires": "18",
-        "nuls": "12",
+        "victoires": "19",
+        "nuls": "11",
         "defaites": "5",
-        "buts_pour": "49",
+        "buts_pour": "52",
         "buts_contre": "25",
-        "difference": "24",
-        "points": "66"
+        "difference": "27",
+        "points": "68"
       },
       {
         "position": "4",
@@ -1598,18 +1598,6 @@
       },
       {
         "position": "9",
-        "nom": "Corinthians",
-        "matchs": "35",
-        "victoires": "12",
-        "nuls": "10",
-        "defaites": "13",
-        "buts_pour": "38",
-        "buts_contre": "39",
-        "difference": "-1",
-        "points": "46"
-      },
-      {
-        "position": "10",
         "nom": "RB Bragantino",
         "matchs": "35",
         "victoires": "13",
@@ -1618,6 +1606,18 @@
         "buts_pour": "40",
         "buts_contre": "53",
         "difference": "-13",
+        "points": "45"
+      },
+      {
+        "position": "10",
+        "nom": "Corinthians",
+        "matchs": "35",
+        "victoires": "12",
+        "nuls": "9",
+        "defaites": "14",
+        "buts_pour": "38",
+        "buts_contre": "42",
+        "difference": "-4",
         "points": "45"
       },
       {
@@ -9292,9 +9292,9 @@
         "victoires": "12",
         "nuls": "8",
         "defaites": "8",
-        "buts_pour": "43",
-        "buts_contre": "30",
-        "difference": "13",
+        "buts_pour": "45",
+        "buts_contre": "31",
+        "difference": "14",
         "points": "44"
       },
       {
@@ -9340,9 +9340,9 @@
         "victoires": "8",
         "nuls": "5",
         "defaites": "15",
-        "buts_pour": "26",
-        "buts_contre": "34",
-        "difference": "-8",
+        "buts_pour": "27",
+        "buts_contre": "36",
+        "difference": "-9",
         "points": "29"
       },
       {
@@ -17717,18 +17717,30 @@
       },
       {
         "position": "6",
-        "nom": "Guabirá",
-        "matchs": "24",
-        "victoires": "10",
-        "nuls": "4",
-        "defaites": "10",
-        "buts_pour": "47",
-        "buts_contre": "48",
-        "difference": "-1",
+        "nom": "SA Bulo Bulo",
+        "matchs": "25",
+        "victoires": "9",
+        "nuls": "7",
+        "defaites": "9",
+        "buts_pour": "44",
+        "buts_contre": "40",
+        "difference": "4",
         "points": "34"
       },
       {
         "position": "7",
+        "nom": "Guabirá",
+        "matchs": "25",
+        "victoires": "10",
+        "nuls": "4",
+        "defaites": "11",
+        "buts_pour": "47",
+        "buts_contre": "49",
+        "difference": "-2",
+        "points": "34"
+      },
+      {
+        "position": "8",
         "nom": "GV San José",
         "matchs": "25",
         "victoires": "10",
@@ -17740,7 +17752,7 @@
         "points": "34"
       },
       {
-        "position": "8",
+        "position": "9",
         "nom": "Nacional Potosí",
         "matchs": "25",
         "victoires": "8",
@@ -17749,18 +17761,6 @@
         "buts_pour": "42",
         "buts_contre": "34",
         "difference": "8",
-        "points": "31"
-      },
-      {
-        "position": "9",
-        "nom": "SA Bulo Bulo",
-        "matchs": "24",
-        "victoires": "8",
-        "nuls": "7",
-        "defaites": "9",
-        "buts_pour": "43",
-        "buts_contre": "40",
-        "difference": "3",
         "points": "31"
       },
       {
@@ -24396,14 +24396,14 @@
       {
         "position": "7",
         "nom": "Puntarenas FC",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "3",
-        "nuls": "7",
+        "nuls": "8",
         "defaites": "5",
-        "buts_pour": "17",
-        "buts_contre": "20",
+        "buts_pour": "18",
+        "buts_contre": "21",
         "difference": "-3",
-        "points": "16"
+        "points": "17"
       },
       {
         "position": "8",
@@ -24432,14 +24432,14 @@
       {
         "position": "10",
         "nom": "AD San Carlos",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "3",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "9",
-        "buts_pour": "13",
-        "buts_contre": "25",
+        "buts_pour": "14",
+        "buts_contre": "26",
         "difference": "-12",
-        "points": "12"
+        "points": "13"
       }
     ]
   },
@@ -30391,8 +30391,8 @@
         "victoires": "12",
         "nuls": "4",
         "defaites": "2",
-        "buts_pour": "38",
-        "buts_contre": "23",
+        "buts_pour": "40",
+        "buts_contre": "25",
         "difference": "15",
         "points": "40"
       },
@@ -30403,8 +30403,8 @@
         "victoires": "10",
         "nuls": "6",
         "defaites": "2",
-        "buts_pour": "33",
-        "buts_contre": "13",
+        "buts_pour": "35",
+        "buts_contre": "15",
         "difference": "20",
         "points": "36"
       },
@@ -41114,6 +41114,18 @@
       },
       {
         "position": "4",
+        "nom": "Ethio Electric",
+        "matchs": "6",
+        "victoires": "3",
+        "nuls": "3",
+        "defaites": "0",
+        "buts_pour": "5",
+        "buts_contre": "1",
+        "difference": "4",
+        "points": "12"
+      },
+      {
+        "position": "4",
         "nom": "Fasil Kenema",
         "matchs": "6",
         "victoires": "3",
@@ -41125,7 +41137,7 @@
         "points": "12"
       },
       {
-        "position": "5",
+        "position": "6",
         "nom": "Kidus Giorgis",
         "matchs": "6",
         "victoires": "4",
@@ -41135,18 +41147,6 @@
         "buts_contre": "3",
         "difference": "3",
         "points": "12"
-      },
-      {
-        "position": "6",
-        "nom": "Ethio Electric",
-        "matchs": "6",
-        "victoires": "2",
-        "nuls": "4",
-        "defaites": "0",
-        "buts_pour": "3",
-        "buts_contre": "1",
-        "difference": "2",
-        "points": "10"
       },
       {
         "position": "7",
@@ -41258,18 +41258,6 @@
       },
       {
         "position": "16",
-        "nom": "Arbaminch",
-        "matchs": "6",
-        "victoires": "0",
-        "nuls": "4",
-        "defaites": "2",
-        "buts_pour": "3",
-        "buts_contre": "5",
-        "difference": "-2",
-        "points": "4"
-      },
-      {
-        "position": "17",
         "nom": "Ethiopia Bunna",
         "matchs": "6",
         "victoires": "1",
@@ -41281,7 +41269,7 @@
         "points": "4"
       },
       {
-        "position": "18",
+        "position": "17",
         "nom": "Mekele 70",
         "matchs": "6",
         "victoires": "0",
@@ -41289,6 +41277,18 @@
         "defaites": "3",
         "buts_pour": "6",
         "buts_contre": "10",
+        "difference": "-4",
+        "points": "3"
+      },
+      {
+        "position": "18",
+        "nom": "Arbaminch",
+        "matchs": "6",
+        "victoires": "0",
+        "nuls": "3",
+        "defaites": "3",
+        "buts_pour": "3",
+        "buts_contre": "7",
         "difference": "-4",
         "points": "3"
       },
