@@ -1,5 +1,7 @@
 <?php
-include('../db.php');  // adapte le chemin selon ton dossier
+include('../db.php');  // garde ton fichier de connexion existant
+
+header("Content-Type: application/json; charset=UTF-8");
 
 $sql = "
     SELECT 
@@ -10,24 +12,20 @@ $sql = "
     FROM Championnat ch
     JOIN Pays p ON ch.Id_Pays = p.Id
     JOIN Continent co ON p.Id_Continent = co.Id
+    ORDER BY 1;
 ";
 
 $result = $conn->query($sql);
 
-?>
+$championnats = [];
 
-<table>
-    <tr>
-        <th>Championnat</th>
-        <th>Pays</th>
-        <th>Continent</th>
-    </tr>
+while ($row = $result->fetch_assoc()) {
+    $championnats[] = [
+        "id"        => $row["id_championnat"],
+        "nom"       => $row["nom_championnat"],
+        "pays"      => $row["nom_pays"],
+        "continent" => $row["nom_continent"]
+    ];
+}
 
-    <?php while ($row = $result->fetch_assoc()) { ?>
-    <tr>
-        <td><?= htmlspecialchars($row['nom_championnat']) ?></td>
-        <td><?= htmlspecialchars($row['nom_pays']) ?></td>
-        <td><?= htmlspecialchars($row['nom_continent']) ?></td>
-    </tr>
-    <?php } ?>
-</table>
+echo json_encode($championnats, JSON_UNESCAPED_UNICODE);
