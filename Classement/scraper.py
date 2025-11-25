@@ -29,29 +29,30 @@ PROXIES = [
 ]
 
 
+SCRAPER_API_KEY = "6262014094981633c9ac440de291c0af"
+
 def get_with_proxy(url):
-    """Essaye les proxys un par un jusqu'à trouver celui qui fonctionne."""
-    for proxy in PROXIES:
-        try:
-            print(f"🌐 Test proxy : {proxy}")
-            response = requests.get(
-                url,
-                headers=HEADERS,
-                proxies={"http": proxy, "https": proxy},
-                timeout=15
-            )
+    """Utilise ScraperAPI pour contourner Cloudflare et 403."""
+    api_url = (
+        f"http://api.scraperapi.com/"
+        f"?api_key={SCRAPER_API_KEY}"
+        f"&url={url}"
+        f"&country=fr"          # IMPORTANT ! Transfermarkt FR
+        f"&keep_headers=true"
+    )
 
-            if response.status_code == 200:
-                print(f"✔ Proxy OK : {proxy}")
-                return response
-            else:
-                print(f"❌ HTTP {response.status_code} via {proxy}")
+    try:
+        response = requests.get(api_url, headers=HEADERS, timeout=30)
+        if response.status_code == 200:
+            print("✔ ScraperAPI OK")
+            return response
+        else:
+            print(f"❌ ScraperAPI HTTP {response.status_code}")
+            return None
 
-        except Exception as e:
-            print(f"⚠️ Erreur avec proxy {proxy} : {e}")
-
-    print("🚨 Aucun proxy valide n’a été trouvé.")
-    return None
+    except Exception as e:
+        print(f"⚠️ ScraperAPI erreur : {e}")
+        return None
 
 def lire_championnats_csv(fichier_csv):
     with open(fichier_csv, "rb") as f:
@@ -149,6 +150,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
