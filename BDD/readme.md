@@ -15,3 +15,7 @@ Parcours ( Id_individu, Id_equipe, Annee_debut, Annee_fin, Id_transfert, Somme)
 Palmares Championnat ( Id_Championnat, Id_equipe, Saison )
 Statistique Championnat ( Id_championnat, But, Pd, Saison)
 Transfert ( Id, Nom )
+https://playerstats.football/leagues
+https://www.kaggle.com/datasets/davidcariboo/player-scores/data?select=competitions.csv
+https://openfootball.github.io
+https://github.com/statsbomb/open-data
