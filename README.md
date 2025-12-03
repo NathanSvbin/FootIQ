@@ -6,4 +6,4 @@ Contribueurs :
     - SABIN Nathan
     - TCHANA Owen
     - DER YAZID Ibrahim
-    - DERMOL Mathis
+    - DEMOL Mathis
